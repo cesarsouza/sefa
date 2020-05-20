@@ -11,6 +11,10 @@ using System.Threading.Tasks;
 
 namespace System.Enums.FontAwesome
 {
+    /// <summary>
+    ///   Static methods for parsing Font-Awesome .CSS files and generating C# source files.
+    /// </summary>
+    /// 
     public static partial class FontAwesomeGenerator
     {
 
@@ -101,6 +105,10 @@ namespace System.Enums.FontAwesome
             sb.AppendLine("    {");
             for (int i = 0; i < classes.Count; i++)
             {
+                sb.AppendLine($"        /// <summary>");
+                sb.AppendLine($"        ///     {titles[i]} ({classes[i]}, {chars[i]}) icon.");
+                sb.AppendLine($"        /// </summary>");
+                sb.AppendLine($"        /// ");
                 sb.AppendLine($"        [Display(Name = \"{titles[i]}\", Description = \"{classes[i]}\")]");
                 sb.AppendLine($"        {names[i]} = '\\u{chars[i]}',");
                 sb.AppendLine($"        ");
@@ -110,7 +118,7 @@ namespace System.Enums.FontAwesome
             sb.AppendLine("    public static partial class Extensions");
             sb.AppendLine("    {");
 
-            sb.AppendLine("        static Dictionary<FontAwesomeIcons, string> values = new Dictionary<FontAwesomeIcons, string>");
+            sb.AppendLine("        static readonly Dictionary<FontAwesomeIcons, string> values = new Dictionary<FontAwesomeIcons, string>");
             sb.AppendLine("        {");
             for (int i = 0; i < classes.Count; i++)
                 sb.AppendLine($"            {{ FontAwesomeIcons.{names[i]}, \"{classes[i]}\" }},");
