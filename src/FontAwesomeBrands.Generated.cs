@@ -16,3095 +16,3095 @@ namespace System.Enums
         ///     500Px ("fa-500px", \uf26e) icon.
         /// </summary>
         /// 
-        [Display(Name = "500Px", Description = "fab fa-500px")]
-        Icon500Px = '\uf26e',
+        [Display(Name = "500Px", Description = "fab fa-500px", GroupName = "Brands")]
+        F500Px = '\uf26e',
         
         /// <summary>
         ///     Accessible Icon ("fa-accessible-icon", \uf368) icon.
         /// </summary>
         /// 
-        [Display(Name = "Accessible Icon", Description = "fab fa-accessible-icon")]
-        IconAccessibleIcon = '\uf368',
+        [Display(Name = "Accessible Icon", Description = "fab fa-accessible-icon", GroupName = "Brands")]
+        AccessibleIcon = '\uf368',
         
         /// <summary>
         ///     Accusoft ("fa-accusoft", \uf369) icon.
         /// </summary>
         /// 
-        [Display(Name = "Accusoft", Description = "fab fa-accusoft")]
-        IconAccusoft = '\uf369',
+        [Display(Name = "Accusoft", Description = "fab fa-accusoft", GroupName = "Brands")]
+        Accusoft = '\uf369',
         
         /// <summary>
         ///     Acquisitions Incorporated ("fa-acquisitions-incorporated", \uf6af) icon.
         /// </summary>
         /// 
-        [Display(Name = "Acquisitions Incorporated", Description = "fab fa-acquisitions-incorporated")]
-        IconAcquisitionsIncorporated = '\uf6af',
+        [Display(Name = "Acquisitions Incorporated", Description = "fab fa-acquisitions-incorporated", GroupName = "Brands")]
+        AcquisitionsIncorporated = '\uf6af',
         
         /// <summary>
         ///     Adn ("fa-adn", \uf170) icon.
         /// </summary>
         /// 
-        [Display(Name = "Adn", Description = "fab fa-adn")]
-        IconAdn = '\uf170',
+        [Display(Name = "Adn", Description = "fab fa-adn", GroupName = "Brands")]
+        Adn = '\uf170',
         
         /// <summary>
         ///     Adobe ("fa-adobe", \uf778) icon.
         /// </summary>
         /// 
-        [Display(Name = "Adobe", Description = "fab fa-adobe")]
-        IconAdobe = '\uf778',
+        [Display(Name = "Adobe", Description = "fab fa-adobe", GroupName = "Brands")]
+        Adobe = '\uf778',
         
         /// <summary>
         ///     Adversal ("fa-adversal", \uf36a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Adversal", Description = "fab fa-adversal")]
-        IconAdversal = '\uf36a',
+        [Display(Name = "Adversal", Description = "fab fa-adversal", GroupName = "Brands")]
+        Adversal = '\uf36a',
         
         /// <summary>
         ///     Affiliatetheme ("fa-affiliatetheme", \uf36b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Affiliatetheme", Description = "fab fa-affiliatetheme")]
-        IconAffiliatetheme = '\uf36b',
+        [Display(Name = "Affiliatetheme", Description = "fab fa-affiliatetheme", GroupName = "Brands")]
+        Affiliatetheme = '\uf36b',
         
         /// <summary>
         ///     Airbnb ("fa-airbnb", \uf834) icon.
         /// </summary>
         /// 
-        [Display(Name = "Airbnb", Description = "fab fa-airbnb")]
-        IconAirbnb = '\uf834',
+        [Display(Name = "Airbnb", Description = "fab fa-airbnb", GroupName = "Brands")]
+        Airbnb = '\uf834',
         
         /// <summary>
         ///     Algolia ("fa-algolia", \uf36c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Algolia", Description = "fab fa-algolia")]
-        IconAlgolia = '\uf36c',
+        [Display(Name = "Algolia", Description = "fab fa-algolia", GroupName = "Brands")]
+        Algolia = '\uf36c',
         
         /// <summary>
         ///     Alipay ("fa-alipay", \uf642) icon.
         /// </summary>
         /// 
-        [Display(Name = "Alipay", Description = "fab fa-alipay")]
-        IconAlipay = '\uf642',
+        [Display(Name = "Alipay", Description = "fab fa-alipay", GroupName = "Brands")]
+        Alipay = '\uf642',
         
         /// <summary>
         ///     Amazon ("fa-amazon", \uf270) icon.
         /// </summary>
         /// 
-        [Display(Name = "Amazon", Description = "fab fa-amazon")]
-        IconAmazon = '\uf270',
+        [Display(Name = "Amazon", Description = "fab fa-amazon", GroupName = "Brands")]
+        Amazon = '\uf270',
         
         /// <summary>
         ///     Amazon Pay ("fa-amazon-pay", \uf42c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Amazon Pay", Description = "fab fa-amazon-pay")]
-        IconAmazonPay = '\uf42c',
+        [Display(Name = "Amazon Pay", Description = "fab fa-amazon-pay", GroupName = "Brands")]
+        AmazonPay = '\uf42c',
         
         /// <summary>
         ///     Amilia ("fa-amilia", \uf36d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Amilia", Description = "fab fa-amilia")]
-        IconAmilia = '\uf36d',
+        [Display(Name = "Amilia", Description = "fab fa-amilia", GroupName = "Brands")]
+        Amilia = '\uf36d',
         
         /// <summary>
         ///     Android ("fa-android", \uf17b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Android", Description = "fab fa-android")]
-        IconAndroid = '\uf17b',
+        [Display(Name = "Android", Description = "fab fa-android", GroupName = "Brands")]
+        Android = '\uf17b',
         
         /// <summary>
         ///     Angellist ("fa-angellist", \uf209) icon.
         /// </summary>
         /// 
-        [Display(Name = "Angellist", Description = "fab fa-angellist")]
-        IconAngellist = '\uf209',
+        [Display(Name = "Angellist", Description = "fab fa-angellist", GroupName = "Brands")]
+        Angellist = '\uf209',
         
         /// <summary>
         ///     Angrycreative ("fa-angrycreative", \uf36e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Angrycreative", Description = "fab fa-angrycreative")]
-        IconAngrycreative = '\uf36e',
+        [Display(Name = "Angrycreative", Description = "fab fa-angrycreative", GroupName = "Brands")]
+        Angrycreative = '\uf36e',
         
         /// <summary>
         ///     Angular ("fa-angular", \uf420) icon.
         /// </summary>
         /// 
-        [Display(Name = "Angular", Description = "fab fa-angular")]
-        IconAngular = '\uf420',
+        [Display(Name = "Angular", Description = "fab fa-angular", GroupName = "Brands")]
+        Angular = '\uf420',
         
         /// <summary>
         ///     Apper ("fa-apper", \uf371) icon.
         /// </summary>
         /// 
-        [Display(Name = "Apper", Description = "fab fa-apper")]
-        IconApper = '\uf371',
+        [Display(Name = "Apper", Description = "fab fa-apper", GroupName = "Brands")]
+        Apper = '\uf371',
         
         /// <summary>
         ///     Apple ("fa-apple", \uf179) icon.
         /// </summary>
         /// 
-        [Display(Name = "Apple", Description = "fab fa-apple")]
-        IconApple = '\uf179',
+        [Display(Name = "Apple", Description = "fab fa-apple", GroupName = "Brands")]
+        Apple = '\uf179',
         
         /// <summary>
         ///     Apple Pay ("fa-apple-pay", \uf415) icon.
         /// </summary>
         /// 
-        [Display(Name = "Apple Pay", Description = "fab fa-apple-pay")]
-        IconApplePay = '\uf415',
+        [Display(Name = "Apple Pay", Description = "fab fa-apple-pay", GroupName = "Brands")]
+        ApplePay = '\uf415',
         
         /// <summary>
         ///     App Store ("fa-app-store", \uf36f) icon.
         /// </summary>
         /// 
-        [Display(Name = "App Store", Description = "fab fa-app-store")]
-        IconAppStore = '\uf36f',
+        [Display(Name = "App Store", Description = "fab fa-app-store", GroupName = "Brands")]
+        AppStore = '\uf36f',
         
         /// <summary>
         ///     App Store Ios ("fa-app-store-ios", \uf370) icon.
         /// </summary>
         /// 
-        [Display(Name = "App Store Ios", Description = "fab fa-app-store-ios")]
-        IconAppStoreIos = '\uf370',
+        [Display(Name = "App Store Ios", Description = "fab fa-app-store-ios", GroupName = "Brands")]
+        AppStoreIos = '\uf370',
         
         /// <summary>
         ///     Artstation ("fa-artstation", \uf77a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Artstation", Description = "fab fa-artstation")]
-        IconArtstation = '\uf77a',
+        [Display(Name = "Artstation", Description = "fab fa-artstation", GroupName = "Brands")]
+        Artstation = '\uf77a',
         
         /// <summary>
         ///     Asymmetrik ("fa-asymmetrik", \uf372) icon.
         /// </summary>
         /// 
-        [Display(Name = "Asymmetrik", Description = "fab fa-asymmetrik")]
-        IconAsymmetrik = '\uf372',
+        [Display(Name = "Asymmetrik", Description = "fab fa-asymmetrik", GroupName = "Brands")]
+        Asymmetrik = '\uf372',
         
         /// <summary>
         ///     Atlassian ("fa-atlassian", \uf77b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Atlassian", Description = "fab fa-atlassian")]
-        IconAtlassian = '\uf77b',
+        [Display(Name = "Atlassian", Description = "fab fa-atlassian", GroupName = "Brands")]
+        Atlassian = '\uf77b',
         
         /// <summary>
         ///     Audible ("fa-audible", \uf373) icon.
         /// </summary>
         /// 
-        [Display(Name = "Audible", Description = "fab fa-audible")]
-        IconAudible = '\uf373',
+        [Display(Name = "Audible", Description = "fab fa-audible", GroupName = "Brands")]
+        Audible = '\uf373',
         
         /// <summary>
         ///     Autoprefixer ("fa-autoprefixer", \uf41c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Autoprefixer", Description = "fab fa-autoprefixer")]
-        IconAutoprefixer = '\uf41c',
+        [Display(Name = "Autoprefixer", Description = "fab fa-autoprefixer", GroupName = "Brands")]
+        Autoprefixer = '\uf41c',
         
         /// <summary>
         ///     Avianex ("fa-avianex", \uf374) icon.
         /// </summary>
         /// 
-        [Display(Name = "Avianex", Description = "fab fa-avianex")]
-        IconAvianex = '\uf374',
+        [Display(Name = "Avianex", Description = "fab fa-avianex", GroupName = "Brands")]
+        Avianex = '\uf374',
         
         /// <summary>
         ///     Aviato ("fa-aviato", \uf421) icon.
         /// </summary>
         /// 
-        [Display(Name = "Aviato", Description = "fab fa-aviato")]
-        IconAviato = '\uf421',
+        [Display(Name = "Aviato", Description = "fab fa-aviato", GroupName = "Brands")]
+        Aviato = '\uf421',
         
         /// <summary>
         ///     Aws ("fa-aws", \uf375) icon.
         /// </summary>
         /// 
-        [Display(Name = "Aws", Description = "fab fa-aws")]
-        IconAws = '\uf375',
+        [Display(Name = "Aws", Description = "fab fa-aws", GroupName = "Brands")]
+        Aws = '\uf375',
         
         /// <summary>
         ///     Bandcamp ("fa-bandcamp", \uf2d5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bandcamp", Description = "fab fa-bandcamp")]
-        IconBandcamp = '\uf2d5',
+        [Display(Name = "Bandcamp", Description = "fab fa-bandcamp", GroupName = "Brands")]
+        Bandcamp = '\uf2d5',
         
         /// <summary>
         ///     Battle Net ("fa-battle-net", \uf835) icon.
         /// </summary>
         /// 
-        [Display(Name = "Battle Net", Description = "fab fa-battle-net")]
-        IconBattleNet = '\uf835',
+        [Display(Name = "Battle Net", Description = "fab fa-battle-net", GroupName = "Brands")]
+        BattleNet = '\uf835',
         
         /// <summary>
         ///     Behance ("fa-behance", \uf1b4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Behance", Description = "fab fa-behance")]
-        IconBehance = '\uf1b4',
+        [Display(Name = "Behance", Description = "fab fa-behance", GroupName = "Brands")]
+        Behance = '\uf1b4',
         
         /// <summary>
         ///     Behance Square ("fa-behance-square", \uf1b5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Behance Square", Description = "fab fa-behance-square")]
-        IconBehanceSquare = '\uf1b5',
+        [Display(Name = "Behance Square", Description = "fab fa-behance-square", GroupName = "Brands")]
+        BehanceSquare = '\uf1b5',
         
         /// <summary>
         ///     Bimobject ("fa-bimobject", \uf378) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bimobject", Description = "fab fa-bimobject")]
-        IconBimobject = '\uf378',
+        [Display(Name = "Bimobject", Description = "fab fa-bimobject", GroupName = "Brands")]
+        Bimobject = '\uf378',
         
         /// <summary>
         ///     Bitbucket ("fa-bitbucket", \uf171) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bitbucket", Description = "fab fa-bitbucket")]
-        IconBitbucket = '\uf171',
+        [Display(Name = "Bitbucket", Description = "fab fa-bitbucket", GroupName = "Brands")]
+        Bitbucket = '\uf171',
         
         /// <summary>
         ///     Bitcoin ("fa-bitcoin", \uf379) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bitcoin", Description = "fab fa-bitcoin")]
-        IconBitcoin = '\uf379',
+        [Display(Name = "Bitcoin", Description = "fab fa-bitcoin", GroupName = "Brands")]
+        Bitcoin = '\uf379',
         
         /// <summary>
         ///     Bity ("fa-bity", \uf37a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bity", Description = "fab fa-bity")]
-        IconBity = '\uf37a',
+        [Display(Name = "Bity", Description = "fab fa-bity", GroupName = "Brands")]
+        Bity = '\uf37a',
         
         /// <summary>
         ///     Blackberry ("fa-blackberry", \uf37b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Blackberry", Description = "fab fa-blackberry")]
-        IconBlackberry = '\uf37b',
+        [Display(Name = "Blackberry", Description = "fab fa-blackberry", GroupName = "Brands")]
+        Blackberry = '\uf37b',
         
         /// <summary>
         ///     Black Tie ("fa-black-tie", \uf27e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Black Tie", Description = "fab fa-black-tie")]
-        IconBlackTie = '\uf27e',
+        [Display(Name = "Black Tie", Description = "fab fa-black-tie", GroupName = "Brands")]
+        BlackTie = '\uf27e',
         
         /// <summary>
         ///     Blogger ("fa-blogger", \uf37c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Blogger", Description = "fab fa-blogger")]
-        IconBlogger = '\uf37c',
+        [Display(Name = "Blogger", Description = "fab fa-blogger", GroupName = "Brands")]
+        Blogger = '\uf37c',
         
         /// <summary>
         ///     Blogger B ("fa-blogger-b", \uf37d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Blogger B", Description = "fab fa-blogger-b")]
-        IconBloggerB = '\uf37d',
+        [Display(Name = "Blogger B", Description = "fab fa-blogger-b", GroupName = "Brands")]
+        BloggerB = '\uf37d',
         
         /// <summary>
         ///     Bluetooth ("fa-bluetooth", \uf293) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bluetooth", Description = "fab fa-bluetooth")]
-        IconBluetooth = '\uf293',
+        [Display(Name = "Bluetooth", Description = "fab fa-bluetooth", GroupName = "Brands")]
+        Bluetooth = '\uf293',
         
         /// <summary>
         ///     Bluetooth B ("fa-bluetooth-b", \uf294) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bluetooth B", Description = "fab fa-bluetooth-b")]
-        IconBluetoothB = '\uf294',
+        [Display(Name = "Bluetooth B", Description = "fab fa-bluetooth-b", GroupName = "Brands")]
+        BluetoothB = '\uf294',
         
         /// <summary>
         ///     Bootstrap ("fa-bootstrap", \uf836) icon.
         /// </summary>
         /// 
-        [Display(Name = "Bootstrap", Description = "fab fa-bootstrap")]
-        IconBootstrap = '\uf836',
+        [Display(Name = "Bootstrap", Description = "fab fa-bootstrap", GroupName = "Brands")]
+        Bootstrap = '\uf836',
         
         /// <summary>
         ///     Btc ("fa-btc", \uf15a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Btc", Description = "fab fa-btc")]
-        IconBtc = '\uf15a',
+        [Display(Name = "Btc", Description = "fab fa-btc", GroupName = "Brands")]
+        Btc = '\uf15a',
         
         /// <summary>
         ///     Buffer ("fa-buffer", \uf837) icon.
         /// </summary>
         /// 
-        [Display(Name = "Buffer", Description = "fab fa-buffer")]
-        IconBuffer = '\uf837',
+        [Display(Name = "Buffer", Description = "fab fa-buffer", GroupName = "Brands")]
+        Buffer = '\uf837',
         
         /// <summary>
         ///     Buromobelexperte ("fa-buromobelexperte", \uf37f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Buromobelexperte", Description = "fab fa-buromobelexperte")]
-        IconBuromobelexperte = '\uf37f',
+        [Display(Name = "Buromobelexperte", Description = "fab fa-buromobelexperte", GroupName = "Brands")]
+        Buromobelexperte = '\uf37f',
         
         /// <summary>
         ///     Buy N Large ("fa-buy-n-large", \uf8a6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Buy N Large", Description = "fab fa-buy-n-large")]
-        IconBuyNLarge = '\uf8a6',
+        [Display(Name = "Buy N Large", Description = "fab fa-buy-n-large", GroupName = "Brands")]
+        BuyNLarge = '\uf8a6',
         
         /// <summary>
         ///     Buysellads ("fa-buysellads", \uf20d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Buysellads", Description = "fab fa-buysellads")]
-        IconBuysellads = '\uf20d',
+        [Display(Name = "Buysellads", Description = "fab fa-buysellads", GroupName = "Brands")]
+        Buysellads = '\uf20d',
         
         /// <summary>
         ///     Canadian Maple Leaf ("fa-canadian-maple-leaf", \uf785) icon.
         /// </summary>
         /// 
-        [Display(Name = "Canadian Maple Leaf", Description = "fab fa-canadian-maple-leaf")]
-        IconCanadianMapleLeaf = '\uf785',
+        [Display(Name = "Canadian Maple Leaf", Description = "fab fa-canadian-maple-leaf", GroupName = "Brands")]
+        CanadianMapleLeaf = '\uf785',
         
         /// <summary>
         ///     Cc Amazon Pay ("fa-cc-amazon-pay", \uf42d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Amazon Pay", Description = "fab fa-cc-amazon-pay")]
-        IconCcAmazonPay = '\uf42d',
+        [Display(Name = "Cc Amazon Pay", Description = "fab fa-cc-amazon-pay", GroupName = "Brands")]
+        CcAmazonPay = '\uf42d',
         
         /// <summary>
         ///     Cc Amex ("fa-cc-amex", \uf1f3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Amex", Description = "fab fa-cc-amex")]
-        IconCcAmex = '\uf1f3',
+        [Display(Name = "Cc Amex", Description = "fab fa-cc-amex", GroupName = "Brands")]
+        CcAmex = '\uf1f3',
         
         /// <summary>
         ///     Cc Apple Pay ("fa-cc-apple-pay", \uf416) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Apple Pay", Description = "fab fa-cc-apple-pay")]
-        IconCcApplePay = '\uf416',
+        [Display(Name = "Cc Apple Pay", Description = "fab fa-cc-apple-pay", GroupName = "Brands")]
+        CcApplePay = '\uf416',
         
         /// <summary>
         ///     Cc Diners Club ("fa-cc-diners-club", \uf24c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Diners Club", Description = "fab fa-cc-diners-club")]
-        IconCcDinersClub = '\uf24c',
+        [Display(Name = "Cc Diners Club", Description = "fab fa-cc-diners-club", GroupName = "Brands")]
+        CcDinersClub = '\uf24c',
         
         /// <summary>
         ///     Cc Discover ("fa-cc-discover", \uf1f2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Discover", Description = "fab fa-cc-discover")]
-        IconCcDiscover = '\uf1f2',
+        [Display(Name = "Cc Discover", Description = "fab fa-cc-discover", GroupName = "Brands")]
+        CcDiscover = '\uf1f2',
         
         /// <summary>
         ///     Cc Jcb ("fa-cc-jcb", \uf24b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Jcb", Description = "fab fa-cc-jcb")]
-        IconCcJcb = '\uf24b',
+        [Display(Name = "Cc Jcb", Description = "fab fa-cc-jcb", GroupName = "Brands")]
+        CcJcb = '\uf24b',
         
         /// <summary>
         ///     Cc Mastercard ("fa-cc-mastercard", \uf1f1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Mastercard", Description = "fab fa-cc-mastercard")]
-        IconCcMastercard = '\uf1f1',
+        [Display(Name = "Cc Mastercard", Description = "fab fa-cc-mastercard", GroupName = "Brands")]
+        CcMastercard = '\uf1f1',
         
         /// <summary>
         ///     Cc Paypal ("fa-cc-paypal", \uf1f4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Paypal", Description = "fab fa-cc-paypal")]
-        IconCcPaypal = '\uf1f4',
+        [Display(Name = "Cc Paypal", Description = "fab fa-cc-paypal", GroupName = "Brands")]
+        CcPaypal = '\uf1f4',
         
         /// <summary>
         ///     Cc Stripe ("fa-cc-stripe", \uf1f5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Stripe", Description = "fab fa-cc-stripe")]
-        IconCcStripe = '\uf1f5',
+        [Display(Name = "Cc Stripe", Description = "fab fa-cc-stripe", GroupName = "Brands")]
+        CcStripe = '\uf1f5',
         
         /// <summary>
         ///     Cc Visa ("fa-cc-visa", \uf1f0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cc Visa", Description = "fab fa-cc-visa")]
-        IconCcVisa = '\uf1f0',
+        [Display(Name = "Cc Visa", Description = "fab fa-cc-visa", GroupName = "Brands")]
+        CcVisa = '\uf1f0',
         
         /// <summary>
         ///     Centercode ("fa-centercode", \uf380) icon.
         /// </summary>
         /// 
-        [Display(Name = "Centercode", Description = "fab fa-centercode")]
-        IconCentercode = '\uf380',
+        [Display(Name = "Centercode", Description = "fab fa-centercode", GroupName = "Brands")]
+        Centercode = '\uf380',
         
         /// <summary>
         ///     Centos ("fa-centos", \uf789) icon.
         /// </summary>
         /// 
-        [Display(Name = "Centos", Description = "fab fa-centos")]
-        IconCentos = '\uf789',
+        [Display(Name = "Centos", Description = "fab fa-centos", GroupName = "Brands")]
+        Centos = '\uf789',
         
         /// <summary>
         ///     Chrome ("fa-chrome", \uf268) icon.
         /// </summary>
         /// 
-        [Display(Name = "Chrome", Description = "fab fa-chrome")]
-        IconChrome = '\uf268',
+        [Display(Name = "Chrome", Description = "fab fa-chrome", GroupName = "Brands")]
+        Chrome = '\uf268',
         
         /// <summary>
         ///     Chromecast ("fa-chromecast", \uf838) icon.
         /// </summary>
         /// 
-        [Display(Name = "Chromecast", Description = "fab fa-chromecast")]
-        IconChromecast = '\uf838',
+        [Display(Name = "Chromecast", Description = "fab fa-chromecast", GroupName = "Brands")]
+        Chromecast = '\uf838',
         
         /// <summary>
         ///     Cloudscale ("fa-cloudscale", \uf383) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cloudscale", Description = "fab fa-cloudscale")]
-        IconCloudscale = '\uf383',
+        [Display(Name = "Cloudscale", Description = "fab fa-cloudscale", GroupName = "Brands")]
+        Cloudscale = '\uf383',
         
         /// <summary>
         ///     Cloudsmith ("fa-cloudsmith", \uf384) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cloudsmith", Description = "fab fa-cloudsmith")]
-        IconCloudsmith = '\uf384',
+        [Display(Name = "Cloudsmith", Description = "fab fa-cloudsmith", GroupName = "Brands")]
+        Cloudsmith = '\uf384',
         
         /// <summary>
         ///     Cloudversify ("fa-cloudversify", \uf385) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cloudversify", Description = "fab fa-cloudversify")]
-        IconCloudversify = '\uf385',
+        [Display(Name = "Cloudversify", Description = "fab fa-cloudversify", GroupName = "Brands")]
+        Cloudversify = '\uf385',
         
         /// <summary>
         ///     Codepen ("fa-codepen", \uf1cb) icon.
         /// </summary>
         /// 
-        [Display(Name = "Codepen", Description = "fab fa-codepen")]
-        IconCodepen = '\uf1cb',
+        [Display(Name = "Codepen", Description = "fab fa-codepen", GroupName = "Brands")]
+        Codepen = '\uf1cb',
         
         /// <summary>
         ///     Codiepie ("fa-codiepie", \uf284) icon.
         /// </summary>
         /// 
-        [Display(Name = "Codiepie", Description = "fab fa-codiepie")]
-        IconCodiepie = '\uf284',
+        [Display(Name = "Codiepie", Description = "fab fa-codiepie", GroupName = "Brands")]
+        Codiepie = '\uf284',
         
         /// <summary>
         ///     Confluence ("fa-confluence", \uf78d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Confluence", Description = "fab fa-confluence")]
-        IconConfluence = '\uf78d',
+        [Display(Name = "Confluence", Description = "fab fa-confluence", GroupName = "Brands")]
+        Confluence = '\uf78d',
         
         /// <summary>
         ///     Connectdevelop ("fa-connectdevelop", \uf20e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Connectdevelop", Description = "fab fa-connectdevelop")]
-        IconConnectdevelop = '\uf20e',
+        [Display(Name = "Connectdevelop", Description = "fab fa-connectdevelop", GroupName = "Brands")]
+        Connectdevelop = '\uf20e',
         
         /// <summary>
         ///     Contao ("fa-contao", \uf26d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Contao", Description = "fab fa-contao")]
-        IconContao = '\uf26d',
+        [Display(Name = "Contao", Description = "fab fa-contao", GroupName = "Brands")]
+        Contao = '\uf26d',
         
         /// <summary>
         ///     Cotton Bureau ("fa-cotton-bureau", \uf89e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cotton Bureau", Description = "fab fa-cotton-bureau")]
-        IconCottonBureau = '\uf89e',
+        [Display(Name = "Cotton Bureau", Description = "fab fa-cotton-bureau", GroupName = "Brands")]
+        CottonBureau = '\uf89e',
         
         /// <summary>
         ///     Cpanel ("fa-cpanel", \uf388) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cpanel", Description = "fab fa-cpanel")]
-        IconCpanel = '\uf388',
+        [Display(Name = "Cpanel", Description = "fab fa-cpanel", GroupName = "Brands")]
+        Cpanel = '\uf388',
         
         /// <summary>
         ///     Creative Commons ("fa-creative-commons", \uf25e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons", Description = "fab fa-creative-commons")]
-        IconCreativeCommons = '\uf25e',
+        [Display(Name = "Creative Commons", Description = "fab fa-creative-commons", GroupName = "Brands")]
+        CreativeCommons = '\uf25e',
         
         /// <summary>
         ///     Creative Commons By ("fa-creative-commons-by", \uf4e7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons By", Description = "fab fa-creative-commons-by")]
-        IconCreativeCommonsBy = '\uf4e7',
+        [Display(Name = "Creative Commons By", Description = "fab fa-creative-commons-by", GroupName = "Brands")]
+        CreativeCommonsBy = '\uf4e7',
         
         /// <summary>
         ///     Creative Commons Nc ("fa-creative-commons-nc", \uf4e8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Nc", Description = "fab fa-creative-commons-nc")]
-        IconCreativeCommonsNc = '\uf4e8',
+        [Display(Name = "Creative Commons Nc", Description = "fab fa-creative-commons-nc", GroupName = "Brands")]
+        CreativeCommonsNc = '\uf4e8',
         
         /// <summary>
         ///     Creative Commons Nc Eu ("fa-creative-commons-nc-eu", \uf4e9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Nc Eu", Description = "fab fa-creative-commons-nc-eu")]
-        IconCreativeCommonsNcEu = '\uf4e9',
+        [Display(Name = "Creative Commons Nc Eu", Description = "fab fa-creative-commons-nc-eu", GroupName = "Brands")]
+        CreativeCommonsNcEu = '\uf4e9',
         
         /// <summary>
         ///     Creative Commons Nc Jp ("fa-creative-commons-nc-jp", \uf4ea) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Nc Jp", Description = "fab fa-creative-commons-nc-jp")]
-        IconCreativeCommonsNcJp = '\uf4ea',
+        [Display(Name = "Creative Commons Nc Jp", Description = "fab fa-creative-commons-nc-jp", GroupName = "Brands")]
+        CreativeCommonsNcJp = '\uf4ea',
         
         /// <summary>
         ///     Creative Commons Nd ("fa-creative-commons-nd", \uf4eb) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Nd", Description = "fab fa-creative-commons-nd")]
-        IconCreativeCommonsNd = '\uf4eb',
+        [Display(Name = "Creative Commons Nd", Description = "fab fa-creative-commons-nd", GroupName = "Brands")]
+        CreativeCommonsNd = '\uf4eb',
         
         /// <summary>
         ///     Creative Commons Pd ("fa-creative-commons-pd", \uf4ec) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Pd", Description = "fab fa-creative-commons-pd")]
-        IconCreativeCommonsPd = '\uf4ec',
+        [Display(Name = "Creative Commons Pd", Description = "fab fa-creative-commons-pd", GroupName = "Brands")]
+        CreativeCommonsPd = '\uf4ec',
         
         /// <summary>
         ///     Creative Commons Pd Alt ("fa-creative-commons-pd-alt", \uf4ed) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Pd Alt", Description = "fab fa-creative-commons-pd-alt")]
-        IconCreativeCommonsPdAlt = '\uf4ed',
+        [Display(Name = "Creative Commons Pd Alt", Description = "fab fa-creative-commons-pd-alt", GroupName = "Brands")]
+        CreativeCommonsPdAlt = '\uf4ed',
         
         /// <summary>
         ///     Creative Commons Remix ("fa-creative-commons-remix", \uf4ee) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Remix", Description = "fab fa-creative-commons-remix")]
-        IconCreativeCommonsRemix = '\uf4ee',
+        [Display(Name = "Creative Commons Remix", Description = "fab fa-creative-commons-remix", GroupName = "Brands")]
+        CreativeCommonsRemix = '\uf4ee',
         
         /// <summary>
         ///     Creative Commons Sa ("fa-creative-commons-sa", \uf4ef) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Sa", Description = "fab fa-creative-commons-sa")]
-        IconCreativeCommonsSa = '\uf4ef',
+        [Display(Name = "Creative Commons Sa", Description = "fab fa-creative-commons-sa", GroupName = "Brands")]
+        CreativeCommonsSa = '\uf4ef',
         
         /// <summary>
         ///     Creative Commons Sampling ("fa-creative-commons-sampling", \uf4f0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Sampling", Description = "fab fa-creative-commons-sampling")]
-        IconCreativeCommonsSampling = '\uf4f0',
+        [Display(Name = "Creative Commons Sampling", Description = "fab fa-creative-commons-sampling", GroupName = "Brands")]
+        CreativeCommonsSampling = '\uf4f0',
         
         /// <summary>
         ///     Creative Commons Sampling Plus ("fa-creative-commons-sampling-plus", \uf4f1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Sampling Plus", Description = "fab fa-creative-commons-sampling-plus")]
-        IconCreativeCommonsSamplingPlus = '\uf4f1',
+        [Display(Name = "Creative Commons Sampling Plus", Description = "fab fa-creative-commons-sampling-plus", GroupName = "Brands")]
+        CreativeCommonsSamplingPlus = '\uf4f1',
         
         /// <summary>
         ///     Creative Commons Share ("fa-creative-commons-share", \uf4f2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Share", Description = "fab fa-creative-commons-share")]
-        IconCreativeCommonsShare = '\uf4f2',
+        [Display(Name = "Creative Commons Share", Description = "fab fa-creative-commons-share", GroupName = "Brands")]
+        CreativeCommonsShare = '\uf4f2',
         
         /// <summary>
         ///     Creative Commons Zero ("fa-creative-commons-zero", \uf4f3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Creative Commons Zero", Description = "fab fa-creative-commons-zero")]
-        IconCreativeCommonsZero = '\uf4f3',
+        [Display(Name = "Creative Commons Zero", Description = "fab fa-creative-commons-zero", GroupName = "Brands")]
+        CreativeCommonsZero = '\uf4f3',
         
         /// <summary>
         ///     Critical Role ("fa-critical-role", \uf6c9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Critical Role", Description = "fab fa-critical-role")]
-        IconCriticalRole = '\uf6c9',
+        [Display(Name = "Critical Role", Description = "fab fa-critical-role", GroupName = "Brands")]
+        CriticalRole = '\uf6c9',
         
         /// <summary>
         ///     Css3 ("fa-css3", \uf13c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Css3", Description = "fab fa-css3")]
-        IconCss3 = '\uf13c',
+        [Display(Name = "Css3", Description = "fab fa-css3", GroupName = "Brands")]
+        Css3 = '\uf13c',
         
         /// <summary>
         ///     Css3 Alt ("fa-css3-alt", \uf38b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Css3 Alt", Description = "fab fa-css3-alt")]
-        IconCss3Alt = '\uf38b',
+        [Display(Name = "Css3 Alt", Description = "fab fa-css3-alt", GroupName = "Brands")]
+        Css3Alt = '\uf38b',
         
         /// <summary>
         ///     Cuttlefish ("fa-cuttlefish", \uf38c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Cuttlefish", Description = "fab fa-cuttlefish")]
-        IconCuttlefish = '\uf38c',
+        [Display(Name = "Cuttlefish", Description = "fab fa-cuttlefish", GroupName = "Brands")]
+        Cuttlefish = '\uf38c',
         
         /// <summary>
         ///     Dailymotion ("fa-dailymotion", \uf952) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dailymotion", Description = "fab fa-dailymotion")]
-        IconDailymotion = '\uf952',
+        [Display(Name = "Dailymotion", Description = "fab fa-dailymotion", GroupName = "Brands")]
+        Dailymotion = '\uf952',
         
         /// <summary>
         ///     D And D ("fa-d-and-d", \uf38d) icon.
         /// </summary>
         /// 
-        [Display(Name = "D And D", Description = "fab fa-d-and-d")]
-        IconDAndD = '\uf38d',
+        [Display(Name = "D And D", Description = "fab fa-d-and-d", GroupName = "Brands")]
+        DAndD = '\uf38d',
         
         /// <summary>
         ///     D And D Beyond ("fa-d-and-d-beyond", \uf6ca) icon.
         /// </summary>
         /// 
-        [Display(Name = "D And D Beyond", Description = "fab fa-d-and-d-beyond")]
-        IconDAndDBeyond = '\uf6ca',
+        [Display(Name = "D And D Beyond", Description = "fab fa-d-and-d-beyond", GroupName = "Brands")]
+        DAndDBeyond = '\uf6ca',
         
         /// <summary>
         ///     Dashcube ("fa-dashcube", \uf210) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dashcube", Description = "fab fa-dashcube")]
-        IconDashcube = '\uf210',
+        [Display(Name = "Dashcube", Description = "fab fa-dashcube", GroupName = "Brands")]
+        Dashcube = '\uf210',
         
         /// <summary>
         ///     Delicious ("fa-delicious", \uf1a5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Delicious", Description = "fab fa-delicious")]
-        IconDelicious = '\uf1a5',
+        [Display(Name = "Delicious", Description = "fab fa-delicious", GroupName = "Brands")]
+        Delicious = '\uf1a5',
         
         /// <summary>
         ///     Deploydog ("fa-deploydog", \uf38e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Deploydog", Description = "fab fa-deploydog")]
-        IconDeploydog = '\uf38e',
+        [Display(Name = "Deploydog", Description = "fab fa-deploydog", GroupName = "Brands")]
+        Deploydog = '\uf38e',
         
         /// <summary>
         ///     Deskpro ("fa-deskpro", \uf38f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Deskpro", Description = "fab fa-deskpro")]
-        IconDeskpro = '\uf38f',
+        [Display(Name = "Deskpro", Description = "fab fa-deskpro", GroupName = "Brands")]
+        Deskpro = '\uf38f',
         
         /// <summary>
         ///     Dev ("fa-dev", \uf6cc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dev", Description = "fab fa-dev")]
-        IconDev = '\uf6cc',
+        [Display(Name = "Dev", Description = "fab fa-dev", GroupName = "Brands")]
+        Dev = '\uf6cc',
         
         /// <summary>
         ///     Deviantart ("fa-deviantart", \uf1bd) icon.
         /// </summary>
         /// 
-        [Display(Name = "Deviantart", Description = "fab fa-deviantart")]
-        IconDeviantart = '\uf1bd',
+        [Display(Name = "Deviantart", Description = "fab fa-deviantart", GroupName = "Brands")]
+        Deviantart = '\uf1bd',
         
         /// <summary>
         ///     Dhl ("fa-dhl", \uf790) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dhl", Description = "fab fa-dhl")]
-        IconDhl = '\uf790',
+        [Display(Name = "Dhl", Description = "fab fa-dhl", GroupName = "Brands")]
+        Dhl = '\uf790',
         
         /// <summary>
         ///     Diaspora ("fa-diaspora", \uf791) icon.
         /// </summary>
         /// 
-        [Display(Name = "Diaspora", Description = "fab fa-diaspora")]
-        IconDiaspora = '\uf791',
+        [Display(Name = "Diaspora", Description = "fab fa-diaspora", GroupName = "Brands")]
+        Diaspora = '\uf791',
         
         /// <summary>
         ///     Digg ("fa-digg", \uf1a6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Digg", Description = "fab fa-digg")]
-        IconDigg = '\uf1a6',
+        [Display(Name = "Digg", Description = "fab fa-digg", GroupName = "Brands")]
+        Digg = '\uf1a6',
         
         /// <summary>
         ///     Digital Ocean ("fa-digital-ocean", \uf391) icon.
         /// </summary>
         /// 
-        [Display(Name = "Digital Ocean", Description = "fab fa-digital-ocean")]
-        IconDigitalOcean = '\uf391',
+        [Display(Name = "Digital Ocean", Description = "fab fa-digital-ocean", GroupName = "Brands")]
+        DigitalOcean = '\uf391',
         
         /// <summary>
         ///     Discord ("fa-discord", \uf392) icon.
         /// </summary>
         /// 
-        [Display(Name = "Discord", Description = "fab fa-discord")]
-        IconDiscord = '\uf392',
+        [Display(Name = "Discord", Description = "fab fa-discord", GroupName = "Brands")]
+        Discord = '\uf392',
         
         /// <summary>
         ///     Discourse ("fa-discourse", \uf393) icon.
         /// </summary>
         /// 
-        [Display(Name = "Discourse", Description = "fab fa-discourse")]
-        IconDiscourse = '\uf393',
+        [Display(Name = "Discourse", Description = "fab fa-discourse", GroupName = "Brands")]
+        Discourse = '\uf393',
         
         /// <summary>
         ///     Dochub ("fa-dochub", \uf394) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dochub", Description = "fab fa-dochub")]
-        IconDochub = '\uf394',
+        [Display(Name = "Dochub", Description = "fab fa-dochub", GroupName = "Brands")]
+        Dochub = '\uf394',
         
         /// <summary>
         ///     Docker ("fa-docker", \uf395) icon.
         /// </summary>
         /// 
-        [Display(Name = "Docker", Description = "fab fa-docker")]
-        IconDocker = '\uf395',
+        [Display(Name = "Docker", Description = "fab fa-docker", GroupName = "Brands")]
+        Docker = '\uf395',
         
         /// <summary>
         ///     Draft2digital ("fa-draft2digital", \uf396) icon.
         /// </summary>
         /// 
-        [Display(Name = "Draft2digital", Description = "fab fa-draft2digital")]
-        IconDraft2digital = '\uf396',
+        [Display(Name = "Draft2digital", Description = "fab fa-draft2digital", GroupName = "Brands")]
+        Draft2digital = '\uf396',
         
         /// <summary>
         ///     Dribbble ("fa-dribbble", \uf17d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dribbble", Description = "fab fa-dribbble")]
-        IconDribbble = '\uf17d',
+        [Display(Name = "Dribbble", Description = "fab fa-dribbble", GroupName = "Brands")]
+        Dribbble = '\uf17d',
         
         /// <summary>
         ///     Dribbble Square ("fa-dribbble-square", \uf397) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dribbble Square", Description = "fab fa-dribbble-square")]
-        IconDribbbleSquare = '\uf397',
+        [Display(Name = "Dribbble Square", Description = "fab fa-dribbble-square", GroupName = "Brands")]
+        DribbbleSquare = '\uf397',
         
         /// <summary>
         ///     Dropbox ("fa-dropbox", \uf16b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dropbox", Description = "fab fa-dropbox")]
-        IconDropbox = '\uf16b',
+        [Display(Name = "Dropbox", Description = "fab fa-dropbox", GroupName = "Brands")]
+        Dropbox = '\uf16b',
         
         /// <summary>
         ///     Drupal ("fa-drupal", \uf1a9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Drupal", Description = "fab fa-drupal")]
-        IconDrupal = '\uf1a9',
+        [Display(Name = "Drupal", Description = "fab fa-drupal", GroupName = "Brands")]
+        Drupal = '\uf1a9',
         
         /// <summary>
         ///     Dyalog ("fa-dyalog", \uf399) icon.
         /// </summary>
         /// 
-        [Display(Name = "Dyalog", Description = "fab fa-dyalog")]
-        IconDyalog = '\uf399',
+        [Display(Name = "Dyalog", Description = "fab fa-dyalog", GroupName = "Brands")]
+        Dyalog = '\uf399',
         
         /// <summary>
         ///     Earlybirds ("fa-earlybirds", \uf39a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Earlybirds", Description = "fab fa-earlybirds")]
-        IconEarlybirds = '\uf39a',
+        [Display(Name = "Earlybirds", Description = "fab fa-earlybirds", GroupName = "Brands")]
+        Earlybirds = '\uf39a',
         
         /// <summary>
         ///     Ebay ("fa-ebay", \uf4f4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ebay", Description = "fab fa-ebay")]
-        IconEbay = '\uf4f4',
+        [Display(Name = "Ebay", Description = "fab fa-ebay", GroupName = "Brands")]
+        Ebay = '\uf4f4',
         
         /// <summary>
         ///     Edge ("fa-edge", \uf282) icon.
         /// </summary>
         /// 
-        [Display(Name = "Edge", Description = "fab fa-edge")]
-        IconEdge = '\uf282',
+        [Display(Name = "Edge", Description = "fab fa-edge", GroupName = "Brands")]
+        Edge = '\uf282',
         
         /// <summary>
         ///     Elementor ("fa-elementor", \uf430) icon.
         /// </summary>
         /// 
-        [Display(Name = "Elementor", Description = "fab fa-elementor")]
-        IconElementor = '\uf430',
+        [Display(Name = "Elementor", Description = "fab fa-elementor", GroupName = "Brands")]
+        Elementor = '\uf430',
         
         /// <summary>
         ///     Ello ("fa-ello", \uf5f1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ello", Description = "fab fa-ello")]
-        IconEllo = '\uf5f1',
+        [Display(Name = "Ello", Description = "fab fa-ello", GroupName = "Brands")]
+        Ello = '\uf5f1',
         
         /// <summary>
         ///     Ember ("fa-ember", \uf423) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ember", Description = "fab fa-ember")]
-        IconEmber = '\uf423',
+        [Display(Name = "Ember", Description = "fab fa-ember", GroupName = "Brands")]
+        Ember = '\uf423',
         
         /// <summary>
         ///     Empire ("fa-empire", \uf1d1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Empire", Description = "fab fa-empire")]
-        IconEmpire = '\uf1d1',
+        [Display(Name = "Empire", Description = "fab fa-empire", GroupName = "Brands")]
+        Empire = '\uf1d1',
         
         /// <summary>
         ///     Envira ("fa-envira", \uf299) icon.
         /// </summary>
         /// 
-        [Display(Name = "Envira", Description = "fab fa-envira")]
-        IconEnvira = '\uf299',
+        [Display(Name = "Envira", Description = "fab fa-envira", GroupName = "Brands")]
+        Envira = '\uf299',
         
         /// <summary>
         ///     Erlang ("fa-erlang", \uf39d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Erlang", Description = "fab fa-erlang")]
-        IconErlang = '\uf39d',
+        [Display(Name = "Erlang", Description = "fab fa-erlang", GroupName = "Brands")]
+        Erlang = '\uf39d',
         
         /// <summary>
         ///     Ethereum ("fa-ethereum", \uf42e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ethereum", Description = "fab fa-ethereum")]
-        IconEthereum = '\uf42e',
+        [Display(Name = "Ethereum", Description = "fab fa-ethereum", GroupName = "Brands")]
+        Ethereum = '\uf42e',
         
         /// <summary>
         ///     Etsy ("fa-etsy", \uf2d7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Etsy", Description = "fab fa-etsy")]
-        IconEtsy = '\uf2d7',
+        [Display(Name = "Etsy", Description = "fab fa-etsy", GroupName = "Brands")]
+        Etsy = '\uf2d7',
         
         /// <summary>
         ///     Evernote ("fa-evernote", \uf839) icon.
         /// </summary>
         /// 
-        [Display(Name = "Evernote", Description = "fab fa-evernote")]
-        IconEvernote = '\uf839',
+        [Display(Name = "Evernote", Description = "fab fa-evernote", GroupName = "Brands")]
+        Evernote = '\uf839',
         
         /// <summary>
         ///     Expeditedssl ("fa-expeditedssl", \uf23e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Expeditedssl", Description = "fab fa-expeditedssl")]
-        IconExpeditedssl = '\uf23e',
+        [Display(Name = "Expeditedssl", Description = "fab fa-expeditedssl", GroupName = "Brands")]
+        Expeditedssl = '\uf23e',
         
         /// <summary>
         ///     Facebook ("fa-facebook", \uf09a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Facebook", Description = "fab fa-facebook")]
-        IconFacebook = '\uf09a',
+        [Display(Name = "Facebook", Description = "fab fa-facebook", GroupName = "Brands")]
+        Facebook = '\uf09a',
         
         /// <summary>
         ///     Facebook F ("fa-facebook-f", \uf39e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Facebook F", Description = "fab fa-facebook-f")]
-        IconFacebookF = '\uf39e',
+        [Display(Name = "Facebook F", Description = "fab fa-facebook-f", GroupName = "Brands")]
+        FacebookF = '\uf39e',
         
         /// <summary>
         ///     Facebook Messenger ("fa-facebook-messenger", \uf39f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Facebook Messenger", Description = "fab fa-facebook-messenger")]
-        IconFacebookMessenger = '\uf39f',
+        [Display(Name = "Facebook Messenger", Description = "fab fa-facebook-messenger", GroupName = "Brands")]
+        FacebookMessenger = '\uf39f',
         
         /// <summary>
         ///     Facebook Square ("fa-facebook-square", \uf082) icon.
         /// </summary>
         /// 
-        [Display(Name = "Facebook Square", Description = "fab fa-facebook-square")]
-        IconFacebookSquare = '\uf082',
+        [Display(Name = "Facebook Square", Description = "fab fa-facebook-square", GroupName = "Brands")]
+        FacebookSquare = '\uf082',
         
         /// <summary>
         ///     Fantasy Flight Games ("fa-fantasy-flight-games", \uf6dc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fantasy Flight Games", Description = "fab fa-fantasy-flight-games")]
-        IconFantasyFlightGames = '\uf6dc',
+        [Display(Name = "Fantasy Flight Games", Description = "fab fa-fantasy-flight-games", GroupName = "Brands")]
+        FantasyFlightGames = '\uf6dc',
         
         /// <summary>
         ///     Fedex ("fa-fedex", \uf797) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fedex", Description = "fab fa-fedex")]
-        IconFedex = '\uf797',
+        [Display(Name = "Fedex", Description = "fab fa-fedex", GroupName = "Brands")]
+        Fedex = '\uf797',
         
         /// <summary>
         ///     Fedora ("fa-fedora", \uf798) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fedora", Description = "fab fa-fedora")]
-        IconFedora = '\uf798',
+        [Display(Name = "Fedora", Description = "fab fa-fedora", GroupName = "Brands")]
+        Fedora = '\uf798',
         
         /// <summary>
         ///     Figma ("fa-figma", \uf799) icon.
         /// </summary>
         /// 
-        [Display(Name = "Figma", Description = "fab fa-figma")]
-        IconFigma = '\uf799',
+        [Display(Name = "Figma", Description = "fab fa-figma", GroupName = "Brands")]
+        Figma = '\uf799',
         
         /// <summary>
         ///     Firefox ("fa-firefox", \uf269) icon.
         /// </summary>
         /// 
-        [Display(Name = "Firefox", Description = "fab fa-firefox")]
-        IconFirefox = '\uf269',
+        [Display(Name = "Firefox", Description = "fab fa-firefox", GroupName = "Brands")]
+        Firefox = '\uf269',
         
         /// <summary>
         ///     Firefox Browser ("fa-firefox-browser", \uf907) icon.
         /// </summary>
         /// 
-        [Display(Name = "Firefox Browser", Description = "fab fa-firefox-browser")]
-        IconFirefoxBrowser = '\uf907',
+        [Display(Name = "Firefox Browser", Description = "fab fa-firefox-browser", GroupName = "Brands")]
+        FirefoxBrowser = '\uf907',
         
         /// <summary>
         ///     Firstdraft ("fa-firstdraft", \uf3a1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Firstdraft", Description = "fab fa-firstdraft")]
-        IconFirstdraft = '\uf3a1',
+        [Display(Name = "Firstdraft", Description = "fab fa-firstdraft", GroupName = "Brands")]
+        Firstdraft = '\uf3a1',
         
         /// <summary>
         ///     First Order ("fa-first-order", \uf2b0) icon.
         /// </summary>
         /// 
-        [Display(Name = "First Order", Description = "fab fa-first-order")]
-        IconFirstOrder = '\uf2b0',
+        [Display(Name = "First Order", Description = "fab fa-first-order", GroupName = "Brands")]
+        FirstOrder = '\uf2b0',
         
         /// <summary>
         ///     First Order Alt ("fa-first-order-alt", \uf50a) icon.
         /// </summary>
         /// 
-        [Display(Name = "First Order Alt", Description = "fab fa-first-order-alt")]
-        IconFirstOrderAlt = '\uf50a',
+        [Display(Name = "First Order Alt", Description = "fab fa-first-order-alt", GroupName = "Brands")]
+        FirstOrderAlt = '\uf50a',
         
         /// <summary>
         ///     Flickr ("fa-flickr", \uf16e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Flickr", Description = "fab fa-flickr")]
-        IconFlickr = '\uf16e',
+        [Display(Name = "Flickr", Description = "fab fa-flickr", GroupName = "Brands")]
+        Flickr = '\uf16e',
         
         /// <summary>
         ///     Flipboard ("fa-flipboard", \uf44d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Flipboard", Description = "fab fa-flipboard")]
-        IconFlipboard = '\uf44d',
+        [Display(Name = "Flipboard", Description = "fab fa-flipboard", GroupName = "Brands")]
+        Flipboard = '\uf44d',
         
         /// <summary>
         ///     Fly ("fa-fly", \uf417) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fly", Description = "fab fa-fly")]
-        IconFly = '\uf417',
+        [Display(Name = "Fly", Description = "fab fa-fly", GroupName = "Brands")]
+        Fly = '\uf417',
         
         /// <summary>
         ///     Font Awesome ("fa-font-awesome", \uf2b4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Font Awesome", Description = "fab fa-font-awesome")]
-        IconFontAwesome = '\uf2b4',
+        [Display(Name = "Font Awesome", Description = "fab fa-font-awesome", GroupName = "Brands")]
+        FontAwesome = '\uf2b4',
         
         /// <summary>
         ///     Font Awesome Alt ("fa-font-awesome-alt", \uf35c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Font Awesome Alt", Description = "fab fa-font-awesome-alt")]
-        IconFontAwesomeAlt = '\uf35c',
+        [Display(Name = "Font Awesome Alt", Description = "fab fa-font-awesome-alt", GroupName = "Brands")]
+        FontAwesomeAlt = '\uf35c',
         
         /// <summary>
         ///     Font Awesome Flag ("fa-font-awesome-flag", \uf425) icon.
         /// </summary>
         /// 
-        [Display(Name = "Font Awesome Flag", Description = "fab fa-font-awesome-flag")]
-        IconFontAwesomeFlag = '\uf425',
+        [Display(Name = "Font Awesome Flag", Description = "fab fa-font-awesome-flag", GroupName = "Brands")]
+        FontAwesomeFlag = '\uf425',
         
         /// <summary>
         ///     Fonticons ("fa-fonticons", \uf280) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fonticons", Description = "fab fa-fonticons")]
-        IconFonticons = '\uf280',
+        [Display(Name = "Fonticons", Description = "fab fa-fonticons", GroupName = "Brands")]
+        Fonticons = '\uf280',
         
         /// <summary>
         ///     Fonticons Fi ("fa-fonticons-fi", \uf3a2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fonticons Fi", Description = "fab fa-fonticons-fi")]
-        IconFonticonsFi = '\uf3a2',
+        [Display(Name = "Fonticons Fi", Description = "fab fa-fonticons-fi", GroupName = "Brands")]
+        FonticonsFi = '\uf3a2',
         
         /// <summary>
         ///     Fort Awesome ("fa-fort-awesome", \uf286) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fort Awesome", Description = "fab fa-fort-awesome")]
-        IconFortAwesome = '\uf286',
+        [Display(Name = "Fort Awesome", Description = "fab fa-fort-awesome", GroupName = "Brands")]
+        FortAwesome = '\uf286',
         
         /// <summary>
         ///     Fort Awesome Alt ("fa-fort-awesome-alt", \uf3a3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fort Awesome Alt", Description = "fab fa-fort-awesome-alt")]
-        IconFortAwesomeAlt = '\uf3a3',
+        [Display(Name = "Fort Awesome Alt", Description = "fab fa-fort-awesome-alt", GroupName = "Brands")]
+        FortAwesomeAlt = '\uf3a3',
         
         /// <summary>
         ///     Forumbee ("fa-forumbee", \uf211) icon.
         /// </summary>
         /// 
-        [Display(Name = "Forumbee", Description = "fab fa-forumbee")]
-        IconForumbee = '\uf211',
+        [Display(Name = "Forumbee", Description = "fab fa-forumbee", GroupName = "Brands")]
+        Forumbee = '\uf211',
         
         /// <summary>
         ///     Foursquare ("fa-foursquare", \uf180) icon.
         /// </summary>
         /// 
-        [Display(Name = "Foursquare", Description = "fab fa-foursquare")]
-        IconFoursquare = '\uf180',
+        [Display(Name = "Foursquare", Description = "fab fa-foursquare", GroupName = "Brands")]
+        Foursquare = '\uf180',
         
         /// <summary>
         ///     Freebsd ("fa-freebsd", \uf3a4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Freebsd", Description = "fab fa-freebsd")]
-        IconFreebsd = '\uf3a4',
+        [Display(Name = "Freebsd", Description = "fab fa-freebsd", GroupName = "Brands")]
+        Freebsd = '\uf3a4',
         
         /// <summary>
         ///     Free Code Camp ("fa-free-code-camp", \uf2c5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Free Code Camp", Description = "fab fa-free-code-camp")]
-        IconFreeCodeCamp = '\uf2c5',
+        [Display(Name = "Free Code Camp", Description = "fab fa-free-code-camp", GroupName = "Brands")]
+        FreeCodeCamp = '\uf2c5',
         
         /// <summary>
         ///     Fulcrum ("fa-fulcrum", \uf50b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Fulcrum", Description = "fab fa-fulcrum")]
-        IconFulcrum = '\uf50b',
+        [Display(Name = "Fulcrum", Description = "fab fa-fulcrum", GroupName = "Brands")]
+        Fulcrum = '\uf50b',
         
         /// <summary>
         ///     Galactic Republic ("fa-galactic-republic", \uf50c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Galactic Republic", Description = "fab fa-galactic-republic")]
-        IconGalacticRepublic = '\uf50c',
+        [Display(Name = "Galactic Republic", Description = "fab fa-galactic-republic", GroupName = "Brands")]
+        GalacticRepublic = '\uf50c',
         
         /// <summary>
         ///     Galactic Senate ("fa-galactic-senate", \uf50d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Galactic Senate", Description = "fab fa-galactic-senate")]
-        IconGalacticSenate = '\uf50d',
+        [Display(Name = "Galactic Senate", Description = "fab fa-galactic-senate", GroupName = "Brands")]
+        GalacticSenate = '\uf50d',
         
         /// <summary>
         ///     Get Pocket ("fa-get-pocket", \uf265) icon.
         /// </summary>
         /// 
-        [Display(Name = "Get Pocket", Description = "fab fa-get-pocket")]
-        IconGetPocket = '\uf265',
+        [Display(Name = "Get Pocket", Description = "fab fa-get-pocket", GroupName = "Brands")]
+        GetPocket = '\uf265',
         
         /// <summary>
         ///     Gg ("fa-gg", \uf260) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gg", Description = "fab fa-gg")]
-        IconGg = '\uf260',
+        [Display(Name = "Gg", Description = "fab fa-gg", GroupName = "Brands")]
+        Gg = '\uf260',
         
         /// <summary>
         ///     Gg Circle ("fa-gg-circle", \uf261) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gg Circle", Description = "fab fa-gg-circle")]
-        IconGgCircle = '\uf261',
+        [Display(Name = "Gg Circle", Description = "fab fa-gg-circle", GroupName = "Brands")]
+        GgCircle = '\uf261',
         
         /// <summary>
         ///     Git ("fa-git", \uf1d3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Git", Description = "fab fa-git")]
-        IconGit = '\uf1d3',
+        [Display(Name = "Git", Description = "fab fa-git", GroupName = "Brands")]
+        Git = '\uf1d3',
         
         /// <summary>
         ///     Git Alt ("fa-git-alt", \uf841) icon.
         /// </summary>
         /// 
-        [Display(Name = "Git Alt", Description = "fab fa-git-alt")]
-        IconGitAlt = '\uf841',
+        [Display(Name = "Git Alt", Description = "fab fa-git-alt", GroupName = "Brands")]
+        GitAlt = '\uf841',
         
         /// <summary>
         ///     Github ("fa-github", \uf09b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Github", Description = "fab fa-github")]
-        IconGithub = '\uf09b',
+        [Display(Name = "Github", Description = "fab fa-github", GroupName = "Brands")]
+        Github = '\uf09b',
         
         /// <summary>
         ///     Github Alt ("fa-github-alt", \uf113) icon.
         /// </summary>
         /// 
-        [Display(Name = "Github Alt", Description = "fab fa-github-alt")]
-        IconGithubAlt = '\uf113',
+        [Display(Name = "Github Alt", Description = "fab fa-github-alt", GroupName = "Brands")]
+        GithubAlt = '\uf113',
         
         /// <summary>
         ///     Github Square ("fa-github-square", \uf092) icon.
         /// </summary>
         /// 
-        [Display(Name = "Github Square", Description = "fab fa-github-square")]
-        IconGithubSquare = '\uf092',
+        [Display(Name = "Github Square", Description = "fab fa-github-square", GroupName = "Brands")]
+        GithubSquare = '\uf092',
         
         /// <summary>
         ///     Gitkraken ("fa-gitkraken", \uf3a6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gitkraken", Description = "fab fa-gitkraken")]
-        IconGitkraken = '\uf3a6',
+        [Display(Name = "Gitkraken", Description = "fab fa-gitkraken", GroupName = "Brands")]
+        Gitkraken = '\uf3a6',
         
         /// <summary>
         ///     Gitlab ("fa-gitlab", \uf296) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gitlab", Description = "fab fa-gitlab")]
-        IconGitlab = '\uf296',
+        [Display(Name = "Gitlab", Description = "fab fa-gitlab", GroupName = "Brands")]
+        Gitlab = '\uf296',
         
         /// <summary>
         ///     Git Square ("fa-git-square", \uf1d2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Git Square", Description = "fab fa-git-square")]
-        IconGitSquare = '\uf1d2',
+        [Display(Name = "Git Square", Description = "fab fa-git-square", GroupName = "Brands")]
+        GitSquare = '\uf1d2',
         
         /// <summary>
         ///     Gitter ("fa-gitter", \uf426) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gitter", Description = "fab fa-gitter")]
-        IconGitter = '\uf426',
+        [Display(Name = "Gitter", Description = "fab fa-gitter", GroupName = "Brands")]
+        Gitter = '\uf426',
         
         /// <summary>
         ///     Glide ("fa-glide", \uf2a5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Glide", Description = "fab fa-glide")]
-        IconGlide = '\uf2a5',
+        [Display(Name = "Glide", Description = "fab fa-glide", GroupName = "Brands")]
+        Glide = '\uf2a5',
         
         /// <summary>
         ///     Glide G ("fa-glide-g", \uf2a6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Glide G", Description = "fab fa-glide-g")]
-        IconGlideG = '\uf2a6',
+        [Display(Name = "Glide G", Description = "fab fa-glide-g", GroupName = "Brands")]
+        GlideG = '\uf2a6',
         
         /// <summary>
         ///     Gofore ("fa-gofore", \uf3a7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gofore", Description = "fab fa-gofore")]
-        IconGofore = '\uf3a7',
+        [Display(Name = "Gofore", Description = "fab fa-gofore", GroupName = "Brands")]
+        Gofore = '\uf3a7',
         
         /// <summary>
         ///     Goodreads ("fa-goodreads", \uf3a8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Goodreads", Description = "fab fa-goodreads")]
-        IconGoodreads = '\uf3a8',
+        [Display(Name = "Goodreads", Description = "fab fa-goodreads", GroupName = "Brands")]
+        Goodreads = '\uf3a8',
         
         /// <summary>
         ///     Goodreads G ("fa-goodreads-g", \uf3a9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Goodreads G", Description = "fab fa-goodreads-g")]
-        IconGoodreadsG = '\uf3a9',
+        [Display(Name = "Goodreads G", Description = "fab fa-goodreads-g", GroupName = "Brands")]
+        GoodreadsG = '\uf3a9',
         
         /// <summary>
         ///     Google ("fa-google", \uf1a0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google", Description = "fab fa-google")]
-        IconGoogle = '\uf1a0',
+        [Display(Name = "Google", Description = "fab fa-google", GroupName = "Brands")]
+        Google = '\uf1a0',
         
         /// <summary>
         ///     Google Drive ("fa-google-drive", \uf3aa) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google Drive", Description = "fab fa-google-drive")]
-        IconGoogleDrive = '\uf3aa',
+        [Display(Name = "Google Drive", Description = "fab fa-google-drive", GroupName = "Brands")]
+        GoogleDrive = '\uf3aa',
         
         /// <summary>
         ///     Google Play ("fa-google-play", \uf3ab) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google Play", Description = "fab fa-google-play")]
-        IconGooglePlay = '\uf3ab',
+        [Display(Name = "Google Play", Description = "fab fa-google-play", GroupName = "Brands")]
+        GooglePlay = '\uf3ab',
         
         /// <summary>
         ///     Google Plus ("fa-google-plus", \uf2b3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google Plus", Description = "fab fa-google-plus")]
-        IconGooglePlus = '\uf2b3',
+        [Display(Name = "Google Plus", Description = "fab fa-google-plus", GroupName = "Brands")]
+        GooglePlus = '\uf2b3',
         
         /// <summary>
         ///     Google Plus G ("fa-google-plus-g", \uf0d5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google Plus G", Description = "fab fa-google-plus-g")]
-        IconGooglePlusG = '\uf0d5',
+        [Display(Name = "Google Plus G", Description = "fab fa-google-plus-g", GroupName = "Brands")]
+        GooglePlusG = '\uf0d5',
         
         /// <summary>
         ///     Google Plus Square ("fa-google-plus-square", \uf0d4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google Plus Square", Description = "fab fa-google-plus-square")]
-        IconGooglePlusSquare = '\uf0d4',
+        [Display(Name = "Google Plus Square", Description = "fab fa-google-plus-square", GroupName = "Brands")]
+        GooglePlusSquare = '\uf0d4',
         
         /// <summary>
         ///     Google Wallet ("fa-google-wallet", \uf1ee) icon.
         /// </summary>
         /// 
-        [Display(Name = "Google Wallet", Description = "fab fa-google-wallet")]
-        IconGoogleWallet = '\uf1ee',
+        [Display(Name = "Google Wallet", Description = "fab fa-google-wallet", GroupName = "Brands")]
+        GoogleWallet = '\uf1ee',
         
         /// <summary>
         ///     Gratipay ("fa-gratipay", \uf184) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gratipay", Description = "fab fa-gratipay")]
-        IconGratipay = '\uf184',
+        [Display(Name = "Gratipay", Description = "fab fa-gratipay", GroupName = "Brands")]
+        Gratipay = '\uf184',
         
         /// <summary>
         ///     Grav ("fa-grav", \uf2d6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Grav", Description = "fab fa-grav")]
-        IconGrav = '\uf2d6',
+        [Display(Name = "Grav", Description = "fab fa-grav", GroupName = "Brands")]
+        Grav = '\uf2d6',
         
         /// <summary>
         ///     Gripfire ("fa-gripfire", \uf3ac) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gripfire", Description = "fab fa-gripfire")]
-        IconGripfire = '\uf3ac',
+        [Display(Name = "Gripfire", Description = "fab fa-gripfire", GroupName = "Brands")]
+        Gripfire = '\uf3ac',
         
         /// <summary>
         ///     Grunt ("fa-grunt", \uf3ad) icon.
         /// </summary>
         /// 
-        [Display(Name = "Grunt", Description = "fab fa-grunt")]
-        IconGrunt = '\uf3ad',
+        [Display(Name = "Grunt", Description = "fab fa-grunt", GroupName = "Brands")]
+        Grunt = '\uf3ad',
         
         /// <summary>
         ///     Gulp ("fa-gulp", \uf3ae) icon.
         /// </summary>
         /// 
-        [Display(Name = "Gulp", Description = "fab fa-gulp")]
-        IconGulp = '\uf3ae',
+        [Display(Name = "Gulp", Description = "fab fa-gulp", GroupName = "Brands")]
+        Gulp = '\uf3ae',
         
         /// <summary>
         ///     Hacker News ("fa-hacker-news", \uf1d4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hacker News", Description = "fab fa-hacker-news")]
-        IconHackerNews = '\uf1d4',
+        [Display(Name = "Hacker News", Description = "fab fa-hacker-news", GroupName = "Brands")]
+        HackerNews = '\uf1d4',
         
         /// <summary>
         ///     Hacker News Square ("fa-hacker-news-square", \uf3af) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hacker News Square", Description = "fab fa-hacker-news-square")]
-        IconHackerNewsSquare = '\uf3af',
+        [Display(Name = "Hacker News Square", Description = "fab fa-hacker-news-square", GroupName = "Brands")]
+        HackerNewsSquare = '\uf3af',
         
         /// <summary>
         ///     Hackerrank ("fa-hackerrank", \uf5f7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hackerrank", Description = "fab fa-hackerrank")]
-        IconHackerrank = '\uf5f7',
+        [Display(Name = "Hackerrank", Description = "fab fa-hackerrank", GroupName = "Brands")]
+        Hackerrank = '\uf5f7',
         
         /// <summary>
         ///     Hips ("fa-hips", \uf452) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hips", Description = "fab fa-hips")]
-        IconHips = '\uf452',
+        [Display(Name = "Hips", Description = "fab fa-hips", GroupName = "Brands")]
+        Hips = '\uf452',
         
         /// <summary>
         ///     Hire A Helper ("fa-hire-a-helper", \uf3b0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hire A Helper", Description = "fab fa-hire-a-helper")]
-        IconHireAHelper = '\uf3b0',
+        [Display(Name = "Hire A Helper", Description = "fab fa-hire-a-helper", GroupName = "Brands")]
+        HireAHelper = '\uf3b0',
         
         /// <summary>
         ///     Hooli ("fa-hooli", \uf427) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hooli", Description = "fab fa-hooli")]
-        IconHooli = '\uf427',
+        [Display(Name = "Hooli", Description = "fab fa-hooli", GroupName = "Brands")]
+        Hooli = '\uf427',
         
         /// <summary>
         ///     Hornbill ("fa-hornbill", \uf592) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hornbill", Description = "fab fa-hornbill")]
-        IconHornbill = '\uf592',
+        [Display(Name = "Hornbill", Description = "fab fa-hornbill", GroupName = "Brands")]
+        Hornbill = '\uf592',
         
         /// <summary>
         ///     Hotjar ("fa-hotjar", \uf3b1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hotjar", Description = "fab fa-hotjar")]
-        IconHotjar = '\uf3b1',
+        [Display(Name = "Hotjar", Description = "fab fa-hotjar", GroupName = "Brands")]
+        Hotjar = '\uf3b1',
         
         /// <summary>
         ///     Houzz ("fa-houzz", \uf27c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Houzz", Description = "fab fa-houzz")]
-        IconHouzz = '\uf27c',
+        [Display(Name = "Houzz", Description = "fab fa-houzz", GroupName = "Brands")]
+        Houzz = '\uf27c',
         
         /// <summary>
         ///     Html5 ("fa-html5", \uf13b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Html5", Description = "fab fa-html5")]
-        IconHtml5 = '\uf13b',
+        [Display(Name = "Html5", Description = "fab fa-html5", GroupName = "Brands")]
+        Html5 = '\uf13b',
         
         /// <summary>
         ///     Hubspot ("fa-hubspot", \uf3b2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Hubspot", Description = "fab fa-hubspot")]
-        IconHubspot = '\uf3b2',
+        [Display(Name = "Hubspot", Description = "fab fa-hubspot", GroupName = "Brands")]
+        Hubspot = '\uf3b2',
         
         /// <summary>
         ///     Ideal ("fa-ideal", \uf913) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ideal", Description = "fab fa-ideal")]
-        IconIdeal = '\uf913',
+        [Display(Name = "Ideal", Description = "fab fa-ideal", GroupName = "Brands")]
+        Ideal = '\uf913',
         
         /// <summary>
         ///     Imdb ("fa-imdb", \uf2d8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Imdb", Description = "fab fa-imdb")]
-        IconImdb = '\uf2d8',
+        [Display(Name = "Imdb", Description = "fab fa-imdb", GroupName = "Brands")]
+        Imdb = '\uf2d8',
         
         /// <summary>
         ///     Instagram ("fa-instagram", \uf16d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Instagram", Description = "fab fa-instagram")]
-        IconInstagram = '\uf16d',
+        [Display(Name = "Instagram", Description = "fab fa-instagram", GroupName = "Brands")]
+        Instagram = '\uf16d',
         
         /// <summary>
         ///     Instagram Square ("fa-instagram-square", \uf955) icon.
         /// </summary>
         /// 
-        [Display(Name = "Instagram Square", Description = "fab fa-instagram-square")]
-        IconInstagramSquare = '\uf955',
+        [Display(Name = "Instagram Square", Description = "fab fa-instagram-square", GroupName = "Brands")]
+        InstagramSquare = '\uf955',
         
         /// <summary>
         ///     Intercom ("fa-intercom", \uf7af) icon.
         /// </summary>
         /// 
-        [Display(Name = "Intercom", Description = "fab fa-intercom")]
-        IconIntercom = '\uf7af',
+        [Display(Name = "Intercom", Description = "fab fa-intercom", GroupName = "Brands")]
+        Intercom = '\uf7af',
         
         /// <summary>
         ///     Internet Explorer ("fa-internet-explorer", \uf26b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Internet Explorer", Description = "fab fa-internet-explorer")]
-        IconInternetExplorer = '\uf26b',
+        [Display(Name = "Internet Explorer", Description = "fab fa-internet-explorer", GroupName = "Brands")]
+        InternetExplorer = '\uf26b',
         
         /// <summary>
         ///     Invision ("fa-invision", \uf7b0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Invision", Description = "fab fa-invision")]
-        IconInvision = '\uf7b0',
+        [Display(Name = "Invision", Description = "fab fa-invision", GroupName = "Brands")]
+        Invision = '\uf7b0',
         
         /// <summary>
         ///     Ioxhost ("fa-ioxhost", \uf208) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ioxhost", Description = "fab fa-ioxhost")]
-        IconIoxhost = '\uf208',
+        [Display(Name = "Ioxhost", Description = "fab fa-ioxhost", GroupName = "Brands")]
+        Ioxhost = '\uf208',
         
         /// <summary>
         ///     Itch Io ("fa-itch-io", \uf83a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Itch Io", Description = "fab fa-itch-io")]
-        IconItchIo = '\uf83a',
+        [Display(Name = "Itch Io", Description = "fab fa-itch-io", GroupName = "Brands")]
+        ItchIo = '\uf83a',
         
         /// <summary>
         ///     Itunes ("fa-itunes", \uf3b4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Itunes", Description = "fab fa-itunes")]
-        IconItunes = '\uf3b4',
+        [Display(Name = "Itunes", Description = "fab fa-itunes", GroupName = "Brands")]
+        Itunes = '\uf3b4',
         
         /// <summary>
         ///     Itunes Note ("fa-itunes-note", \uf3b5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Itunes Note", Description = "fab fa-itunes-note")]
-        IconItunesNote = '\uf3b5',
+        [Display(Name = "Itunes Note", Description = "fab fa-itunes-note", GroupName = "Brands")]
+        ItunesNote = '\uf3b5',
         
         /// <summary>
         ///     Java ("fa-java", \uf4e4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Java", Description = "fab fa-java")]
-        IconJava = '\uf4e4',
+        [Display(Name = "Java", Description = "fab fa-java", GroupName = "Brands")]
+        Java = '\uf4e4',
         
         /// <summary>
         ///     Jedi Order ("fa-jedi-order", \uf50e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Jedi Order", Description = "fab fa-jedi-order")]
-        IconJediOrder = '\uf50e',
+        [Display(Name = "Jedi Order", Description = "fab fa-jedi-order", GroupName = "Brands")]
+        JediOrder = '\uf50e',
         
         /// <summary>
         ///     Jenkins ("fa-jenkins", \uf3b6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Jenkins", Description = "fab fa-jenkins")]
-        IconJenkins = '\uf3b6',
+        [Display(Name = "Jenkins", Description = "fab fa-jenkins", GroupName = "Brands")]
+        Jenkins = '\uf3b6',
         
         /// <summary>
         ///     Jira ("fa-jira", \uf7b1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Jira", Description = "fab fa-jira")]
-        IconJira = '\uf7b1',
+        [Display(Name = "Jira", Description = "fab fa-jira", GroupName = "Brands")]
+        Jira = '\uf7b1',
         
         /// <summary>
         ///     Joget ("fa-joget", \uf3b7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Joget", Description = "fab fa-joget")]
-        IconJoget = '\uf3b7',
+        [Display(Name = "Joget", Description = "fab fa-joget", GroupName = "Brands")]
+        Joget = '\uf3b7',
         
         /// <summary>
         ///     Joomla ("fa-joomla", \uf1aa) icon.
         /// </summary>
         /// 
-        [Display(Name = "Joomla", Description = "fab fa-joomla")]
-        IconJoomla = '\uf1aa',
+        [Display(Name = "Joomla", Description = "fab fa-joomla", GroupName = "Brands")]
+        Joomla = '\uf1aa',
         
         /// <summary>
         ///     Js ("fa-js", \uf3b8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Js", Description = "fab fa-js")]
-        IconJs = '\uf3b8',
+        [Display(Name = "Js", Description = "fab fa-js", GroupName = "Brands")]
+        Js = '\uf3b8',
         
         /// <summary>
         ///     Jsfiddle ("fa-jsfiddle", \uf1cc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Jsfiddle", Description = "fab fa-jsfiddle")]
-        IconJsfiddle = '\uf1cc',
+        [Display(Name = "Jsfiddle", Description = "fab fa-jsfiddle", GroupName = "Brands")]
+        Jsfiddle = '\uf1cc',
         
         /// <summary>
         ///     Js Square ("fa-js-square", \uf3b9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Js Square", Description = "fab fa-js-square")]
-        IconJsSquare = '\uf3b9',
+        [Display(Name = "Js Square", Description = "fab fa-js-square", GroupName = "Brands")]
+        JsSquare = '\uf3b9',
         
         /// <summary>
         ///     Kaggle ("fa-kaggle", \uf5fa) icon.
         /// </summary>
         /// 
-        [Display(Name = "Kaggle", Description = "fab fa-kaggle")]
-        IconKaggle = '\uf5fa',
+        [Display(Name = "Kaggle", Description = "fab fa-kaggle", GroupName = "Brands")]
+        Kaggle = '\uf5fa',
         
         /// <summary>
         ///     Keybase ("fa-keybase", \uf4f5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Keybase", Description = "fab fa-keybase")]
-        IconKeybase = '\uf4f5',
+        [Display(Name = "Keybase", Description = "fab fa-keybase", GroupName = "Brands")]
+        Keybase = '\uf4f5',
         
         /// <summary>
         ///     Keycdn ("fa-keycdn", \uf3ba) icon.
         /// </summary>
         /// 
-        [Display(Name = "Keycdn", Description = "fab fa-keycdn")]
-        IconKeycdn = '\uf3ba',
+        [Display(Name = "Keycdn", Description = "fab fa-keycdn", GroupName = "Brands")]
+        Keycdn = '\uf3ba',
         
         /// <summary>
         ///     Kickstarter ("fa-kickstarter", \uf3bb) icon.
         /// </summary>
         /// 
-        [Display(Name = "Kickstarter", Description = "fab fa-kickstarter")]
-        IconKickstarter = '\uf3bb',
+        [Display(Name = "Kickstarter", Description = "fab fa-kickstarter", GroupName = "Brands")]
+        Kickstarter = '\uf3bb',
         
         /// <summary>
         ///     Kickstarter K ("fa-kickstarter-k", \uf3bc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Kickstarter K", Description = "fab fa-kickstarter-k")]
-        IconKickstarterK = '\uf3bc',
+        [Display(Name = "Kickstarter K", Description = "fab fa-kickstarter-k", GroupName = "Brands")]
+        KickstarterK = '\uf3bc',
         
         /// <summary>
         ///     Korvue ("fa-korvue", \uf42f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Korvue", Description = "fab fa-korvue")]
-        IconKorvue = '\uf42f',
+        [Display(Name = "Korvue", Description = "fab fa-korvue", GroupName = "Brands")]
+        Korvue = '\uf42f',
         
         /// <summary>
         ///     Laravel ("fa-laravel", \uf3bd) icon.
         /// </summary>
         /// 
-        [Display(Name = "Laravel", Description = "fab fa-laravel")]
-        IconLaravel = '\uf3bd',
+        [Display(Name = "Laravel", Description = "fab fa-laravel", GroupName = "Brands")]
+        Laravel = '\uf3bd',
         
         /// <summary>
         ///     Lastfm ("fa-lastfm", \uf202) icon.
         /// </summary>
         /// 
-        [Display(Name = "Lastfm", Description = "fab fa-lastfm")]
-        IconLastfm = '\uf202',
+        [Display(Name = "Lastfm", Description = "fab fa-lastfm", GroupName = "Brands")]
+        Lastfm = '\uf202',
         
         /// <summary>
         ///     Lastfm Square ("fa-lastfm-square", \uf203) icon.
         /// </summary>
         /// 
-        [Display(Name = "Lastfm Square", Description = "fab fa-lastfm-square")]
-        IconLastfmSquare = '\uf203',
+        [Display(Name = "Lastfm Square", Description = "fab fa-lastfm-square", GroupName = "Brands")]
+        LastfmSquare = '\uf203',
         
         /// <summary>
         ///     Leanpub ("fa-leanpub", \uf212) icon.
         /// </summary>
         /// 
-        [Display(Name = "Leanpub", Description = "fab fa-leanpub")]
-        IconLeanpub = '\uf212',
+        [Display(Name = "Leanpub", Description = "fab fa-leanpub", GroupName = "Brands")]
+        Leanpub = '\uf212',
         
         /// <summary>
         ///     Less ("fa-less", \uf41d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Less", Description = "fab fa-less")]
-        IconLess = '\uf41d',
+        [Display(Name = "Less", Description = "fab fa-less", GroupName = "Brands")]
+        Less = '\uf41d',
         
         /// <summary>
         ///     Line ("fa-line", \uf3c0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Line", Description = "fab fa-line")]
-        IconLine = '\uf3c0',
+        [Display(Name = "Line", Description = "fab fa-line", GroupName = "Brands")]
+        Line = '\uf3c0',
         
         /// <summary>
         ///     Linkedin ("fa-linkedin", \uf08c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Linkedin", Description = "fab fa-linkedin")]
-        IconLinkedin = '\uf08c',
+        [Display(Name = "Linkedin", Description = "fab fa-linkedin", GroupName = "Brands")]
+        Linkedin = '\uf08c',
         
         /// <summary>
         ///     Linkedin In ("fa-linkedin-in", \uf0e1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Linkedin In", Description = "fab fa-linkedin-in")]
-        IconLinkedinIn = '\uf0e1',
+        [Display(Name = "Linkedin In", Description = "fab fa-linkedin-in", GroupName = "Brands")]
+        LinkedinIn = '\uf0e1',
         
         /// <summary>
         ///     Linode ("fa-linode", \uf2b8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Linode", Description = "fab fa-linode")]
-        IconLinode = '\uf2b8',
+        [Display(Name = "Linode", Description = "fab fa-linode", GroupName = "Brands")]
+        Linode = '\uf2b8',
         
         /// <summary>
         ///     Linux ("fa-linux", \uf17c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Linux", Description = "fab fa-linux")]
-        IconLinux = '\uf17c',
+        [Display(Name = "Linux", Description = "fab fa-linux", GroupName = "Brands")]
+        Linux = '\uf17c',
         
         /// <summary>
         ///     Lyft ("fa-lyft", \uf3c3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Lyft", Description = "fab fa-lyft")]
-        IconLyft = '\uf3c3',
+        [Display(Name = "Lyft", Description = "fab fa-lyft", GroupName = "Brands")]
+        Lyft = '\uf3c3',
         
         /// <summary>
         ///     Magento ("fa-magento", \uf3c4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Magento", Description = "fab fa-magento")]
-        IconMagento = '\uf3c4',
+        [Display(Name = "Magento", Description = "fab fa-magento", GroupName = "Brands")]
+        Magento = '\uf3c4',
         
         /// <summary>
         ///     Mailchimp ("fa-mailchimp", \uf59e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mailchimp", Description = "fab fa-mailchimp")]
-        IconMailchimp = '\uf59e',
+        [Display(Name = "Mailchimp", Description = "fab fa-mailchimp", GroupName = "Brands")]
+        Mailchimp = '\uf59e',
         
         /// <summary>
         ///     Mandalorian ("fa-mandalorian", \uf50f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mandalorian", Description = "fab fa-mandalorian")]
-        IconMandalorian = '\uf50f',
+        [Display(Name = "Mandalorian", Description = "fab fa-mandalorian", GroupName = "Brands")]
+        Mandalorian = '\uf50f',
         
         /// <summary>
         ///     Markdown ("fa-markdown", \uf60f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Markdown", Description = "fab fa-markdown")]
-        IconMarkdown = '\uf60f',
+        [Display(Name = "Markdown", Description = "fab fa-markdown", GroupName = "Brands")]
+        Markdown = '\uf60f',
         
         /// <summary>
         ///     Mastodon ("fa-mastodon", \uf4f6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mastodon", Description = "fab fa-mastodon")]
-        IconMastodon = '\uf4f6',
+        [Display(Name = "Mastodon", Description = "fab fa-mastodon", GroupName = "Brands")]
+        Mastodon = '\uf4f6',
         
         /// <summary>
         ///     Maxcdn ("fa-maxcdn", \uf136) icon.
         /// </summary>
         /// 
-        [Display(Name = "Maxcdn", Description = "fab fa-maxcdn")]
-        IconMaxcdn = '\uf136',
+        [Display(Name = "Maxcdn", Description = "fab fa-maxcdn", GroupName = "Brands")]
+        Maxcdn = '\uf136',
         
         /// <summary>
         ///     Mdb ("fa-mdb", \uf8ca) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mdb", Description = "fab fa-mdb")]
-        IconMdb = '\uf8ca',
+        [Display(Name = "Mdb", Description = "fab fa-mdb", GroupName = "Brands")]
+        Mdb = '\uf8ca',
         
         /// <summary>
         ///     Medapps ("fa-medapps", \uf3c6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Medapps", Description = "fab fa-medapps")]
-        IconMedapps = '\uf3c6',
+        [Display(Name = "Medapps", Description = "fab fa-medapps", GroupName = "Brands")]
+        Medapps = '\uf3c6',
         
         /// <summary>
         ///     Medium ("fa-medium", \uf23a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Medium", Description = "fab fa-medium")]
-        IconMedium = '\uf23a',
+        [Display(Name = "Medium", Description = "fab fa-medium", GroupName = "Brands")]
+        Medium = '\uf23a',
         
         /// <summary>
         ///     Medium M ("fa-medium-m", \uf3c7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Medium M", Description = "fab fa-medium-m")]
-        IconMediumM = '\uf3c7',
+        [Display(Name = "Medium M", Description = "fab fa-medium-m", GroupName = "Brands")]
+        MediumM = '\uf3c7',
         
         /// <summary>
         ///     Medrt ("fa-medrt", \uf3c8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Medrt", Description = "fab fa-medrt")]
-        IconMedrt = '\uf3c8',
+        [Display(Name = "Medrt", Description = "fab fa-medrt", GroupName = "Brands")]
+        Medrt = '\uf3c8',
         
         /// <summary>
         ///     Meetup ("fa-meetup", \uf2e0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Meetup", Description = "fab fa-meetup")]
-        IconMeetup = '\uf2e0',
+        [Display(Name = "Meetup", Description = "fab fa-meetup", GroupName = "Brands")]
+        Meetup = '\uf2e0',
         
         /// <summary>
         ///     Megaport ("fa-megaport", \uf5a3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Megaport", Description = "fab fa-megaport")]
-        IconMegaport = '\uf5a3',
+        [Display(Name = "Megaport", Description = "fab fa-megaport", GroupName = "Brands")]
+        Megaport = '\uf5a3',
         
         /// <summary>
         ///     Mendeley ("fa-mendeley", \uf7b3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mendeley", Description = "fab fa-mendeley")]
-        IconMendeley = '\uf7b3',
+        [Display(Name = "Mendeley", Description = "fab fa-mendeley", GroupName = "Brands")]
+        Mendeley = '\uf7b3',
         
         /// <summary>
         ///     Microblog ("fa-microblog", \uf91a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Microblog", Description = "fab fa-microblog")]
-        IconMicroblog = '\uf91a',
+        [Display(Name = "Microblog", Description = "fab fa-microblog", GroupName = "Brands")]
+        Microblog = '\uf91a',
         
         /// <summary>
         ///     Microsoft ("fa-microsoft", \uf3ca) icon.
         /// </summary>
         /// 
-        [Display(Name = "Microsoft", Description = "fab fa-microsoft")]
-        IconMicrosoft = '\uf3ca',
+        [Display(Name = "Microsoft", Description = "fab fa-microsoft", GroupName = "Brands")]
+        Microsoft = '\uf3ca',
         
         /// <summary>
         ///     Mix ("fa-mix", \uf3cb) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mix", Description = "fab fa-mix")]
-        IconMix = '\uf3cb',
+        [Display(Name = "Mix", Description = "fab fa-mix", GroupName = "Brands")]
+        Mix = '\uf3cb',
         
         /// <summary>
         ///     Mixcloud ("fa-mixcloud", \uf289) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mixcloud", Description = "fab fa-mixcloud")]
-        IconMixcloud = '\uf289',
+        [Display(Name = "Mixcloud", Description = "fab fa-mixcloud", GroupName = "Brands")]
+        Mixcloud = '\uf289',
         
         /// <summary>
         ///     Mixer ("fa-mixer", \uf956) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mixer", Description = "fab fa-mixer")]
-        IconMixer = '\uf956',
+        [Display(Name = "Mixer", Description = "fab fa-mixer", GroupName = "Brands")]
+        Mixer = '\uf956',
         
         /// <summary>
         ///     Mizuni ("fa-mizuni", \uf3cc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Mizuni", Description = "fab fa-mizuni")]
-        IconMizuni = '\uf3cc',
+        [Display(Name = "Mizuni", Description = "fab fa-mizuni", GroupName = "Brands")]
+        Mizuni = '\uf3cc',
         
         /// <summary>
         ///     Modx ("fa-modx", \uf285) icon.
         /// </summary>
         /// 
-        [Display(Name = "Modx", Description = "fab fa-modx")]
-        IconModx = '\uf285',
+        [Display(Name = "Modx", Description = "fab fa-modx", GroupName = "Brands")]
+        Modx = '\uf285',
         
         /// <summary>
         ///     Monero ("fa-monero", \uf3d0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Monero", Description = "fab fa-monero")]
-        IconMonero = '\uf3d0',
+        [Display(Name = "Monero", Description = "fab fa-monero", GroupName = "Brands")]
+        Monero = '\uf3d0',
         
         /// <summary>
         ///     Napster ("fa-napster", \uf3d2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Napster", Description = "fab fa-napster")]
-        IconNapster = '\uf3d2',
+        [Display(Name = "Napster", Description = "fab fa-napster", GroupName = "Brands")]
+        Napster = '\uf3d2',
         
         /// <summary>
         ///     Neos ("fa-neos", \uf612) icon.
         /// </summary>
         /// 
-        [Display(Name = "Neos", Description = "fab fa-neos")]
-        IconNeos = '\uf612',
+        [Display(Name = "Neos", Description = "fab fa-neos", GroupName = "Brands")]
+        Neos = '\uf612',
         
         /// <summary>
         ///     Nimblr ("fa-nimblr", \uf5a8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Nimblr", Description = "fab fa-nimblr")]
-        IconNimblr = '\uf5a8',
+        [Display(Name = "Nimblr", Description = "fab fa-nimblr", GroupName = "Brands")]
+        Nimblr = '\uf5a8',
         
         /// <summary>
         ///     Node ("fa-node", \uf419) icon.
         /// </summary>
         /// 
-        [Display(Name = "Node", Description = "fab fa-node")]
-        IconNode = '\uf419',
+        [Display(Name = "Node", Description = "fab fa-node", GroupName = "Brands")]
+        Node = '\uf419',
         
         /// <summary>
         ///     Node Js ("fa-node-js", \uf3d3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Node Js", Description = "fab fa-node-js")]
-        IconNodeJs = '\uf3d3',
+        [Display(Name = "Node Js", Description = "fab fa-node-js", GroupName = "Brands")]
+        NodeJs = '\uf3d3',
         
         /// <summary>
         ///     Npm ("fa-npm", \uf3d4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Npm", Description = "fab fa-npm")]
-        IconNpm = '\uf3d4',
+        [Display(Name = "Npm", Description = "fab fa-npm", GroupName = "Brands")]
+        Npm = '\uf3d4',
         
         /// <summary>
         ///     Ns8 ("fa-ns8", \uf3d5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ns8", Description = "fab fa-ns8")]
-        IconNs8 = '\uf3d5',
+        [Display(Name = "Ns8", Description = "fab fa-ns8", GroupName = "Brands")]
+        Ns8 = '\uf3d5',
         
         /// <summary>
         ///     Nutritionix ("fa-nutritionix", \uf3d6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Nutritionix", Description = "fab fa-nutritionix")]
-        IconNutritionix = '\uf3d6',
+        [Display(Name = "Nutritionix", Description = "fab fa-nutritionix", GroupName = "Brands")]
+        Nutritionix = '\uf3d6',
         
         /// <summary>
         ///     Odnoklassniki ("fa-odnoklassniki", \uf263) icon.
         /// </summary>
         /// 
-        [Display(Name = "Odnoklassniki", Description = "fab fa-odnoklassniki")]
-        IconOdnoklassniki = '\uf263',
+        [Display(Name = "Odnoklassniki", Description = "fab fa-odnoklassniki", GroupName = "Brands")]
+        Odnoklassniki = '\uf263',
         
         /// <summary>
         ///     Odnoklassniki Square ("fa-odnoklassniki-square", \uf264) icon.
         /// </summary>
         /// 
-        [Display(Name = "Odnoklassniki Square", Description = "fab fa-odnoklassniki-square")]
-        IconOdnoklassnikiSquare = '\uf264',
+        [Display(Name = "Odnoklassniki Square", Description = "fab fa-odnoklassniki-square", GroupName = "Brands")]
+        OdnoklassnikiSquare = '\uf264',
         
         /// <summary>
         ///     Old Republic ("fa-old-republic", \uf510) icon.
         /// </summary>
         /// 
-        [Display(Name = "Old Republic", Description = "fab fa-old-republic")]
-        IconOldRepublic = '\uf510',
+        [Display(Name = "Old Republic", Description = "fab fa-old-republic", GroupName = "Brands")]
+        OldRepublic = '\uf510',
         
         /// <summary>
         ///     Opencart ("fa-opencart", \uf23d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Opencart", Description = "fab fa-opencart")]
-        IconOpencart = '\uf23d',
+        [Display(Name = "Opencart", Description = "fab fa-opencart", GroupName = "Brands")]
+        Opencart = '\uf23d',
         
         /// <summary>
         ///     Openid ("fa-openid", \uf19b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Openid", Description = "fab fa-openid")]
-        IconOpenid = '\uf19b',
+        [Display(Name = "Openid", Description = "fab fa-openid", GroupName = "Brands")]
+        Openid = '\uf19b',
         
         /// <summary>
         ///     Opera ("fa-opera", \uf26a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Opera", Description = "fab fa-opera")]
-        IconOpera = '\uf26a',
+        [Display(Name = "Opera", Description = "fab fa-opera", GroupName = "Brands")]
+        Opera = '\uf26a',
         
         /// <summary>
         ///     Optin Monster ("fa-optin-monster", \uf23c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Optin Monster", Description = "fab fa-optin-monster")]
-        IconOptinMonster = '\uf23c',
+        [Display(Name = "Optin Monster", Description = "fab fa-optin-monster", GroupName = "Brands")]
+        OptinMonster = '\uf23c',
         
         /// <summary>
         ///     Orcid ("fa-orcid", \uf8d2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Orcid", Description = "fab fa-orcid")]
-        IconOrcid = '\uf8d2',
+        [Display(Name = "Orcid", Description = "fab fa-orcid", GroupName = "Brands")]
+        Orcid = '\uf8d2',
         
         /// <summary>
         ///     Osi ("fa-osi", \uf41a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Osi", Description = "fab fa-osi")]
-        IconOsi = '\uf41a',
+        [Display(Name = "Osi", Description = "fab fa-osi", GroupName = "Brands")]
+        Osi = '\uf41a',
         
         /// <summary>
         ///     Page4 ("fa-page4", \uf3d7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Page4", Description = "fab fa-page4")]
-        IconPage4 = '\uf3d7',
+        [Display(Name = "Page4", Description = "fab fa-page4", GroupName = "Brands")]
+        Page4 = '\uf3d7',
         
         /// <summary>
         ///     Pagelines ("fa-pagelines", \uf18c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pagelines", Description = "fab fa-pagelines")]
-        IconPagelines = '\uf18c',
+        [Display(Name = "Pagelines", Description = "fab fa-pagelines", GroupName = "Brands")]
+        Pagelines = '\uf18c',
         
         /// <summary>
         ///     Palfed ("fa-palfed", \uf3d8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Palfed", Description = "fab fa-palfed")]
-        IconPalfed = '\uf3d8',
+        [Display(Name = "Palfed", Description = "fab fa-palfed", GroupName = "Brands")]
+        Palfed = '\uf3d8',
         
         /// <summary>
         ///     Patreon ("fa-patreon", \uf3d9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Patreon", Description = "fab fa-patreon")]
-        IconPatreon = '\uf3d9',
+        [Display(Name = "Patreon", Description = "fab fa-patreon", GroupName = "Brands")]
+        Patreon = '\uf3d9',
         
         /// <summary>
         ///     Paypal ("fa-paypal", \uf1ed) icon.
         /// </summary>
         /// 
-        [Display(Name = "Paypal", Description = "fab fa-paypal")]
-        IconPaypal = '\uf1ed',
+        [Display(Name = "Paypal", Description = "fab fa-paypal", GroupName = "Brands")]
+        Paypal = '\uf1ed',
         
         /// <summary>
         ///     Penny Arcade ("fa-penny-arcade", \uf704) icon.
         /// </summary>
         /// 
-        [Display(Name = "Penny Arcade", Description = "fab fa-penny-arcade")]
-        IconPennyArcade = '\uf704',
+        [Display(Name = "Penny Arcade", Description = "fab fa-penny-arcade", GroupName = "Brands")]
+        PennyArcade = '\uf704',
         
         /// <summary>
         ///     Periscope ("fa-periscope", \uf3da) icon.
         /// </summary>
         /// 
-        [Display(Name = "Periscope", Description = "fab fa-periscope")]
-        IconPeriscope = '\uf3da',
+        [Display(Name = "Periscope", Description = "fab fa-periscope", GroupName = "Brands")]
+        Periscope = '\uf3da',
         
         /// <summary>
         ///     Phabricator ("fa-phabricator", \uf3db) icon.
         /// </summary>
         /// 
-        [Display(Name = "Phabricator", Description = "fab fa-phabricator")]
-        IconPhabricator = '\uf3db',
+        [Display(Name = "Phabricator", Description = "fab fa-phabricator", GroupName = "Brands")]
+        Phabricator = '\uf3db',
         
         /// <summary>
         ///     Phoenix Framework ("fa-phoenix-framework", \uf3dc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Phoenix Framework", Description = "fab fa-phoenix-framework")]
-        IconPhoenixFramework = '\uf3dc',
+        [Display(Name = "Phoenix Framework", Description = "fab fa-phoenix-framework", GroupName = "Brands")]
+        PhoenixFramework = '\uf3dc',
         
         /// <summary>
         ///     Phoenix Squadron ("fa-phoenix-squadron", \uf511) icon.
         /// </summary>
         /// 
-        [Display(Name = "Phoenix Squadron", Description = "fab fa-phoenix-squadron")]
-        IconPhoenixSquadron = '\uf511',
+        [Display(Name = "Phoenix Squadron", Description = "fab fa-phoenix-squadron", GroupName = "Brands")]
+        PhoenixSquadron = '\uf511',
         
         /// <summary>
         ///     Php ("fa-php", \uf457) icon.
         /// </summary>
         /// 
-        [Display(Name = "Php", Description = "fab fa-php")]
-        IconPhp = '\uf457',
+        [Display(Name = "Php", Description = "fab fa-php", GroupName = "Brands")]
+        Php = '\uf457',
         
         /// <summary>
         ///     Pied Piper ("fa-pied-piper", \uf2ae) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pied Piper", Description = "fab fa-pied-piper")]
-        IconPiedPiper = '\uf2ae',
+        [Display(Name = "Pied Piper", Description = "fab fa-pied-piper", GroupName = "Brands")]
+        PiedPiper = '\uf2ae',
         
         /// <summary>
         ///     Pied Piper Alt ("fa-pied-piper-alt", \uf1a8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pied Piper Alt", Description = "fab fa-pied-piper-alt")]
-        IconPiedPiperAlt = '\uf1a8',
+        [Display(Name = "Pied Piper Alt", Description = "fab fa-pied-piper-alt", GroupName = "Brands")]
+        PiedPiperAlt = '\uf1a8',
         
         /// <summary>
         ///     Pied Piper Hat ("fa-pied-piper-hat", \uf4e5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pied Piper Hat", Description = "fab fa-pied-piper-hat")]
-        IconPiedPiperHat = '\uf4e5',
+        [Display(Name = "Pied Piper Hat", Description = "fab fa-pied-piper-hat", GroupName = "Brands")]
+        PiedPiperHat = '\uf4e5',
         
         /// <summary>
         ///     Pied Piper Pp ("fa-pied-piper-pp", \uf1a7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pied Piper Pp", Description = "fab fa-pied-piper-pp")]
-        IconPiedPiperPp = '\uf1a7',
+        [Display(Name = "Pied Piper Pp", Description = "fab fa-pied-piper-pp", GroupName = "Brands")]
+        PiedPiperPp = '\uf1a7',
         
         /// <summary>
         ///     Pied Piper Square ("fa-pied-piper-square", \uf91e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pied Piper Square", Description = "fab fa-pied-piper-square")]
-        IconPiedPiperSquare = '\uf91e',
+        [Display(Name = "Pied Piper Square", Description = "fab fa-pied-piper-square", GroupName = "Brands")]
+        PiedPiperSquare = '\uf91e',
         
         /// <summary>
         ///     Pinterest ("fa-pinterest", \uf0d2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pinterest", Description = "fab fa-pinterest")]
-        IconPinterest = '\uf0d2',
+        [Display(Name = "Pinterest", Description = "fab fa-pinterest", GroupName = "Brands")]
+        Pinterest = '\uf0d2',
         
         /// <summary>
         ///     Pinterest P ("fa-pinterest-p", \uf231) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pinterest P", Description = "fab fa-pinterest-p")]
-        IconPinterestP = '\uf231',
+        [Display(Name = "Pinterest P", Description = "fab fa-pinterest-p", GroupName = "Brands")]
+        PinterestP = '\uf231',
         
         /// <summary>
         ///     Pinterest Square ("fa-pinterest-square", \uf0d3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pinterest Square", Description = "fab fa-pinterest-square")]
-        IconPinterestSquare = '\uf0d3',
+        [Display(Name = "Pinterest Square", Description = "fab fa-pinterest-square", GroupName = "Brands")]
+        PinterestSquare = '\uf0d3',
         
         /// <summary>
         ///     Playstation ("fa-playstation", \uf3df) icon.
         /// </summary>
         /// 
-        [Display(Name = "Playstation", Description = "fab fa-playstation")]
-        IconPlaystation = '\uf3df',
+        [Display(Name = "Playstation", Description = "fab fa-playstation", GroupName = "Brands")]
+        Playstation = '\uf3df',
         
         /// <summary>
         ///     Product Hunt ("fa-product-hunt", \uf288) icon.
         /// </summary>
         /// 
-        [Display(Name = "Product Hunt", Description = "fab fa-product-hunt")]
-        IconProductHunt = '\uf288',
+        [Display(Name = "Product Hunt", Description = "fab fa-product-hunt", GroupName = "Brands")]
+        ProductHunt = '\uf288',
         
         /// <summary>
         ///     Pushed ("fa-pushed", \uf3e1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Pushed", Description = "fab fa-pushed")]
-        IconPushed = '\uf3e1',
+        [Display(Name = "Pushed", Description = "fab fa-pushed", GroupName = "Brands")]
+        Pushed = '\uf3e1',
         
         /// <summary>
         ///     Python ("fa-python", \uf3e2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Python", Description = "fab fa-python")]
-        IconPython = '\uf3e2',
+        [Display(Name = "Python", Description = "fab fa-python", GroupName = "Brands")]
+        Python = '\uf3e2',
         
         /// <summary>
         ///     Qq ("fa-qq", \uf1d6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Qq", Description = "fab fa-qq")]
-        IconQq = '\uf1d6',
+        [Display(Name = "Qq", Description = "fab fa-qq", GroupName = "Brands")]
+        Qq = '\uf1d6',
         
         /// <summary>
         ///     Quinscape ("fa-quinscape", \uf459) icon.
         /// </summary>
         /// 
-        [Display(Name = "Quinscape", Description = "fab fa-quinscape")]
-        IconQuinscape = '\uf459',
+        [Display(Name = "Quinscape", Description = "fab fa-quinscape", GroupName = "Brands")]
+        Quinscape = '\uf459',
         
         /// <summary>
         ///     Quora ("fa-quora", \uf2c4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Quora", Description = "fab fa-quora")]
-        IconQuora = '\uf2c4',
+        [Display(Name = "Quora", Description = "fab fa-quora", GroupName = "Brands")]
+        Quora = '\uf2c4',
         
         /// <summary>
         ///     Raspberry Pi ("fa-raspberry-pi", \uf7bb) icon.
         /// </summary>
         /// 
-        [Display(Name = "Raspberry Pi", Description = "fab fa-raspberry-pi")]
-        IconRaspberryPi = '\uf7bb',
+        [Display(Name = "Raspberry Pi", Description = "fab fa-raspberry-pi", GroupName = "Brands")]
+        RaspberryPi = '\uf7bb',
         
         /// <summary>
         ///     Ravelry ("fa-ravelry", \uf2d9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ravelry", Description = "fab fa-ravelry")]
-        IconRavelry = '\uf2d9',
+        [Display(Name = "Ravelry", Description = "fab fa-ravelry", GroupName = "Brands")]
+        Ravelry = '\uf2d9',
         
         /// <summary>
         ///     React ("fa-react", \uf41b) icon.
         /// </summary>
         /// 
-        [Display(Name = "React", Description = "fab fa-react")]
-        IconReact = '\uf41b',
+        [Display(Name = "React", Description = "fab fa-react", GroupName = "Brands")]
+        React = '\uf41b',
         
         /// <summary>
         ///     Reacteurope ("fa-reacteurope", \uf75d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Reacteurope", Description = "fab fa-reacteurope")]
-        IconReacteurope = '\uf75d',
+        [Display(Name = "Reacteurope", Description = "fab fa-reacteurope", GroupName = "Brands")]
+        Reacteurope = '\uf75d',
         
         /// <summary>
         ///     Readme ("fa-readme", \uf4d5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Readme", Description = "fab fa-readme")]
-        IconReadme = '\uf4d5',
+        [Display(Name = "Readme", Description = "fab fa-readme", GroupName = "Brands")]
+        Readme = '\uf4d5',
         
         /// <summary>
         ///     Rebel ("fa-rebel", \uf1d0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Rebel", Description = "fab fa-rebel")]
-        IconRebel = '\uf1d0',
+        [Display(Name = "Rebel", Description = "fab fa-rebel", GroupName = "Brands")]
+        Rebel = '\uf1d0',
         
         /// <summary>
         ///     Reddit ("fa-reddit", \uf1a1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Reddit", Description = "fab fa-reddit")]
-        IconReddit = '\uf1a1',
+        [Display(Name = "Reddit", Description = "fab fa-reddit", GroupName = "Brands")]
+        Reddit = '\uf1a1',
         
         /// <summary>
         ///     Reddit Alien ("fa-reddit-alien", \uf281) icon.
         /// </summary>
         /// 
-        [Display(Name = "Reddit Alien", Description = "fab fa-reddit-alien")]
-        IconRedditAlien = '\uf281',
+        [Display(Name = "Reddit Alien", Description = "fab fa-reddit-alien", GroupName = "Brands")]
+        RedditAlien = '\uf281',
         
         /// <summary>
         ///     Reddit Square ("fa-reddit-square", \uf1a2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Reddit Square", Description = "fab fa-reddit-square")]
-        IconRedditSquare = '\uf1a2',
+        [Display(Name = "Reddit Square", Description = "fab fa-reddit-square", GroupName = "Brands")]
+        RedditSquare = '\uf1a2',
         
         /// <summary>
         ///     Redhat ("fa-redhat", \uf7bc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Redhat", Description = "fab fa-redhat")]
-        IconRedhat = '\uf7bc',
+        [Display(Name = "Redhat", Description = "fab fa-redhat", GroupName = "Brands")]
+        Redhat = '\uf7bc',
         
         /// <summary>
         ///     Red River ("fa-red-river", \uf3e3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Red River", Description = "fab fa-red-river")]
-        IconRedRiver = '\uf3e3',
+        [Display(Name = "Red River", Description = "fab fa-red-river", GroupName = "Brands")]
+        RedRiver = '\uf3e3',
         
         /// <summary>
         ///     Renren ("fa-renren", \uf18b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Renren", Description = "fab fa-renren")]
-        IconRenren = '\uf18b',
+        [Display(Name = "Renren", Description = "fab fa-renren", GroupName = "Brands")]
+        Renren = '\uf18b',
         
         /// <summary>
         ///     Replyd ("fa-replyd", \uf3e6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Replyd", Description = "fab fa-replyd")]
-        IconReplyd = '\uf3e6',
+        [Display(Name = "Replyd", Description = "fab fa-replyd", GroupName = "Brands")]
+        Replyd = '\uf3e6',
         
         /// <summary>
         ///     Researchgate ("fa-researchgate", \uf4f8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Researchgate", Description = "fab fa-researchgate")]
-        IconResearchgate = '\uf4f8',
+        [Display(Name = "Researchgate", Description = "fab fa-researchgate", GroupName = "Brands")]
+        Researchgate = '\uf4f8',
         
         /// <summary>
         ///     Resolving ("fa-resolving", \uf3e7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Resolving", Description = "fab fa-resolving")]
-        IconResolving = '\uf3e7',
+        [Display(Name = "Resolving", Description = "fab fa-resolving", GroupName = "Brands")]
+        Resolving = '\uf3e7',
         
         /// <summary>
         ///     Rev ("fa-rev", \uf5b2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Rev", Description = "fab fa-rev")]
-        IconRev = '\uf5b2',
+        [Display(Name = "Rev", Description = "fab fa-rev", GroupName = "Brands")]
+        Rev = '\uf5b2',
         
         /// <summary>
         ///     Rocketchat ("fa-rocketchat", \uf3e8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Rocketchat", Description = "fab fa-rocketchat")]
-        IconRocketchat = '\uf3e8',
+        [Display(Name = "Rocketchat", Description = "fab fa-rocketchat", GroupName = "Brands")]
+        Rocketchat = '\uf3e8',
         
         /// <summary>
         ///     Rockrms ("fa-rockrms", \uf3e9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Rockrms", Description = "fab fa-rockrms")]
-        IconRockrms = '\uf3e9',
+        [Display(Name = "Rockrms", Description = "fab fa-rockrms", GroupName = "Brands")]
+        Rockrms = '\uf3e9',
         
         /// <summary>
         ///     R Project ("fa-r-project", \uf4f7) icon.
         /// </summary>
         /// 
-        [Display(Name = "R Project", Description = "fab fa-r-project")]
-        IconRProject = '\uf4f7',
+        [Display(Name = "R Project", Description = "fab fa-r-project", GroupName = "Brands")]
+        RProject = '\uf4f7',
         
         /// <summary>
         ///     Safari ("fa-safari", \uf267) icon.
         /// </summary>
         /// 
-        [Display(Name = "Safari", Description = "fab fa-safari")]
-        IconSafari = '\uf267',
+        [Display(Name = "Safari", Description = "fab fa-safari", GroupName = "Brands")]
+        Safari = '\uf267',
         
         /// <summary>
         ///     Salesforce ("fa-salesforce", \uf83b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Salesforce", Description = "fab fa-salesforce")]
-        IconSalesforce = '\uf83b',
+        [Display(Name = "Salesforce", Description = "fab fa-salesforce", GroupName = "Brands")]
+        Salesforce = '\uf83b',
         
         /// <summary>
         ///     Sass ("fa-sass", \uf41e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sass", Description = "fab fa-sass")]
-        IconSass = '\uf41e',
+        [Display(Name = "Sass", Description = "fab fa-sass", GroupName = "Brands")]
+        Sass = '\uf41e',
         
         /// <summary>
         ///     Schlix ("fa-schlix", \uf3ea) icon.
         /// </summary>
         /// 
-        [Display(Name = "Schlix", Description = "fab fa-schlix")]
-        IconSchlix = '\uf3ea',
+        [Display(Name = "Schlix", Description = "fab fa-schlix", GroupName = "Brands")]
+        Schlix = '\uf3ea',
         
         /// <summary>
         ///     Scribd ("fa-scribd", \uf28a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Scribd", Description = "fab fa-scribd")]
-        IconScribd = '\uf28a',
+        [Display(Name = "Scribd", Description = "fab fa-scribd", GroupName = "Brands")]
+        Scribd = '\uf28a',
         
         /// <summary>
         ///     Searchengin ("fa-searchengin", \uf3eb) icon.
         /// </summary>
         /// 
-        [Display(Name = "Searchengin", Description = "fab fa-searchengin")]
-        IconSearchengin = '\uf3eb',
+        [Display(Name = "Searchengin", Description = "fab fa-searchengin", GroupName = "Brands")]
+        Searchengin = '\uf3eb',
         
         /// <summary>
         ///     Sellcast ("fa-sellcast", \uf2da) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sellcast", Description = "fab fa-sellcast")]
-        IconSellcast = '\uf2da',
+        [Display(Name = "Sellcast", Description = "fab fa-sellcast", GroupName = "Brands")]
+        Sellcast = '\uf2da',
         
         /// <summary>
         ///     Sellsy ("fa-sellsy", \uf213) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sellsy", Description = "fab fa-sellsy")]
-        IconSellsy = '\uf213',
+        [Display(Name = "Sellsy", Description = "fab fa-sellsy", GroupName = "Brands")]
+        Sellsy = '\uf213',
         
         /// <summary>
         ///     Servicestack ("fa-servicestack", \uf3ec) icon.
         /// </summary>
         /// 
-        [Display(Name = "Servicestack", Description = "fab fa-servicestack")]
-        IconServicestack = '\uf3ec',
+        [Display(Name = "Servicestack", Description = "fab fa-servicestack", GroupName = "Brands")]
+        Servicestack = '\uf3ec',
         
         /// <summary>
         ///     Shirtsinbulk ("fa-shirtsinbulk", \uf214) icon.
         /// </summary>
         /// 
-        [Display(Name = "Shirtsinbulk", Description = "fab fa-shirtsinbulk")]
-        IconShirtsinbulk = '\uf214',
+        [Display(Name = "Shirtsinbulk", Description = "fab fa-shirtsinbulk", GroupName = "Brands")]
+        Shirtsinbulk = '\uf214',
         
         /// <summary>
         ///     Shopify ("fa-shopify", \uf957) icon.
         /// </summary>
         /// 
-        [Display(Name = "Shopify", Description = "fab fa-shopify")]
-        IconShopify = '\uf957',
+        [Display(Name = "Shopify", Description = "fab fa-shopify", GroupName = "Brands")]
+        Shopify = '\uf957',
         
         /// <summary>
         ///     Shopware ("fa-shopware", \uf5b5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Shopware", Description = "fab fa-shopware")]
-        IconShopware = '\uf5b5',
+        [Display(Name = "Shopware", Description = "fab fa-shopware", GroupName = "Brands")]
+        Shopware = '\uf5b5',
         
         /// <summary>
         ///     Simplybuilt ("fa-simplybuilt", \uf215) icon.
         /// </summary>
         /// 
-        [Display(Name = "Simplybuilt", Description = "fab fa-simplybuilt")]
-        IconSimplybuilt = '\uf215',
+        [Display(Name = "Simplybuilt", Description = "fab fa-simplybuilt", GroupName = "Brands")]
+        Simplybuilt = '\uf215',
         
         /// <summary>
         ///     Sistrix ("fa-sistrix", \uf3ee) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sistrix", Description = "fab fa-sistrix")]
-        IconSistrix = '\uf3ee',
+        [Display(Name = "Sistrix", Description = "fab fa-sistrix", GroupName = "Brands")]
+        Sistrix = '\uf3ee',
         
         /// <summary>
         ///     Sith ("fa-sith", \uf512) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sith", Description = "fab fa-sith")]
-        IconSith = '\uf512',
+        [Display(Name = "Sith", Description = "fab fa-sith", GroupName = "Brands")]
+        Sith = '\uf512',
         
         /// <summary>
         ///     Sketch ("fa-sketch", \uf7c6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sketch", Description = "fab fa-sketch")]
-        IconSketch = '\uf7c6',
+        [Display(Name = "Sketch", Description = "fab fa-sketch", GroupName = "Brands")]
+        Sketch = '\uf7c6',
         
         /// <summary>
         ///     Skyatlas ("fa-skyatlas", \uf216) icon.
         /// </summary>
         /// 
-        [Display(Name = "Skyatlas", Description = "fab fa-skyatlas")]
-        IconSkyatlas = '\uf216',
+        [Display(Name = "Skyatlas", Description = "fab fa-skyatlas", GroupName = "Brands")]
+        Skyatlas = '\uf216',
         
         /// <summary>
         ///     Skype ("fa-skype", \uf17e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Skype", Description = "fab fa-skype")]
-        IconSkype = '\uf17e',
+        [Display(Name = "Skype", Description = "fab fa-skype", GroupName = "Brands")]
+        Skype = '\uf17e',
         
         /// <summary>
         ///     Slack ("fa-slack", \uf198) icon.
         /// </summary>
         /// 
-        [Display(Name = "Slack", Description = "fab fa-slack")]
-        IconSlack = '\uf198',
+        [Display(Name = "Slack", Description = "fab fa-slack", GroupName = "Brands")]
+        Slack = '\uf198',
         
         /// <summary>
         ///     Slack Hash ("fa-slack-hash", \uf3ef) icon.
         /// </summary>
         /// 
-        [Display(Name = "Slack Hash", Description = "fab fa-slack-hash")]
-        IconSlackHash = '\uf3ef',
+        [Display(Name = "Slack Hash", Description = "fab fa-slack-hash", GroupName = "Brands")]
+        SlackHash = '\uf3ef',
         
         /// <summary>
         ///     Slideshare ("fa-slideshare", \uf1e7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Slideshare", Description = "fab fa-slideshare")]
-        IconSlideshare = '\uf1e7',
+        [Display(Name = "Slideshare", Description = "fab fa-slideshare", GroupName = "Brands")]
+        Slideshare = '\uf1e7',
         
         /// <summary>
         ///     Snapchat ("fa-snapchat", \uf2ab) icon.
         /// </summary>
         /// 
-        [Display(Name = "Snapchat", Description = "fab fa-snapchat")]
-        IconSnapchat = '\uf2ab',
+        [Display(Name = "Snapchat", Description = "fab fa-snapchat", GroupName = "Brands")]
+        Snapchat = '\uf2ab',
         
         /// <summary>
         ///     Snapchat Ghost ("fa-snapchat-ghost", \uf2ac) icon.
         /// </summary>
         /// 
-        [Display(Name = "Snapchat Ghost", Description = "fab fa-snapchat-ghost")]
-        IconSnapchatGhost = '\uf2ac',
+        [Display(Name = "Snapchat Ghost", Description = "fab fa-snapchat-ghost", GroupName = "Brands")]
+        SnapchatGhost = '\uf2ac',
         
         /// <summary>
         ///     Snapchat Square ("fa-snapchat-square", \uf2ad) icon.
         /// </summary>
         /// 
-        [Display(Name = "Snapchat Square", Description = "fab fa-snapchat-square")]
-        IconSnapchatSquare = '\uf2ad',
+        [Display(Name = "Snapchat Square", Description = "fab fa-snapchat-square", GroupName = "Brands")]
+        SnapchatSquare = '\uf2ad',
         
         /// <summary>
         ///     Soundcloud ("fa-soundcloud", \uf1be) icon.
         /// </summary>
         /// 
-        [Display(Name = "Soundcloud", Description = "fab fa-soundcloud")]
-        IconSoundcloud = '\uf1be',
+        [Display(Name = "Soundcloud", Description = "fab fa-soundcloud", GroupName = "Brands")]
+        Soundcloud = '\uf1be',
         
         /// <summary>
         ///     Sourcetree ("fa-sourcetree", \uf7d3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sourcetree", Description = "fab fa-sourcetree")]
-        IconSourcetree = '\uf7d3',
+        [Display(Name = "Sourcetree", Description = "fab fa-sourcetree", GroupName = "Brands")]
+        Sourcetree = '\uf7d3',
         
         /// <summary>
         ///     Speakap ("fa-speakap", \uf3f3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Speakap", Description = "fab fa-speakap")]
-        IconSpeakap = '\uf3f3',
+        [Display(Name = "Speakap", Description = "fab fa-speakap", GroupName = "Brands")]
+        Speakap = '\uf3f3',
         
         /// <summary>
         ///     Speaker Deck ("fa-speaker-deck", \uf83c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Speaker Deck", Description = "fab fa-speaker-deck")]
-        IconSpeakerDeck = '\uf83c',
+        [Display(Name = "Speaker Deck", Description = "fab fa-speaker-deck", GroupName = "Brands")]
+        SpeakerDeck = '\uf83c',
         
         /// <summary>
         ///     Spotify ("fa-spotify", \uf1bc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Spotify", Description = "fab fa-spotify")]
-        IconSpotify = '\uf1bc',
+        [Display(Name = "Spotify", Description = "fab fa-spotify", GroupName = "Brands")]
+        Spotify = '\uf1bc',
         
         /// <summary>
         ///     Squarespace ("fa-squarespace", \uf5be) icon.
         /// </summary>
         /// 
-        [Display(Name = "Squarespace", Description = "fab fa-squarespace")]
-        IconSquarespace = '\uf5be',
+        [Display(Name = "Squarespace", Description = "fab fa-squarespace", GroupName = "Brands")]
+        Squarespace = '\uf5be',
         
         /// <summary>
         ///     Stack Exchange ("fa-stack-exchange", \uf18d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stack Exchange", Description = "fab fa-stack-exchange")]
-        IconStackExchange = '\uf18d',
+        [Display(Name = "Stack Exchange", Description = "fab fa-stack-exchange", GroupName = "Brands")]
+        StackExchange = '\uf18d',
         
         /// <summary>
         ///     Stack Overflow ("fa-stack-overflow", \uf16c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stack Overflow", Description = "fab fa-stack-overflow")]
-        IconStackOverflow = '\uf16c',
+        [Display(Name = "Stack Overflow", Description = "fab fa-stack-overflow", GroupName = "Brands")]
+        StackOverflow = '\uf16c',
         
         /// <summary>
         ///     Stackpath ("fa-stackpath", \uf842) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stackpath", Description = "fab fa-stackpath")]
-        IconStackpath = '\uf842',
+        [Display(Name = "Stackpath", Description = "fab fa-stackpath", GroupName = "Brands")]
+        Stackpath = '\uf842',
         
         /// <summary>
         ///     Staylinked ("fa-staylinked", \uf3f5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Staylinked", Description = "fab fa-staylinked")]
-        IconStaylinked = '\uf3f5',
+        [Display(Name = "Staylinked", Description = "fab fa-staylinked", GroupName = "Brands")]
+        Staylinked = '\uf3f5',
         
         /// <summary>
         ///     Steam ("fa-steam", \uf1b6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Steam", Description = "fab fa-steam")]
-        IconSteam = '\uf1b6',
+        [Display(Name = "Steam", Description = "fab fa-steam", GroupName = "Brands")]
+        Steam = '\uf1b6',
         
         /// <summary>
         ///     Steam Square ("fa-steam-square", \uf1b7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Steam Square", Description = "fab fa-steam-square")]
-        IconSteamSquare = '\uf1b7',
+        [Display(Name = "Steam Square", Description = "fab fa-steam-square", GroupName = "Brands")]
+        SteamSquare = '\uf1b7',
         
         /// <summary>
         ///     Steam Symbol ("fa-steam-symbol", \uf3f6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Steam Symbol", Description = "fab fa-steam-symbol")]
-        IconSteamSymbol = '\uf3f6',
+        [Display(Name = "Steam Symbol", Description = "fab fa-steam-symbol", GroupName = "Brands")]
+        SteamSymbol = '\uf3f6',
         
         /// <summary>
         ///     Sticker Mule ("fa-sticker-mule", \uf3f7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Sticker Mule", Description = "fab fa-sticker-mule")]
-        IconStickerMule = '\uf3f7',
+        [Display(Name = "Sticker Mule", Description = "fab fa-sticker-mule", GroupName = "Brands")]
+        StickerMule = '\uf3f7',
         
         /// <summary>
         ///     Strava ("fa-strava", \uf428) icon.
         /// </summary>
         /// 
-        [Display(Name = "Strava", Description = "fab fa-strava")]
-        IconStrava = '\uf428',
+        [Display(Name = "Strava", Description = "fab fa-strava", GroupName = "Brands")]
+        Strava = '\uf428',
         
         /// <summary>
         ///     Stripe ("fa-stripe", \uf429) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stripe", Description = "fab fa-stripe")]
-        IconStripe = '\uf429',
+        [Display(Name = "Stripe", Description = "fab fa-stripe", GroupName = "Brands")]
+        Stripe = '\uf429',
         
         /// <summary>
         ///     Stripe S ("fa-stripe-s", \uf42a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stripe S", Description = "fab fa-stripe-s")]
-        IconStripeS = '\uf42a',
+        [Display(Name = "Stripe S", Description = "fab fa-stripe-s", GroupName = "Brands")]
+        StripeS = '\uf42a',
         
         /// <summary>
         ///     Studiovinari ("fa-studiovinari", \uf3f8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Studiovinari", Description = "fab fa-studiovinari")]
-        IconStudiovinari = '\uf3f8',
+        [Display(Name = "Studiovinari", Description = "fab fa-studiovinari", GroupName = "Brands")]
+        Studiovinari = '\uf3f8',
         
         /// <summary>
         ///     Stumbleupon ("fa-stumbleupon", \uf1a4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stumbleupon", Description = "fab fa-stumbleupon")]
-        IconStumbleupon = '\uf1a4',
+        [Display(Name = "Stumbleupon", Description = "fab fa-stumbleupon", GroupName = "Brands")]
+        Stumbleupon = '\uf1a4',
         
         /// <summary>
         ///     Stumbleupon Circle ("fa-stumbleupon-circle", \uf1a3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Stumbleupon Circle", Description = "fab fa-stumbleupon-circle")]
-        IconStumbleuponCircle = '\uf1a3',
+        [Display(Name = "Stumbleupon Circle", Description = "fab fa-stumbleupon-circle", GroupName = "Brands")]
+        StumbleuponCircle = '\uf1a3',
         
         /// <summary>
         ///     Superpowers ("fa-superpowers", \uf2dd) icon.
         /// </summary>
         /// 
-        [Display(Name = "Superpowers", Description = "fab fa-superpowers")]
-        IconSuperpowers = '\uf2dd',
+        [Display(Name = "Superpowers", Description = "fab fa-superpowers", GroupName = "Brands")]
+        Superpowers = '\uf2dd',
         
         /// <summary>
         ///     Supple ("fa-supple", \uf3f9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Supple", Description = "fab fa-supple")]
-        IconSupple = '\uf3f9',
+        [Display(Name = "Supple", Description = "fab fa-supple", GroupName = "Brands")]
+        Supple = '\uf3f9',
         
         /// <summary>
         ///     Suse ("fa-suse", \uf7d6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Suse", Description = "fab fa-suse")]
-        IconSuse = '\uf7d6',
+        [Display(Name = "Suse", Description = "fab fa-suse", GroupName = "Brands")]
+        Suse = '\uf7d6',
         
         /// <summary>
         ///     Swift ("fa-swift", \uf8e1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Swift", Description = "fab fa-swift")]
-        IconSwift = '\uf8e1',
+        [Display(Name = "Swift", Description = "fab fa-swift", GroupName = "Brands")]
+        Swift = '\uf8e1',
         
         /// <summary>
         ///     Symfony ("fa-symfony", \uf83d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Symfony", Description = "fab fa-symfony")]
-        IconSymfony = '\uf83d',
+        [Display(Name = "Symfony", Description = "fab fa-symfony", GroupName = "Brands")]
+        Symfony = '\uf83d',
         
         /// <summary>
         ///     Teamspeak ("fa-teamspeak", \uf4f9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Teamspeak", Description = "fab fa-teamspeak")]
-        IconTeamspeak = '\uf4f9',
+        [Display(Name = "Teamspeak", Description = "fab fa-teamspeak", GroupName = "Brands")]
+        Teamspeak = '\uf4f9',
         
         /// <summary>
         ///     Telegram ("fa-telegram", \uf2c6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Telegram", Description = "fab fa-telegram")]
-        IconTelegram = '\uf2c6',
+        [Display(Name = "Telegram", Description = "fab fa-telegram", GroupName = "Brands")]
+        Telegram = '\uf2c6',
         
         /// <summary>
         ///     Telegram Plane ("fa-telegram-plane", \uf3fe) icon.
         /// </summary>
         /// 
-        [Display(Name = "Telegram Plane", Description = "fab fa-telegram-plane")]
-        IconTelegramPlane = '\uf3fe',
+        [Display(Name = "Telegram Plane", Description = "fab fa-telegram-plane", GroupName = "Brands")]
+        TelegramPlane = '\uf3fe',
         
         /// <summary>
         ///     Tencent Weibo ("fa-tencent-weibo", \uf1d5) icon.
         /// </summary>
         /// 
-        [Display(Name = "Tencent Weibo", Description = "fab fa-tencent-weibo")]
-        IconTencentWeibo = '\uf1d5',
+        [Display(Name = "Tencent Weibo", Description = "fab fa-tencent-weibo", GroupName = "Brands")]
+        TencentWeibo = '\uf1d5',
         
         /// <summary>
         ///     Themeco ("fa-themeco", \uf5c6) icon.
         /// </summary>
         /// 
-        [Display(Name = "Themeco", Description = "fab fa-themeco")]
-        IconThemeco = '\uf5c6',
+        [Display(Name = "Themeco", Description = "fab fa-themeco", GroupName = "Brands")]
+        Themeco = '\uf5c6',
         
         /// <summary>
         ///     Themeisle ("fa-themeisle", \uf2b2) icon.
         /// </summary>
         /// 
-        [Display(Name = "Themeisle", Description = "fab fa-themeisle")]
-        IconThemeisle = '\uf2b2',
+        [Display(Name = "Themeisle", Description = "fab fa-themeisle", GroupName = "Brands")]
+        Themeisle = '\uf2b2',
         
         /// <summary>
         ///     The Red Yeti ("fa-the-red-yeti", \uf69d) icon.
         /// </summary>
         /// 
-        [Display(Name = "The Red Yeti", Description = "fab fa-the-red-yeti")]
-        IconTheRedYeti = '\uf69d',
+        [Display(Name = "The Red Yeti", Description = "fab fa-the-red-yeti", GroupName = "Brands")]
+        TheRedYeti = '\uf69d',
         
         /// <summary>
         ///     Think Peaks ("fa-think-peaks", \uf731) icon.
         /// </summary>
         /// 
-        [Display(Name = "Think Peaks", Description = "fab fa-think-peaks")]
-        IconThinkPeaks = '\uf731',
+        [Display(Name = "Think Peaks", Description = "fab fa-think-peaks", GroupName = "Brands")]
+        ThinkPeaks = '\uf731',
         
         /// <summary>
         ///     Trade Federation ("fa-trade-federation", \uf513) icon.
         /// </summary>
         /// 
-        [Display(Name = "Trade Federation", Description = "fab fa-trade-federation")]
-        IconTradeFederation = '\uf513',
+        [Display(Name = "Trade Federation", Description = "fab fa-trade-federation", GroupName = "Brands")]
+        TradeFederation = '\uf513',
         
         /// <summary>
         ///     Trello ("fa-trello", \uf181) icon.
         /// </summary>
         /// 
-        [Display(Name = "Trello", Description = "fab fa-trello")]
-        IconTrello = '\uf181',
+        [Display(Name = "Trello", Description = "fab fa-trello", GroupName = "Brands")]
+        Trello = '\uf181',
         
         /// <summary>
         ///     Tripadvisor ("fa-tripadvisor", \uf262) icon.
         /// </summary>
         /// 
-        [Display(Name = "Tripadvisor", Description = "fab fa-tripadvisor")]
-        IconTripadvisor = '\uf262',
+        [Display(Name = "Tripadvisor", Description = "fab fa-tripadvisor", GroupName = "Brands")]
+        Tripadvisor = '\uf262',
         
         /// <summary>
         ///     Tumblr ("fa-tumblr", \uf173) icon.
         /// </summary>
         /// 
-        [Display(Name = "Tumblr", Description = "fab fa-tumblr")]
-        IconTumblr = '\uf173',
+        [Display(Name = "Tumblr", Description = "fab fa-tumblr", GroupName = "Brands")]
+        Tumblr = '\uf173',
         
         /// <summary>
         ///     Tumblr Square ("fa-tumblr-square", \uf174) icon.
         /// </summary>
         /// 
-        [Display(Name = "Tumblr Square", Description = "fab fa-tumblr-square")]
-        IconTumblrSquare = '\uf174',
+        [Display(Name = "Tumblr Square", Description = "fab fa-tumblr-square", GroupName = "Brands")]
+        TumblrSquare = '\uf174',
         
         /// <summary>
         ///     Twitch ("fa-twitch", \uf1e8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Twitch", Description = "fab fa-twitch")]
-        IconTwitch = '\uf1e8',
+        [Display(Name = "Twitch", Description = "fab fa-twitch", GroupName = "Brands")]
+        Twitch = '\uf1e8',
         
         /// <summary>
         ///     Twitter ("fa-twitter", \uf099) icon.
         /// </summary>
         /// 
-        [Display(Name = "Twitter", Description = "fab fa-twitter")]
-        IconTwitter = '\uf099',
+        [Display(Name = "Twitter", Description = "fab fa-twitter", GroupName = "Brands")]
+        Twitter = '\uf099',
         
         /// <summary>
         ///     Twitter Square ("fa-twitter-square", \uf081) icon.
         /// </summary>
         /// 
-        [Display(Name = "Twitter Square", Description = "fab fa-twitter-square")]
-        IconTwitterSquare = '\uf081',
+        [Display(Name = "Twitter Square", Description = "fab fa-twitter-square", GroupName = "Brands")]
+        TwitterSquare = '\uf081',
         
         /// <summary>
         ///     Typo3 ("fa-typo3", \uf42b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Typo3", Description = "fab fa-typo3")]
-        IconTypo3 = '\uf42b',
+        [Display(Name = "Typo3", Description = "fab fa-typo3", GroupName = "Brands")]
+        Typo3 = '\uf42b',
         
         /// <summary>
         ///     Uber ("fa-uber", \uf402) icon.
         /// </summary>
         /// 
-        [Display(Name = "Uber", Description = "fab fa-uber")]
-        IconUber = '\uf402',
+        [Display(Name = "Uber", Description = "fab fa-uber", GroupName = "Brands")]
+        Uber = '\uf402',
         
         /// <summary>
         ///     Ubuntu ("fa-ubuntu", \uf7df) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ubuntu", Description = "fab fa-ubuntu")]
-        IconUbuntu = '\uf7df',
+        [Display(Name = "Ubuntu", Description = "fab fa-ubuntu", GroupName = "Brands")]
+        Ubuntu = '\uf7df',
         
         /// <summary>
         ///     Uikit ("fa-uikit", \uf403) icon.
         /// </summary>
         /// 
-        [Display(Name = "Uikit", Description = "fab fa-uikit")]
-        IconUikit = '\uf403',
+        [Display(Name = "Uikit", Description = "fab fa-uikit", GroupName = "Brands")]
+        Uikit = '\uf403',
         
         /// <summary>
         ///     Umbraco ("fa-umbraco", \uf8e8) icon.
         /// </summary>
         /// 
-        [Display(Name = "Umbraco", Description = "fab fa-umbraco")]
-        IconUmbraco = '\uf8e8',
+        [Display(Name = "Umbraco", Description = "fab fa-umbraco", GroupName = "Brands")]
+        Umbraco = '\uf8e8',
         
         /// <summary>
         ///     Uniregistry ("fa-uniregistry", \uf404) icon.
         /// </summary>
         /// 
-        [Display(Name = "Uniregistry", Description = "fab fa-uniregistry")]
-        IconUniregistry = '\uf404',
+        [Display(Name = "Uniregistry", Description = "fab fa-uniregistry", GroupName = "Brands")]
+        Uniregistry = '\uf404',
         
         /// <summary>
         ///     Unity ("fa-unity", \uf949) icon.
         /// </summary>
         /// 
-        [Display(Name = "Unity", Description = "fab fa-unity")]
-        IconUnity = '\uf949',
+        [Display(Name = "Unity", Description = "fab fa-unity", GroupName = "Brands")]
+        Unity = '\uf949',
         
         /// <summary>
         ///     Untappd ("fa-untappd", \uf405) icon.
         /// </summary>
         /// 
-        [Display(Name = "Untappd", Description = "fab fa-untappd")]
-        IconUntappd = '\uf405',
+        [Display(Name = "Untappd", Description = "fab fa-untappd", GroupName = "Brands")]
+        Untappd = '\uf405',
         
         /// <summary>
         ///     Ups ("fa-ups", \uf7e0) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ups", Description = "fab fa-ups")]
-        IconUps = '\uf7e0',
+        [Display(Name = "Ups", Description = "fab fa-ups", GroupName = "Brands")]
+        Ups = '\uf7e0',
         
         /// <summary>
         ///     Usb ("fa-usb", \uf287) icon.
         /// </summary>
         /// 
-        [Display(Name = "Usb", Description = "fab fa-usb")]
-        IconUsb = '\uf287',
+        [Display(Name = "Usb", Description = "fab fa-usb", GroupName = "Brands")]
+        Usb = '\uf287',
         
         /// <summary>
         ///     Usps ("fa-usps", \uf7e1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Usps", Description = "fab fa-usps")]
-        IconUsps = '\uf7e1',
+        [Display(Name = "Usps", Description = "fab fa-usps", GroupName = "Brands")]
+        Usps = '\uf7e1',
         
         /// <summary>
         ///     Ussunnah ("fa-ussunnah", \uf407) icon.
         /// </summary>
         /// 
-        [Display(Name = "Ussunnah", Description = "fab fa-ussunnah")]
-        IconUssunnah = '\uf407',
+        [Display(Name = "Ussunnah", Description = "fab fa-ussunnah", GroupName = "Brands")]
+        Ussunnah = '\uf407',
         
         /// <summary>
         ///     Vaadin ("fa-vaadin", \uf408) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vaadin", Description = "fab fa-vaadin")]
-        IconVaadin = '\uf408',
+        [Display(Name = "Vaadin", Description = "fab fa-vaadin", GroupName = "Brands")]
+        Vaadin = '\uf408',
         
         /// <summary>
         ///     Viacoin ("fa-viacoin", \uf237) icon.
         /// </summary>
         /// 
-        [Display(Name = "Viacoin", Description = "fab fa-viacoin")]
-        IconViacoin = '\uf237',
+        [Display(Name = "Viacoin", Description = "fab fa-viacoin", GroupName = "Brands")]
+        Viacoin = '\uf237',
         
         /// <summary>
         ///     Viadeo ("fa-viadeo", \uf2a9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Viadeo", Description = "fab fa-viadeo")]
-        IconViadeo = '\uf2a9',
+        [Display(Name = "Viadeo", Description = "fab fa-viadeo", GroupName = "Brands")]
+        Viadeo = '\uf2a9',
         
         /// <summary>
         ///     Viadeo Square ("fa-viadeo-square", \uf2aa) icon.
         /// </summary>
         /// 
-        [Display(Name = "Viadeo Square", Description = "fab fa-viadeo-square")]
-        IconViadeoSquare = '\uf2aa',
+        [Display(Name = "Viadeo Square", Description = "fab fa-viadeo-square", GroupName = "Brands")]
+        ViadeoSquare = '\uf2aa',
         
         /// <summary>
         ///     Viber ("fa-viber", \uf409) icon.
         /// </summary>
         /// 
-        [Display(Name = "Viber", Description = "fab fa-viber")]
-        IconViber = '\uf409',
+        [Display(Name = "Viber", Description = "fab fa-viber", GroupName = "Brands")]
+        Viber = '\uf409',
         
         /// <summary>
         ///     Vimeo ("fa-vimeo", \uf40a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vimeo", Description = "fab fa-vimeo")]
-        IconVimeo = '\uf40a',
+        [Display(Name = "Vimeo", Description = "fab fa-vimeo", GroupName = "Brands")]
+        Vimeo = '\uf40a',
         
         /// <summary>
         ///     Vimeo Square ("fa-vimeo-square", \uf194) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vimeo Square", Description = "fab fa-vimeo-square")]
-        IconVimeoSquare = '\uf194',
+        [Display(Name = "Vimeo Square", Description = "fab fa-vimeo-square", GroupName = "Brands")]
+        VimeoSquare = '\uf194',
         
         /// <summary>
         ///     Vimeo V ("fa-vimeo-v", \uf27d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vimeo V", Description = "fab fa-vimeo-v")]
-        IconVimeoV = '\uf27d',
+        [Display(Name = "Vimeo V", Description = "fab fa-vimeo-v", GroupName = "Brands")]
+        VimeoV = '\uf27d',
         
         /// <summary>
         ///     Vine ("fa-vine", \uf1ca) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vine", Description = "fab fa-vine")]
-        IconVine = '\uf1ca',
+        [Display(Name = "Vine", Description = "fab fa-vine", GroupName = "Brands")]
+        Vine = '\uf1ca',
         
         /// <summary>
         ///     Vk ("fa-vk", \uf189) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vk", Description = "fab fa-vk")]
-        IconVk = '\uf189',
+        [Display(Name = "Vk", Description = "fab fa-vk", GroupName = "Brands")]
+        Vk = '\uf189',
         
         /// <summary>
         ///     Vnv ("fa-vnv", \uf40b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vnv", Description = "fab fa-vnv")]
-        IconVnv = '\uf40b',
+        [Display(Name = "Vnv", Description = "fab fa-vnv", GroupName = "Brands")]
+        Vnv = '\uf40b',
         
         /// <summary>
         ///     Vuejs ("fa-vuejs", \uf41f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Vuejs", Description = "fab fa-vuejs")]
-        IconVuejs = '\uf41f',
+        [Display(Name = "Vuejs", Description = "fab fa-vuejs", GroupName = "Brands")]
+        Vuejs = '\uf41f',
         
         /// <summary>
         ///     Waze ("fa-waze", \uf83f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Waze", Description = "fab fa-waze")]
-        IconWaze = '\uf83f',
+        [Display(Name = "Waze", Description = "fab fa-waze", GroupName = "Brands")]
+        Waze = '\uf83f',
         
         /// <summary>
         ///     Weebly ("fa-weebly", \uf5cc) icon.
         /// </summary>
         /// 
-        [Display(Name = "Weebly", Description = "fab fa-weebly")]
-        IconWeebly = '\uf5cc',
+        [Display(Name = "Weebly", Description = "fab fa-weebly", GroupName = "Brands")]
+        Weebly = '\uf5cc',
         
         /// <summary>
         ///     Weibo ("fa-weibo", \uf18a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Weibo", Description = "fab fa-weibo")]
-        IconWeibo = '\uf18a',
+        [Display(Name = "Weibo", Description = "fab fa-weibo", GroupName = "Brands")]
+        Weibo = '\uf18a',
         
         /// <summary>
         ///     Weixin ("fa-weixin", \uf1d7) icon.
         /// </summary>
         /// 
-        [Display(Name = "Weixin", Description = "fab fa-weixin")]
-        IconWeixin = '\uf1d7',
+        [Display(Name = "Weixin", Description = "fab fa-weixin", GroupName = "Brands")]
+        Weixin = '\uf1d7',
         
         /// <summary>
         ///     Whatsapp ("fa-whatsapp", \uf232) icon.
         /// </summary>
         /// 
-        [Display(Name = "Whatsapp", Description = "fab fa-whatsapp")]
-        IconWhatsapp = '\uf232',
+        [Display(Name = "Whatsapp", Description = "fab fa-whatsapp", GroupName = "Brands")]
+        Whatsapp = '\uf232',
         
         /// <summary>
         ///     Whatsapp Square ("fa-whatsapp-square", \uf40c) icon.
         /// </summary>
         /// 
-        [Display(Name = "Whatsapp Square", Description = "fab fa-whatsapp-square")]
-        IconWhatsappSquare = '\uf40c',
+        [Display(Name = "Whatsapp Square", Description = "fab fa-whatsapp-square", GroupName = "Brands")]
+        WhatsappSquare = '\uf40c',
         
         /// <summary>
         ///     Whmcs ("fa-whmcs", \uf40d) icon.
         /// </summary>
         /// 
-        [Display(Name = "Whmcs", Description = "fab fa-whmcs")]
-        IconWhmcs = '\uf40d',
+        [Display(Name = "Whmcs", Description = "fab fa-whmcs", GroupName = "Brands")]
+        Whmcs = '\uf40d',
         
         /// <summary>
         ///     Wikipedia W ("fa-wikipedia-w", \uf266) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wikipedia W", Description = "fab fa-wikipedia-w")]
-        IconWikipediaW = '\uf266',
+        [Display(Name = "Wikipedia W", Description = "fab fa-wikipedia-w", GroupName = "Brands")]
+        WikipediaW = '\uf266',
         
         /// <summary>
         ///     Windows ("fa-windows", \uf17a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Windows", Description = "fab fa-windows")]
-        IconWindows = '\uf17a',
+        [Display(Name = "Windows", Description = "fab fa-windows", GroupName = "Brands")]
+        Windows = '\uf17a',
         
         /// <summary>
         ///     Wix ("fa-wix", \uf5cf) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wix", Description = "fab fa-wix")]
-        IconWix = '\uf5cf',
+        [Display(Name = "Wix", Description = "fab fa-wix", GroupName = "Brands")]
+        Wix = '\uf5cf',
         
         /// <summary>
         ///     Wizards Of The Coast ("fa-wizards-of-the-coast", \uf730) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wizards Of The Coast", Description = "fab fa-wizards-of-the-coast")]
-        IconWizardsOfTheCoast = '\uf730',
+        [Display(Name = "Wizards Of The Coast", Description = "fab fa-wizards-of-the-coast", GroupName = "Brands")]
+        WizardsOfTheCoast = '\uf730',
         
         /// <summary>
         ///     Wolf Pack Battalion ("fa-wolf-pack-battalion", \uf514) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wolf Pack Battalion", Description = "fab fa-wolf-pack-battalion")]
-        IconWolfPackBattalion = '\uf514',
+        [Display(Name = "Wolf Pack Battalion", Description = "fab fa-wolf-pack-battalion", GroupName = "Brands")]
+        WolfPackBattalion = '\uf514',
         
         /// <summary>
         ///     Wordpress ("fa-wordpress", \uf19a) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wordpress", Description = "fab fa-wordpress")]
-        IconWordpress = '\uf19a',
+        [Display(Name = "Wordpress", Description = "fab fa-wordpress", GroupName = "Brands")]
+        Wordpress = '\uf19a',
         
         /// <summary>
         ///     Wordpress Simple ("fa-wordpress-simple", \uf411) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wordpress Simple", Description = "fab fa-wordpress-simple")]
-        IconWordpressSimple = '\uf411',
+        [Display(Name = "Wordpress Simple", Description = "fab fa-wordpress-simple", GroupName = "Brands")]
+        WordpressSimple = '\uf411',
         
         /// <summary>
         ///     Wpbeginner ("fa-wpbeginner", \uf297) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wpbeginner", Description = "fab fa-wpbeginner")]
-        IconWpbeginner = '\uf297',
+        [Display(Name = "Wpbeginner", Description = "fab fa-wpbeginner", GroupName = "Brands")]
+        Wpbeginner = '\uf297',
         
         /// <summary>
         ///     Wpexplorer ("fa-wpexplorer", \uf2de) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wpexplorer", Description = "fab fa-wpexplorer")]
-        IconWpexplorer = '\uf2de',
+        [Display(Name = "Wpexplorer", Description = "fab fa-wpexplorer", GroupName = "Brands")]
+        Wpexplorer = '\uf2de',
         
         /// <summary>
         ///     Wpforms ("fa-wpforms", \uf298) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wpforms", Description = "fab fa-wpforms")]
-        IconWpforms = '\uf298',
+        [Display(Name = "Wpforms", Description = "fab fa-wpforms", GroupName = "Brands")]
+        Wpforms = '\uf298',
         
         /// <summary>
         ///     Wpressr ("fa-wpressr", \uf3e4) icon.
         /// </summary>
         /// 
-        [Display(Name = "Wpressr", Description = "fab fa-wpressr")]
-        IconWpressr = '\uf3e4',
+        [Display(Name = "Wpressr", Description = "fab fa-wpressr", GroupName = "Brands")]
+        Wpressr = '\uf3e4',
         
         /// <summary>
         ///     Xbox ("fa-xbox", \uf412) icon.
         /// </summary>
         /// 
-        [Display(Name = "Xbox", Description = "fab fa-xbox")]
-        IconXbox = '\uf412',
+        [Display(Name = "Xbox", Description = "fab fa-xbox", GroupName = "Brands")]
+        Xbox = '\uf412',
         
         /// <summary>
         ///     Xing ("fa-xing", \uf168) icon.
         /// </summary>
         /// 
-        [Display(Name = "Xing", Description = "fab fa-xing")]
-        IconXing = '\uf168',
+        [Display(Name = "Xing", Description = "fab fa-xing", GroupName = "Brands")]
+        Xing = '\uf168',
         
         /// <summary>
         ///     Xing Square ("fa-xing-square", \uf169) icon.
         /// </summary>
         /// 
-        [Display(Name = "Xing Square", Description = "fab fa-xing-square")]
-        IconXingSquare = '\uf169',
+        [Display(Name = "Xing Square", Description = "fab fa-xing-square", GroupName = "Brands")]
+        XingSquare = '\uf169',
         
         /// <summary>
         ///     Yahoo ("fa-yahoo", \uf19e) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yahoo", Description = "fab fa-yahoo")]
-        IconYahoo = '\uf19e',
+        [Display(Name = "Yahoo", Description = "fab fa-yahoo", GroupName = "Brands")]
+        Yahoo = '\uf19e',
         
         /// <summary>
         ///     Yammer ("fa-yammer", \uf840) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yammer", Description = "fab fa-yammer")]
-        IconYammer = '\uf840',
+        [Display(Name = "Yammer", Description = "fab fa-yammer", GroupName = "Brands")]
+        Yammer = '\uf840',
         
         /// <summary>
         ///     Yandex ("fa-yandex", \uf413) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yandex", Description = "fab fa-yandex")]
-        IconYandex = '\uf413',
+        [Display(Name = "Yandex", Description = "fab fa-yandex", GroupName = "Brands")]
+        Yandex = '\uf413',
         
         /// <summary>
         ///     Yandex International ("fa-yandex-international", \uf414) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yandex International", Description = "fab fa-yandex-international")]
-        IconYandexInternational = '\uf414',
+        [Display(Name = "Yandex International", Description = "fab fa-yandex-international", GroupName = "Brands")]
+        YandexInternational = '\uf414',
         
         /// <summary>
         ///     Yarn ("fa-yarn", \uf7e3) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yarn", Description = "fab fa-yarn")]
-        IconYarn = '\uf7e3',
+        [Display(Name = "Yarn", Description = "fab fa-yarn", GroupName = "Brands")]
+        Yarn = '\uf7e3',
         
         /// <summary>
         ///     Y Combinator ("fa-y-combinator", \uf23b) icon.
         /// </summary>
         /// 
-        [Display(Name = "Y Combinator", Description = "fab fa-y-combinator")]
-        IconYCombinator = '\uf23b',
+        [Display(Name = "Y Combinator", Description = "fab fa-y-combinator", GroupName = "Brands")]
+        YCombinator = '\uf23b',
         
         /// <summary>
         ///     Yelp ("fa-yelp", \uf1e9) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yelp", Description = "fab fa-yelp")]
-        IconYelp = '\uf1e9',
+        [Display(Name = "Yelp", Description = "fab fa-yelp", GroupName = "Brands")]
+        Yelp = '\uf1e9',
         
         /// <summary>
         ///     Yoast ("fa-yoast", \uf2b1) icon.
         /// </summary>
         /// 
-        [Display(Name = "Yoast", Description = "fab fa-yoast")]
-        IconYoast = '\uf2b1',
+        [Display(Name = "Yoast", Description = "fab fa-yoast", GroupName = "Brands")]
+        Yoast = '\uf2b1',
         
         /// <summary>
         ///     Youtube ("fa-youtube", \uf167) icon.
         /// </summary>
         /// 
-        [Display(Name = "Youtube", Description = "fab fa-youtube")]
-        IconYoutube = '\uf167',
+        [Display(Name = "Youtube", Description = "fab fa-youtube", GroupName = "Brands")]
+        Youtube = '\uf167',
         
         /// <summary>
         ///     Youtube Square ("fa-youtube-square", \uf431) icon.
         /// </summary>
         /// 
-        [Display(Name = "Youtube Square", Description = "fab fa-youtube-square")]
-        IconYoutubeSquare = '\uf431',
+        [Display(Name = "Youtube Square", Description = "fab fa-youtube-square", GroupName = "Brands")]
+        YoutubeSquare = '\uf431',
         
         /// <summary>
         ///     Zhihu ("fa-zhihu", \uf63f) icon.
         /// </summary>
         /// 
-        [Display(Name = "Zhihu", Description = "fab fa-zhihu")]
-        IconZhihu = '\uf63f',
+        [Display(Name = "Zhihu", Description = "fab fa-zhihu", GroupName = "Brands")]
+        Zhihu = '\uf63f',
         
     }
     
@@ -3116,448 +3116,448 @@ namespace System.Enums
         /// 
         public static string GetCss(this FontAwesomeBrands icon) => icon switch
         {
-            FontAwesomeBrands.Icon500Px => "fab fa-500px",
-            FontAwesomeBrands.IconAccessibleIcon => "fab fa-accessible-icon",
-            FontAwesomeBrands.IconAccusoft => "fab fa-accusoft",
-            FontAwesomeBrands.IconAcquisitionsIncorporated => "fab fa-acquisitions-incorporated",
-            FontAwesomeBrands.IconAdn => "fab fa-adn",
-            FontAwesomeBrands.IconAdobe => "fab fa-adobe",
-            FontAwesomeBrands.IconAdversal => "fab fa-adversal",
-            FontAwesomeBrands.IconAffiliatetheme => "fab fa-affiliatetheme",
-            FontAwesomeBrands.IconAirbnb => "fab fa-airbnb",
-            FontAwesomeBrands.IconAlgolia => "fab fa-algolia",
-            FontAwesomeBrands.IconAlipay => "fab fa-alipay",
-            FontAwesomeBrands.IconAmazon => "fab fa-amazon",
-            FontAwesomeBrands.IconAmazonPay => "fab fa-amazon-pay",
-            FontAwesomeBrands.IconAmilia => "fab fa-amilia",
-            FontAwesomeBrands.IconAndroid => "fab fa-android",
-            FontAwesomeBrands.IconAngellist => "fab fa-angellist",
-            FontAwesomeBrands.IconAngrycreative => "fab fa-angrycreative",
-            FontAwesomeBrands.IconAngular => "fab fa-angular",
-            FontAwesomeBrands.IconApper => "fab fa-apper",
-            FontAwesomeBrands.IconApple => "fab fa-apple",
-            FontAwesomeBrands.IconApplePay => "fab fa-apple-pay",
-            FontAwesomeBrands.IconAppStore => "fab fa-app-store",
-            FontAwesomeBrands.IconAppStoreIos => "fab fa-app-store-ios",
-            FontAwesomeBrands.IconArtstation => "fab fa-artstation",
-            FontAwesomeBrands.IconAsymmetrik => "fab fa-asymmetrik",
-            FontAwesomeBrands.IconAtlassian => "fab fa-atlassian",
-            FontAwesomeBrands.IconAudible => "fab fa-audible",
-            FontAwesomeBrands.IconAutoprefixer => "fab fa-autoprefixer",
-            FontAwesomeBrands.IconAvianex => "fab fa-avianex",
-            FontAwesomeBrands.IconAviato => "fab fa-aviato",
-            FontAwesomeBrands.IconAws => "fab fa-aws",
-            FontAwesomeBrands.IconBandcamp => "fab fa-bandcamp",
-            FontAwesomeBrands.IconBattleNet => "fab fa-battle-net",
-            FontAwesomeBrands.IconBehance => "fab fa-behance",
-            FontAwesomeBrands.IconBehanceSquare => "fab fa-behance-square",
-            FontAwesomeBrands.IconBimobject => "fab fa-bimobject",
-            FontAwesomeBrands.IconBitbucket => "fab fa-bitbucket",
-            FontAwesomeBrands.IconBitcoin => "fab fa-bitcoin",
-            FontAwesomeBrands.IconBity => "fab fa-bity",
-            FontAwesomeBrands.IconBlackberry => "fab fa-blackberry",
-            FontAwesomeBrands.IconBlackTie => "fab fa-black-tie",
-            FontAwesomeBrands.IconBlogger => "fab fa-blogger",
-            FontAwesomeBrands.IconBloggerB => "fab fa-blogger-b",
-            FontAwesomeBrands.IconBluetooth => "fab fa-bluetooth",
-            FontAwesomeBrands.IconBluetoothB => "fab fa-bluetooth-b",
-            FontAwesomeBrands.IconBootstrap => "fab fa-bootstrap",
-            FontAwesomeBrands.IconBtc => "fab fa-btc",
-            FontAwesomeBrands.IconBuffer => "fab fa-buffer",
-            FontAwesomeBrands.IconBuromobelexperte => "fab fa-buromobelexperte",
-            FontAwesomeBrands.IconBuyNLarge => "fab fa-buy-n-large",
-            FontAwesomeBrands.IconBuysellads => "fab fa-buysellads",
-            FontAwesomeBrands.IconCanadianMapleLeaf => "fab fa-canadian-maple-leaf",
-            FontAwesomeBrands.IconCcAmazonPay => "fab fa-cc-amazon-pay",
-            FontAwesomeBrands.IconCcAmex => "fab fa-cc-amex",
-            FontAwesomeBrands.IconCcApplePay => "fab fa-cc-apple-pay",
-            FontAwesomeBrands.IconCcDinersClub => "fab fa-cc-diners-club",
-            FontAwesomeBrands.IconCcDiscover => "fab fa-cc-discover",
-            FontAwesomeBrands.IconCcJcb => "fab fa-cc-jcb",
-            FontAwesomeBrands.IconCcMastercard => "fab fa-cc-mastercard",
-            FontAwesomeBrands.IconCcPaypal => "fab fa-cc-paypal",
-            FontAwesomeBrands.IconCcStripe => "fab fa-cc-stripe",
-            FontAwesomeBrands.IconCcVisa => "fab fa-cc-visa",
-            FontAwesomeBrands.IconCentercode => "fab fa-centercode",
-            FontAwesomeBrands.IconCentos => "fab fa-centos",
-            FontAwesomeBrands.IconChrome => "fab fa-chrome",
-            FontAwesomeBrands.IconChromecast => "fab fa-chromecast",
-            FontAwesomeBrands.IconCloudscale => "fab fa-cloudscale",
-            FontAwesomeBrands.IconCloudsmith => "fab fa-cloudsmith",
-            FontAwesomeBrands.IconCloudversify => "fab fa-cloudversify",
-            FontAwesomeBrands.IconCodepen => "fab fa-codepen",
-            FontAwesomeBrands.IconCodiepie => "fab fa-codiepie",
-            FontAwesomeBrands.IconConfluence => "fab fa-confluence",
-            FontAwesomeBrands.IconConnectdevelop => "fab fa-connectdevelop",
-            FontAwesomeBrands.IconContao => "fab fa-contao",
-            FontAwesomeBrands.IconCottonBureau => "fab fa-cotton-bureau",
-            FontAwesomeBrands.IconCpanel => "fab fa-cpanel",
-            FontAwesomeBrands.IconCreativeCommons => "fab fa-creative-commons",
-            FontAwesomeBrands.IconCreativeCommonsBy => "fab fa-creative-commons-by",
-            FontAwesomeBrands.IconCreativeCommonsNc => "fab fa-creative-commons-nc",
-            FontAwesomeBrands.IconCreativeCommonsNcEu => "fab fa-creative-commons-nc-eu",
-            FontAwesomeBrands.IconCreativeCommonsNcJp => "fab fa-creative-commons-nc-jp",
-            FontAwesomeBrands.IconCreativeCommonsNd => "fab fa-creative-commons-nd",
-            FontAwesomeBrands.IconCreativeCommonsPd => "fab fa-creative-commons-pd",
-            FontAwesomeBrands.IconCreativeCommonsPdAlt => "fab fa-creative-commons-pd-alt",
-            FontAwesomeBrands.IconCreativeCommonsRemix => "fab fa-creative-commons-remix",
-            FontAwesomeBrands.IconCreativeCommonsSa => "fab fa-creative-commons-sa",
-            FontAwesomeBrands.IconCreativeCommonsSampling => "fab fa-creative-commons-sampling",
-            FontAwesomeBrands.IconCreativeCommonsSamplingPlus => "fab fa-creative-commons-sampling-plus",
-            FontAwesomeBrands.IconCreativeCommonsShare => "fab fa-creative-commons-share",
-            FontAwesomeBrands.IconCreativeCommonsZero => "fab fa-creative-commons-zero",
-            FontAwesomeBrands.IconCriticalRole => "fab fa-critical-role",
-            FontAwesomeBrands.IconCss3 => "fab fa-css3",
-            FontAwesomeBrands.IconCss3Alt => "fab fa-css3-alt",
-            FontAwesomeBrands.IconCuttlefish => "fab fa-cuttlefish",
-            FontAwesomeBrands.IconDailymotion => "fab fa-dailymotion",
-            FontAwesomeBrands.IconDAndD => "fab fa-d-and-d",
-            FontAwesomeBrands.IconDAndDBeyond => "fab fa-d-and-d-beyond",
-            FontAwesomeBrands.IconDashcube => "fab fa-dashcube",
-            FontAwesomeBrands.IconDelicious => "fab fa-delicious",
-            FontAwesomeBrands.IconDeploydog => "fab fa-deploydog",
-            FontAwesomeBrands.IconDeskpro => "fab fa-deskpro",
-            FontAwesomeBrands.IconDev => "fab fa-dev",
-            FontAwesomeBrands.IconDeviantart => "fab fa-deviantart",
-            FontAwesomeBrands.IconDhl => "fab fa-dhl",
-            FontAwesomeBrands.IconDiaspora => "fab fa-diaspora",
-            FontAwesomeBrands.IconDigg => "fab fa-digg",
-            FontAwesomeBrands.IconDigitalOcean => "fab fa-digital-ocean",
-            FontAwesomeBrands.IconDiscord => "fab fa-discord",
-            FontAwesomeBrands.IconDiscourse => "fab fa-discourse",
-            FontAwesomeBrands.IconDochub => "fab fa-dochub",
-            FontAwesomeBrands.IconDocker => "fab fa-docker",
-            FontAwesomeBrands.IconDraft2digital => "fab fa-draft2digital",
-            FontAwesomeBrands.IconDribbble => "fab fa-dribbble",
-            FontAwesomeBrands.IconDribbbleSquare => "fab fa-dribbble-square",
-            FontAwesomeBrands.IconDropbox => "fab fa-dropbox",
-            FontAwesomeBrands.IconDrupal => "fab fa-drupal",
-            FontAwesomeBrands.IconDyalog => "fab fa-dyalog",
-            FontAwesomeBrands.IconEarlybirds => "fab fa-earlybirds",
-            FontAwesomeBrands.IconEbay => "fab fa-ebay",
-            FontAwesomeBrands.IconEdge => "fab fa-edge",
-            FontAwesomeBrands.IconElementor => "fab fa-elementor",
-            FontAwesomeBrands.IconEllo => "fab fa-ello",
-            FontAwesomeBrands.IconEmber => "fab fa-ember",
-            FontAwesomeBrands.IconEmpire => "fab fa-empire",
-            FontAwesomeBrands.IconEnvira => "fab fa-envira",
-            FontAwesomeBrands.IconErlang => "fab fa-erlang",
-            FontAwesomeBrands.IconEthereum => "fab fa-ethereum",
-            FontAwesomeBrands.IconEtsy => "fab fa-etsy",
-            FontAwesomeBrands.IconEvernote => "fab fa-evernote",
-            FontAwesomeBrands.IconExpeditedssl => "fab fa-expeditedssl",
-            FontAwesomeBrands.IconFacebook => "fab fa-facebook",
-            FontAwesomeBrands.IconFacebookF => "fab fa-facebook-f",
-            FontAwesomeBrands.IconFacebookMessenger => "fab fa-facebook-messenger",
-            FontAwesomeBrands.IconFacebookSquare => "fab fa-facebook-square",
-            FontAwesomeBrands.IconFantasyFlightGames => "fab fa-fantasy-flight-games",
-            FontAwesomeBrands.IconFedex => "fab fa-fedex",
-            FontAwesomeBrands.IconFedora => "fab fa-fedora",
-            FontAwesomeBrands.IconFigma => "fab fa-figma",
-            FontAwesomeBrands.IconFirefox => "fab fa-firefox",
-            FontAwesomeBrands.IconFirefoxBrowser => "fab fa-firefox-browser",
-            FontAwesomeBrands.IconFirstdraft => "fab fa-firstdraft",
-            FontAwesomeBrands.IconFirstOrder => "fab fa-first-order",
-            FontAwesomeBrands.IconFirstOrderAlt => "fab fa-first-order-alt",
-            FontAwesomeBrands.IconFlickr => "fab fa-flickr",
-            FontAwesomeBrands.IconFlipboard => "fab fa-flipboard",
-            FontAwesomeBrands.IconFly => "fab fa-fly",
-            FontAwesomeBrands.IconFontAwesome => "fab fa-font-awesome",
-            FontAwesomeBrands.IconFontAwesomeAlt => "fab fa-font-awesome-alt",
-            FontAwesomeBrands.IconFontAwesomeFlag => "fab fa-font-awesome-flag",
-            FontAwesomeBrands.IconFonticons => "fab fa-fonticons",
-            FontAwesomeBrands.IconFonticonsFi => "fab fa-fonticons-fi",
-            FontAwesomeBrands.IconFortAwesome => "fab fa-fort-awesome",
-            FontAwesomeBrands.IconFortAwesomeAlt => "fab fa-fort-awesome-alt",
-            FontAwesomeBrands.IconForumbee => "fab fa-forumbee",
-            FontAwesomeBrands.IconFoursquare => "fab fa-foursquare",
-            FontAwesomeBrands.IconFreebsd => "fab fa-freebsd",
-            FontAwesomeBrands.IconFreeCodeCamp => "fab fa-free-code-camp",
-            FontAwesomeBrands.IconFulcrum => "fab fa-fulcrum",
-            FontAwesomeBrands.IconGalacticRepublic => "fab fa-galactic-republic",
-            FontAwesomeBrands.IconGalacticSenate => "fab fa-galactic-senate",
-            FontAwesomeBrands.IconGetPocket => "fab fa-get-pocket",
-            FontAwesomeBrands.IconGg => "fab fa-gg",
-            FontAwesomeBrands.IconGgCircle => "fab fa-gg-circle",
-            FontAwesomeBrands.IconGit => "fab fa-git",
-            FontAwesomeBrands.IconGitAlt => "fab fa-git-alt",
-            FontAwesomeBrands.IconGithub => "fab fa-github",
-            FontAwesomeBrands.IconGithubAlt => "fab fa-github-alt",
-            FontAwesomeBrands.IconGithubSquare => "fab fa-github-square",
-            FontAwesomeBrands.IconGitkraken => "fab fa-gitkraken",
-            FontAwesomeBrands.IconGitlab => "fab fa-gitlab",
-            FontAwesomeBrands.IconGitSquare => "fab fa-git-square",
-            FontAwesomeBrands.IconGitter => "fab fa-gitter",
-            FontAwesomeBrands.IconGlide => "fab fa-glide",
-            FontAwesomeBrands.IconGlideG => "fab fa-glide-g",
-            FontAwesomeBrands.IconGofore => "fab fa-gofore",
-            FontAwesomeBrands.IconGoodreads => "fab fa-goodreads",
-            FontAwesomeBrands.IconGoodreadsG => "fab fa-goodreads-g",
-            FontAwesomeBrands.IconGoogle => "fab fa-google",
-            FontAwesomeBrands.IconGoogleDrive => "fab fa-google-drive",
-            FontAwesomeBrands.IconGooglePlay => "fab fa-google-play",
-            FontAwesomeBrands.IconGooglePlus => "fab fa-google-plus",
-            FontAwesomeBrands.IconGooglePlusG => "fab fa-google-plus-g",
-            FontAwesomeBrands.IconGooglePlusSquare => "fab fa-google-plus-square",
-            FontAwesomeBrands.IconGoogleWallet => "fab fa-google-wallet",
-            FontAwesomeBrands.IconGratipay => "fab fa-gratipay",
-            FontAwesomeBrands.IconGrav => "fab fa-grav",
-            FontAwesomeBrands.IconGripfire => "fab fa-gripfire",
-            FontAwesomeBrands.IconGrunt => "fab fa-grunt",
-            FontAwesomeBrands.IconGulp => "fab fa-gulp",
-            FontAwesomeBrands.IconHackerNews => "fab fa-hacker-news",
-            FontAwesomeBrands.IconHackerNewsSquare => "fab fa-hacker-news-square",
-            FontAwesomeBrands.IconHackerrank => "fab fa-hackerrank",
-            FontAwesomeBrands.IconHips => "fab fa-hips",
-            FontAwesomeBrands.IconHireAHelper => "fab fa-hire-a-helper",
-            FontAwesomeBrands.IconHooli => "fab fa-hooli",
-            FontAwesomeBrands.IconHornbill => "fab fa-hornbill",
-            FontAwesomeBrands.IconHotjar => "fab fa-hotjar",
-            FontAwesomeBrands.IconHouzz => "fab fa-houzz",
-            FontAwesomeBrands.IconHtml5 => "fab fa-html5",
-            FontAwesomeBrands.IconHubspot => "fab fa-hubspot",
-            FontAwesomeBrands.IconIdeal => "fab fa-ideal",
-            FontAwesomeBrands.IconImdb => "fab fa-imdb",
-            FontAwesomeBrands.IconInstagram => "fab fa-instagram",
-            FontAwesomeBrands.IconInstagramSquare => "fab fa-instagram-square",
-            FontAwesomeBrands.IconIntercom => "fab fa-intercom",
-            FontAwesomeBrands.IconInternetExplorer => "fab fa-internet-explorer",
-            FontAwesomeBrands.IconInvision => "fab fa-invision",
-            FontAwesomeBrands.IconIoxhost => "fab fa-ioxhost",
-            FontAwesomeBrands.IconItchIo => "fab fa-itch-io",
-            FontAwesomeBrands.IconItunes => "fab fa-itunes",
-            FontAwesomeBrands.IconItunesNote => "fab fa-itunes-note",
-            FontAwesomeBrands.IconJava => "fab fa-java",
-            FontAwesomeBrands.IconJediOrder => "fab fa-jedi-order",
-            FontAwesomeBrands.IconJenkins => "fab fa-jenkins",
-            FontAwesomeBrands.IconJira => "fab fa-jira",
-            FontAwesomeBrands.IconJoget => "fab fa-joget",
-            FontAwesomeBrands.IconJoomla => "fab fa-joomla",
-            FontAwesomeBrands.IconJs => "fab fa-js",
-            FontAwesomeBrands.IconJsfiddle => "fab fa-jsfiddle",
-            FontAwesomeBrands.IconJsSquare => "fab fa-js-square",
-            FontAwesomeBrands.IconKaggle => "fab fa-kaggle",
-            FontAwesomeBrands.IconKeybase => "fab fa-keybase",
-            FontAwesomeBrands.IconKeycdn => "fab fa-keycdn",
-            FontAwesomeBrands.IconKickstarter => "fab fa-kickstarter",
-            FontAwesomeBrands.IconKickstarterK => "fab fa-kickstarter-k",
-            FontAwesomeBrands.IconKorvue => "fab fa-korvue",
-            FontAwesomeBrands.IconLaravel => "fab fa-laravel",
-            FontAwesomeBrands.IconLastfm => "fab fa-lastfm",
-            FontAwesomeBrands.IconLastfmSquare => "fab fa-lastfm-square",
-            FontAwesomeBrands.IconLeanpub => "fab fa-leanpub",
-            FontAwesomeBrands.IconLess => "fab fa-less",
-            FontAwesomeBrands.IconLine => "fab fa-line",
-            FontAwesomeBrands.IconLinkedin => "fab fa-linkedin",
-            FontAwesomeBrands.IconLinkedinIn => "fab fa-linkedin-in",
-            FontAwesomeBrands.IconLinode => "fab fa-linode",
-            FontAwesomeBrands.IconLinux => "fab fa-linux",
-            FontAwesomeBrands.IconLyft => "fab fa-lyft",
-            FontAwesomeBrands.IconMagento => "fab fa-magento",
-            FontAwesomeBrands.IconMailchimp => "fab fa-mailchimp",
-            FontAwesomeBrands.IconMandalorian => "fab fa-mandalorian",
-            FontAwesomeBrands.IconMarkdown => "fab fa-markdown",
-            FontAwesomeBrands.IconMastodon => "fab fa-mastodon",
-            FontAwesomeBrands.IconMaxcdn => "fab fa-maxcdn",
-            FontAwesomeBrands.IconMdb => "fab fa-mdb",
-            FontAwesomeBrands.IconMedapps => "fab fa-medapps",
-            FontAwesomeBrands.IconMedium => "fab fa-medium",
-            FontAwesomeBrands.IconMediumM => "fab fa-medium-m",
-            FontAwesomeBrands.IconMedrt => "fab fa-medrt",
-            FontAwesomeBrands.IconMeetup => "fab fa-meetup",
-            FontAwesomeBrands.IconMegaport => "fab fa-megaport",
-            FontAwesomeBrands.IconMendeley => "fab fa-mendeley",
-            FontAwesomeBrands.IconMicroblog => "fab fa-microblog",
-            FontAwesomeBrands.IconMicrosoft => "fab fa-microsoft",
-            FontAwesomeBrands.IconMix => "fab fa-mix",
-            FontAwesomeBrands.IconMixcloud => "fab fa-mixcloud",
-            FontAwesomeBrands.IconMixer => "fab fa-mixer",
-            FontAwesomeBrands.IconMizuni => "fab fa-mizuni",
-            FontAwesomeBrands.IconModx => "fab fa-modx",
-            FontAwesomeBrands.IconMonero => "fab fa-monero",
-            FontAwesomeBrands.IconNapster => "fab fa-napster",
-            FontAwesomeBrands.IconNeos => "fab fa-neos",
-            FontAwesomeBrands.IconNimblr => "fab fa-nimblr",
-            FontAwesomeBrands.IconNode => "fab fa-node",
-            FontAwesomeBrands.IconNodeJs => "fab fa-node-js",
-            FontAwesomeBrands.IconNpm => "fab fa-npm",
-            FontAwesomeBrands.IconNs8 => "fab fa-ns8",
-            FontAwesomeBrands.IconNutritionix => "fab fa-nutritionix",
-            FontAwesomeBrands.IconOdnoklassniki => "fab fa-odnoklassniki",
-            FontAwesomeBrands.IconOdnoklassnikiSquare => "fab fa-odnoklassniki-square",
-            FontAwesomeBrands.IconOldRepublic => "fab fa-old-republic",
-            FontAwesomeBrands.IconOpencart => "fab fa-opencart",
-            FontAwesomeBrands.IconOpenid => "fab fa-openid",
-            FontAwesomeBrands.IconOpera => "fab fa-opera",
-            FontAwesomeBrands.IconOptinMonster => "fab fa-optin-monster",
-            FontAwesomeBrands.IconOrcid => "fab fa-orcid",
-            FontAwesomeBrands.IconOsi => "fab fa-osi",
-            FontAwesomeBrands.IconPage4 => "fab fa-page4",
-            FontAwesomeBrands.IconPagelines => "fab fa-pagelines",
-            FontAwesomeBrands.IconPalfed => "fab fa-palfed",
-            FontAwesomeBrands.IconPatreon => "fab fa-patreon",
-            FontAwesomeBrands.IconPaypal => "fab fa-paypal",
-            FontAwesomeBrands.IconPennyArcade => "fab fa-penny-arcade",
-            FontAwesomeBrands.IconPeriscope => "fab fa-periscope",
-            FontAwesomeBrands.IconPhabricator => "fab fa-phabricator",
-            FontAwesomeBrands.IconPhoenixFramework => "fab fa-phoenix-framework",
-            FontAwesomeBrands.IconPhoenixSquadron => "fab fa-phoenix-squadron",
-            FontAwesomeBrands.IconPhp => "fab fa-php",
-            FontAwesomeBrands.IconPiedPiper => "fab fa-pied-piper",
-            FontAwesomeBrands.IconPiedPiperAlt => "fab fa-pied-piper-alt",
-            FontAwesomeBrands.IconPiedPiperHat => "fab fa-pied-piper-hat",
-            FontAwesomeBrands.IconPiedPiperPp => "fab fa-pied-piper-pp",
-            FontAwesomeBrands.IconPiedPiperSquare => "fab fa-pied-piper-square",
-            FontAwesomeBrands.IconPinterest => "fab fa-pinterest",
-            FontAwesomeBrands.IconPinterestP => "fab fa-pinterest-p",
-            FontAwesomeBrands.IconPinterestSquare => "fab fa-pinterest-square",
-            FontAwesomeBrands.IconPlaystation => "fab fa-playstation",
-            FontAwesomeBrands.IconProductHunt => "fab fa-product-hunt",
-            FontAwesomeBrands.IconPushed => "fab fa-pushed",
-            FontAwesomeBrands.IconPython => "fab fa-python",
-            FontAwesomeBrands.IconQq => "fab fa-qq",
-            FontAwesomeBrands.IconQuinscape => "fab fa-quinscape",
-            FontAwesomeBrands.IconQuora => "fab fa-quora",
-            FontAwesomeBrands.IconRaspberryPi => "fab fa-raspberry-pi",
-            FontAwesomeBrands.IconRavelry => "fab fa-ravelry",
-            FontAwesomeBrands.IconReact => "fab fa-react",
-            FontAwesomeBrands.IconReacteurope => "fab fa-reacteurope",
-            FontAwesomeBrands.IconReadme => "fab fa-readme",
-            FontAwesomeBrands.IconRebel => "fab fa-rebel",
-            FontAwesomeBrands.IconReddit => "fab fa-reddit",
-            FontAwesomeBrands.IconRedditAlien => "fab fa-reddit-alien",
-            FontAwesomeBrands.IconRedditSquare => "fab fa-reddit-square",
-            FontAwesomeBrands.IconRedhat => "fab fa-redhat",
-            FontAwesomeBrands.IconRedRiver => "fab fa-red-river",
-            FontAwesomeBrands.IconRenren => "fab fa-renren",
-            FontAwesomeBrands.IconReplyd => "fab fa-replyd",
-            FontAwesomeBrands.IconResearchgate => "fab fa-researchgate",
-            FontAwesomeBrands.IconResolving => "fab fa-resolving",
-            FontAwesomeBrands.IconRev => "fab fa-rev",
-            FontAwesomeBrands.IconRocketchat => "fab fa-rocketchat",
-            FontAwesomeBrands.IconRockrms => "fab fa-rockrms",
-            FontAwesomeBrands.IconRProject => "fab fa-r-project",
-            FontAwesomeBrands.IconSafari => "fab fa-safari",
-            FontAwesomeBrands.IconSalesforce => "fab fa-salesforce",
-            FontAwesomeBrands.IconSass => "fab fa-sass",
-            FontAwesomeBrands.IconSchlix => "fab fa-schlix",
-            FontAwesomeBrands.IconScribd => "fab fa-scribd",
-            FontAwesomeBrands.IconSearchengin => "fab fa-searchengin",
-            FontAwesomeBrands.IconSellcast => "fab fa-sellcast",
-            FontAwesomeBrands.IconSellsy => "fab fa-sellsy",
-            FontAwesomeBrands.IconServicestack => "fab fa-servicestack",
-            FontAwesomeBrands.IconShirtsinbulk => "fab fa-shirtsinbulk",
-            FontAwesomeBrands.IconShopify => "fab fa-shopify",
-            FontAwesomeBrands.IconShopware => "fab fa-shopware",
-            FontAwesomeBrands.IconSimplybuilt => "fab fa-simplybuilt",
-            FontAwesomeBrands.IconSistrix => "fab fa-sistrix",
-            FontAwesomeBrands.IconSith => "fab fa-sith",
-            FontAwesomeBrands.IconSketch => "fab fa-sketch",
-            FontAwesomeBrands.IconSkyatlas => "fab fa-skyatlas",
-            FontAwesomeBrands.IconSkype => "fab fa-skype",
-            FontAwesomeBrands.IconSlack => "fab fa-slack",
-            FontAwesomeBrands.IconSlackHash => "fab fa-slack-hash",
-            FontAwesomeBrands.IconSlideshare => "fab fa-slideshare",
-            FontAwesomeBrands.IconSnapchat => "fab fa-snapchat",
-            FontAwesomeBrands.IconSnapchatGhost => "fab fa-snapchat-ghost",
-            FontAwesomeBrands.IconSnapchatSquare => "fab fa-snapchat-square",
-            FontAwesomeBrands.IconSoundcloud => "fab fa-soundcloud",
-            FontAwesomeBrands.IconSourcetree => "fab fa-sourcetree",
-            FontAwesomeBrands.IconSpeakap => "fab fa-speakap",
-            FontAwesomeBrands.IconSpeakerDeck => "fab fa-speaker-deck",
-            FontAwesomeBrands.IconSpotify => "fab fa-spotify",
-            FontAwesomeBrands.IconSquarespace => "fab fa-squarespace",
-            FontAwesomeBrands.IconStackExchange => "fab fa-stack-exchange",
-            FontAwesomeBrands.IconStackOverflow => "fab fa-stack-overflow",
-            FontAwesomeBrands.IconStackpath => "fab fa-stackpath",
-            FontAwesomeBrands.IconStaylinked => "fab fa-staylinked",
-            FontAwesomeBrands.IconSteam => "fab fa-steam",
-            FontAwesomeBrands.IconSteamSquare => "fab fa-steam-square",
-            FontAwesomeBrands.IconSteamSymbol => "fab fa-steam-symbol",
-            FontAwesomeBrands.IconStickerMule => "fab fa-sticker-mule",
-            FontAwesomeBrands.IconStrava => "fab fa-strava",
-            FontAwesomeBrands.IconStripe => "fab fa-stripe",
-            FontAwesomeBrands.IconStripeS => "fab fa-stripe-s",
-            FontAwesomeBrands.IconStudiovinari => "fab fa-studiovinari",
-            FontAwesomeBrands.IconStumbleupon => "fab fa-stumbleupon",
-            FontAwesomeBrands.IconStumbleuponCircle => "fab fa-stumbleupon-circle",
-            FontAwesomeBrands.IconSuperpowers => "fab fa-superpowers",
-            FontAwesomeBrands.IconSupple => "fab fa-supple",
-            FontAwesomeBrands.IconSuse => "fab fa-suse",
-            FontAwesomeBrands.IconSwift => "fab fa-swift",
-            FontAwesomeBrands.IconSymfony => "fab fa-symfony",
-            FontAwesomeBrands.IconTeamspeak => "fab fa-teamspeak",
-            FontAwesomeBrands.IconTelegram => "fab fa-telegram",
-            FontAwesomeBrands.IconTelegramPlane => "fab fa-telegram-plane",
-            FontAwesomeBrands.IconTencentWeibo => "fab fa-tencent-weibo",
-            FontAwesomeBrands.IconThemeco => "fab fa-themeco",
-            FontAwesomeBrands.IconThemeisle => "fab fa-themeisle",
-            FontAwesomeBrands.IconTheRedYeti => "fab fa-the-red-yeti",
-            FontAwesomeBrands.IconThinkPeaks => "fab fa-think-peaks",
-            FontAwesomeBrands.IconTradeFederation => "fab fa-trade-federation",
-            FontAwesomeBrands.IconTrello => "fab fa-trello",
-            FontAwesomeBrands.IconTripadvisor => "fab fa-tripadvisor",
-            FontAwesomeBrands.IconTumblr => "fab fa-tumblr",
-            FontAwesomeBrands.IconTumblrSquare => "fab fa-tumblr-square",
-            FontAwesomeBrands.IconTwitch => "fab fa-twitch",
-            FontAwesomeBrands.IconTwitter => "fab fa-twitter",
-            FontAwesomeBrands.IconTwitterSquare => "fab fa-twitter-square",
-            FontAwesomeBrands.IconTypo3 => "fab fa-typo3",
-            FontAwesomeBrands.IconUber => "fab fa-uber",
-            FontAwesomeBrands.IconUbuntu => "fab fa-ubuntu",
-            FontAwesomeBrands.IconUikit => "fab fa-uikit",
-            FontAwesomeBrands.IconUmbraco => "fab fa-umbraco",
-            FontAwesomeBrands.IconUniregistry => "fab fa-uniregistry",
-            FontAwesomeBrands.IconUnity => "fab fa-unity",
-            FontAwesomeBrands.IconUntappd => "fab fa-untappd",
-            FontAwesomeBrands.IconUps => "fab fa-ups",
-            FontAwesomeBrands.IconUsb => "fab fa-usb",
-            FontAwesomeBrands.IconUsps => "fab fa-usps",
-            FontAwesomeBrands.IconUssunnah => "fab fa-ussunnah",
-            FontAwesomeBrands.IconVaadin => "fab fa-vaadin",
-            FontAwesomeBrands.IconViacoin => "fab fa-viacoin",
-            FontAwesomeBrands.IconViadeo => "fab fa-viadeo",
-            FontAwesomeBrands.IconViadeoSquare => "fab fa-viadeo-square",
-            FontAwesomeBrands.IconViber => "fab fa-viber",
-            FontAwesomeBrands.IconVimeo => "fab fa-vimeo",
-            FontAwesomeBrands.IconVimeoSquare => "fab fa-vimeo-square",
-            FontAwesomeBrands.IconVimeoV => "fab fa-vimeo-v",
-            FontAwesomeBrands.IconVine => "fab fa-vine",
-            FontAwesomeBrands.IconVk => "fab fa-vk",
-            FontAwesomeBrands.IconVnv => "fab fa-vnv",
-            FontAwesomeBrands.IconVuejs => "fab fa-vuejs",
-            FontAwesomeBrands.IconWaze => "fab fa-waze",
-            FontAwesomeBrands.IconWeebly => "fab fa-weebly",
-            FontAwesomeBrands.IconWeibo => "fab fa-weibo",
-            FontAwesomeBrands.IconWeixin => "fab fa-weixin",
-            FontAwesomeBrands.IconWhatsapp => "fab fa-whatsapp",
-            FontAwesomeBrands.IconWhatsappSquare => "fab fa-whatsapp-square",
-            FontAwesomeBrands.IconWhmcs => "fab fa-whmcs",
-            FontAwesomeBrands.IconWikipediaW => "fab fa-wikipedia-w",
-            FontAwesomeBrands.IconWindows => "fab fa-windows",
-            FontAwesomeBrands.IconWix => "fab fa-wix",
-            FontAwesomeBrands.IconWizardsOfTheCoast => "fab fa-wizards-of-the-coast",
-            FontAwesomeBrands.IconWolfPackBattalion => "fab fa-wolf-pack-battalion",
-            FontAwesomeBrands.IconWordpress => "fab fa-wordpress",
-            FontAwesomeBrands.IconWordpressSimple => "fab fa-wordpress-simple",
-            FontAwesomeBrands.IconWpbeginner => "fab fa-wpbeginner",
-            FontAwesomeBrands.IconWpexplorer => "fab fa-wpexplorer",
-            FontAwesomeBrands.IconWpforms => "fab fa-wpforms",
-            FontAwesomeBrands.IconWpressr => "fab fa-wpressr",
-            FontAwesomeBrands.IconXbox => "fab fa-xbox",
-            FontAwesomeBrands.IconXing => "fab fa-xing",
-            FontAwesomeBrands.IconXingSquare => "fab fa-xing-square",
-            FontAwesomeBrands.IconYahoo => "fab fa-yahoo",
-            FontAwesomeBrands.IconYammer => "fab fa-yammer",
-            FontAwesomeBrands.IconYandex => "fab fa-yandex",
-            FontAwesomeBrands.IconYandexInternational => "fab fa-yandex-international",
-            FontAwesomeBrands.IconYarn => "fab fa-yarn",
-            FontAwesomeBrands.IconYCombinator => "fab fa-y-combinator",
-            FontAwesomeBrands.IconYelp => "fab fa-yelp",
-            FontAwesomeBrands.IconYoast => "fab fa-yoast",
-            FontAwesomeBrands.IconYoutube => "fab fa-youtube",
-            FontAwesomeBrands.IconYoutubeSquare => "fab fa-youtube-square",
-            FontAwesomeBrands.IconZhihu => "fab fa-zhihu",
+            FontAwesomeBrands.F500Px => "fab fa-500px",
+            FontAwesomeBrands.AccessibleIcon => "fab fa-accessible-icon",
+            FontAwesomeBrands.Accusoft => "fab fa-accusoft",
+            FontAwesomeBrands.AcquisitionsIncorporated => "fab fa-acquisitions-incorporated",
+            FontAwesomeBrands.Adn => "fab fa-adn",
+            FontAwesomeBrands.Adobe => "fab fa-adobe",
+            FontAwesomeBrands.Adversal => "fab fa-adversal",
+            FontAwesomeBrands.Affiliatetheme => "fab fa-affiliatetheme",
+            FontAwesomeBrands.Airbnb => "fab fa-airbnb",
+            FontAwesomeBrands.Algolia => "fab fa-algolia",
+            FontAwesomeBrands.Alipay => "fab fa-alipay",
+            FontAwesomeBrands.Amazon => "fab fa-amazon",
+            FontAwesomeBrands.AmazonPay => "fab fa-amazon-pay",
+            FontAwesomeBrands.Amilia => "fab fa-amilia",
+            FontAwesomeBrands.Android => "fab fa-android",
+            FontAwesomeBrands.Angellist => "fab fa-angellist",
+            FontAwesomeBrands.Angrycreative => "fab fa-angrycreative",
+            FontAwesomeBrands.Angular => "fab fa-angular",
+            FontAwesomeBrands.Apper => "fab fa-apper",
+            FontAwesomeBrands.Apple => "fab fa-apple",
+            FontAwesomeBrands.ApplePay => "fab fa-apple-pay",
+            FontAwesomeBrands.AppStore => "fab fa-app-store",
+            FontAwesomeBrands.AppStoreIos => "fab fa-app-store-ios",
+            FontAwesomeBrands.Artstation => "fab fa-artstation",
+            FontAwesomeBrands.Asymmetrik => "fab fa-asymmetrik",
+            FontAwesomeBrands.Atlassian => "fab fa-atlassian",
+            FontAwesomeBrands.Audible => "fab fa-audible",
+            FontAwesomeBrands.Autoprefixer => "fab fa-autoprefixer",
+            FontAwesomeBrands.Avianex => "fab fa-avianex",
+            FontAwesomeBrands.Aviato => "fab fa-aviato",
+            FontAwesomeBrands.Aws => "fab fa-aws",
+            FontAwesomeBrands.Bandcamp => "fab fa-bandcamp",
+            FontAwesomeBrands.BattleNet => "fab fa-battle-net",
+            FontAwesomeBrands.Behance => "fab fa-behance",
+            FontAwesomeBrands.BehanceSquare => "fab fa-behance-square",
+            FontAwesomeBrands.Bimobject => "fab fa-bimobject",
+            FontAwesomeBrands.Bitbucket => "fab fa-bitbucket",
+            FontAwesomeBrands.Bitcoin => "fab fa-bitcoin",
+            FontAwesomeBrands.Bity => "fab fa-bity",
+            FontAwesomeBrands.Blackberry => "fab fa-blackberry",
+            FontAwesomeBrands.BlackTie => "fab fa-black-tie",
+            FontAwesomeBrands.Blogger => "fab fa-blogger",
+            FontAwesomeBrands.BloggerB => "fab fa-blogger-b",
+            FontAwesomeBrands.Bluetooth => "fab fa-bluetooth",
+            FontAwesomeBrands.BluetoothB => "fab fa-bluetooth-b",
+            FontAwesomeBrands.Bootstrap => "fab fa-bootstrap",
+            FontAwesomeBrands.Btc => "fab fa-btc",
+            FontAwesomeBrands.Buffer => "fab fa-buffer",
+            FontAwesomeBrands.Buromobelexperte => "fab fa-buromobelexperte",
+            FontAwesomeBrands.BuyNLarge => "fab fa-buy-n-large",
+            FontAwesomeBrands.Buysellads => "fab fa-buysellads",
+            FontAwesomeBrands.CanadianMapleLeaf => "fab fa-canadian-maple-leaf",
+            FontAwesomeBrands.CcAmazonPay => "fab fa-cc-amazon-pay",
+            FontAwesomeBrands.CcAmex => "fab fa-cc-amex",
+            FontAwesomeBrands.CcApplePay => "fab fa-cc-apple-pay",
+            FontAwesomeBrands.CcDinersClub => "fab fa-cc-diners-club",
+            FontAwesomeBrands.CcDiscover => "fab fa-cc-discover",
+            FontAwesomeBrands.CcJcb => "fab fa-cc-jcb",
+            FontAwesomeBrands.CcMastercard => "fab fa-cc-mastercard",
+            FontAwesomeBrands.CcPaypal => "fab fa-cc-paypal",
+            FontAwesomeBrands.CcStripe => "fab fa-cc-stripe",
+            FontAwesomeBrands.CcVisa => "fab fa-cc-visa",
+            FontAwesomeBrands.Centercode => "fab fa-centercode",
+            FontAwesomeBrands.Centos => "fab fa-centos",
+            FontAwesomeBrands.Chrome => "fab fa-chrome",
+            FontAwesomeBrands.Chromecast => "fab fa-chromecast",
+            FontAwesomeBrands.Cloudscale => "fab fa-cloudscale",
+            FontAwesomeBrands.Cloudsmith => "fab fa-cloudsmith",
+            FontAwesomeBrands.Cloudversify => "fab fa-cloudversify",
+            FontAwesomeBrands.Codepen => "fab fa-codepen",
+            FontAwesomeBrands.Codiepie => "fab fa-codiepie",
+            FontAwesomeBrands.Confluence => "fab fa-confluence",
+            FontAwesomeBrands.Connectdevelop => "fab fa-connectdevelop",
+            FontAwesomeBrands.Contao => "fab fa-contao",
+            FontAwesomeBrands.CottonBureau => "fab fa-cotton-bureau",
+            FontAwesomeBrands.Cpanel => "fab fa-cpanel",
+            FontAwesomeBrands.CreativeCommons => "fab fa-creative-commons",
+            FontAwesomeBrands.CreativeCommonsBy => "fab fa-creative-commons-by",
+            FontAwesomeBrands.CreativeCommonsNc => "fab fa-creative-commons-nc",
+            FontAwesomeBrands.CreativeCommonsNcEu => "fab fa-creative-commons-nc-eu",
+            FontAwesomeBrands.CreativeCommonsNcJp => "fab fa-creative-commons-nc-jp",
+            FontAwesomeBrands.CreativeCommonsNd => "fab fa-creative-commons-nd",
+            FontAwesomeBrands.CreativeCommonsPd => "fab fa-creative-commons-pd",
+            FontAwesomeBrands.CreativeCommonsPdAlt => "fab fa-creative-commons-pd-alt",
+            FontAwesomeBrands.CreativeCommonsRemix => "fab fa-creative-commons-remix",
+            FontAwesomeBrands.CreativeCommonsSa => "fab fa-creative-commons-sa",
+            FontAwesomeBrands.CreativeCommonsSampling => "fab fa-creative-commons-sampling",
+            FontAwesomeBrands.CreativeCommonsSamplingPlus => "fab fa-creative-commons-sampling-plus",
+            FontAwesomeBrands.CreativeCommonsShare => "fab fa-creative-commons-share",
+            FontAwesomeBrands.CreativeCommonsZero => "fab fa-creative-commons-zero",
+            FontAwesomeBrands.CriticalRole => "fab fa-critical-role",
+            FontAwesomeBrands.Css3 => "fab fa-css3",
+            FontAwesomeBrands.Css3Alt => "fab fa-css3-alt",
+            FontAwesomeBrands.Cuttlefish => "fab fa-cuttlefish",
+            FontAwesomeBrands.Dailymotion => "fab fa-dailymotion",
+            FontAwesomeBrands.DAndD => "fab fa-d-and-d",
+            FontAwesomeBrands.DAndDBeyond => "fab fa-d-and-d-beyond",
+            FontAwesomeBrands.Dashcube => "fab fa-dashcube",
+            FontAwesomeBrands.Delicious => "fab fa-delicious",
+            FontAwesomeBrands.Deploydog => "fab fa-deploydog",
+            FontAwesomeBrands.Deskpro => "fab fa-deskpro",
+            FontAwesomeBrands.Dev => "fab fa-dev",
+            FontAwesomeBrands.Deviantart => "fab fa-deviantart",
+            FontAwesomeBrands.Dhl => "fab fa-dhl",
+            FontAwesomeBrands.Diaspora => "fab fa-diaspora",
+            FontAwesomeBrands.Digg => "fab fa-digg",
+            FontAwesomeBrands.DigitalOcean => "fab fa-digital-ocean",
+            FontAwesomeBrands.Discord => "fab fa-discord",
+            FontAwesomeBrands.Discourse => "fab fa-discourse",
+            FontAwesomeBrands.Dochub => "fab fa-dochub",
+            FontAwesomeBrands.Docker => "fab fa-docker",
+            FontAwesomeBrands.Draft2digital => "fab fa-draft2digital",
+            FontAwesomeBrands.Dribbble => "fab fa-dribbble",
+            FontAwesomeBrands.DribbbleSquare => "fab fa-dribbble-square",
+            FontAwesomeBrands.Dropbox => "fab fa-dropbox",
+            FontAwesomeBrands.Drupal => "fab fa-drupal",
+            FontAwesomeBrands.Dyalog => "fab fa-dyalog",
+            FontAwesomeBrands.Earlybirds => "fab fa-earlybirds",
+            FontAwesomeBrands.Ebay => "fab fa-ebay",
+            FontAwesomeBrands.Edge => "fab fa-edge",
+            FontAwesomeBrands.Elementor => "fab fa-elementor",
+            FontAwesomeBrands.Ello => "fab fa-ello",
+            FontAwesomeBrands.Ember => "fab fa-ember",
+            FontAwesomeBrands.Empire => "fab fa-empire",
+            FontAwesomeBrands.Envira => "fab fa-envira",
+            FontAwesomeBrands.Erlang => "fab fa-erlang",
+            FontAwesomeBrands.Ethereum => "fab fa-ethereum",
+            FontAwesomeBrands.Etsy => "fab fa-etsy",
+            FontAwesomeBrands.Evernote => "fab fa-evernote",
+            FontAwesomeBrands.Expeditedssl => "fab fa-expeditedssl",
+            FontAwesomeBrands.Facebook => "fab fa-facebook",
+            FontAwesomeBrands.FacebookF => "fab fa-facebook-f",
+            FontAwesomeBrands.FacebookMessenger => "fab fa-facebook-messenger",
+            FontAwesomeBrands.FacebookSquare => "fab fa-facebook-square",
+            FontAwesomeBrands.FantasyFlightGames => "fab fa-fantasy-flight-games",
+            FontAwesomeBrands.Fedex => "fab fa-fedex",
+            FontAwesomeBrands.Fedora => "fab fa-fedora",
+            FontAwesomeBrands.Figma => "fab fa-figma",
+            FontAwesomeBrands.Firefox => "fab fa-firefox",
+            FontAwesomeBrands.FirefoxBrowser => "fab fa-firefox-browser",
+            FontAwesomeBrands.Firstdraft => "fab fa-firstdraft",
+            FontAwesomeBrands.FirstOrder => "fab fa-first-order",
+            FontAwesomeBrands.FirstOrderAlt => "fab fa-first-order-alt",
+            FontAwesomeBrands.Flickr => "fab fa-flickr",
+            FontAwesomeBrands.Flipboard => "fab fa-flipboard",
+            FontAwesomeBrands.Fly => "fab fa-fly",
+            FontAwesomeBrands.FontAwesome => "fab fa-font-awesome",
+            FontAwesomeBrands.FontAwesomeAlt => "fab fa-font-awesome-alt",
+            FontAwesomeBrands.FontAwesomeFlag => "fab fa-font-awesome-flag",
+            FontAwesomeBrands.Fonticons => "fab fa-fonticons",
+            FontAwesomeBrands.FonticonsFi => "fab fa-fonticons-fi",
+            FontAwesomeBrands.FortAwesome => "fab fa-fort-awesome",
+            FontAwesomeBrands.FortAwesomeAlt => "fab fa-fort-awesome-alt",
+            FontAwesomeBrands.Forumbee => "fab fa-forumbee",
+            FontAwesomeBrands.Foursquare => "fab fa-foursquare",
+            FontAwesomeBrands.Freebsd => "fab fa-freebsd",
+            FontAwesomeBrands.FreeCodeCamp => "fab fa-free-code-camp",
+            FontAwesomeBrands.Fulcrum => "fab fa-fulcrum",
+            FontAwesomeBrands.GalacticRepublic => "fab fa-galactic-republic",
+            FontAwesomeBrands.GalacticSenate => "fab fa-galactic-senate",
+            FontAwesomeBrands.GetPocket => "fab fa-get-pocket",
+            FontAwesomeBrands.Gg => "fab fa-gg",
+            FontAwesomeBrands.GgCircle => "fab fa-gg-circle",
+            FontAwesomeBrands.Git => "fab fa-git",
+            FontAwesomeBrands.GitAlt => "fab fa-git-alt",
+            FontAwesomeBrands.Github => "fab fa-github",
+            FontAwesomeBrands.GithubAlt => "fab fa-github-alt",
+            FontAwesomeBrands.GithubSquare => "fab fa-github-square",
+            FontAwesomeBrands.Gitkraken => "fab fa-gitkraken",
+            FontAwesomeBrands.Gitlab => "fab fa-gitlab",
+            FontAwesomeBrands.GitSquare => "fab fa-git-square",
+            FontAwesomeBrands.Gitter => "fab fa-gitter",
+            FontAwesomeBrands.Glide => "fab fa-glide",
+            FontAwesomeBrands.GlideG => "fab fa-glide-g",
+            FontAwesomeBrands.Gofore => "fab fa-gofore",
+            FontAwesomeBrands.Goodreads => "fab fa-goodreads",
+            FontAwesomeBrands.GoodreadsG => "fab fa-goodreads-g",
+            FontAwesomeBrands.Google => "fab fa-google",
+            FontAwesomeBrands.GoogleDrive => "fab fa-google-drive",
+            FontAwesomeBrands.GooglePlay => "fab fa-google-play",
+            FontAwesomeBrands.GooglePlus => "fab fa-google-plus",
+            FontAwesomeBrands.GooglePlusG => "fab fa-google-plus-g",
+            FontAwesomeBrands.GooglePlusSquare => "fab fa-google-plus-square",
+            FontAwesomeBrands.GoogleWallet => "fab fa-google-wallet",
+            FontAwesomeBrands.Gratipay => "fab fa-gratipay",
+            FontAwesomeBrands.Grav => "fab fa-grav",
+            FontAwesomeBrands.Gripfire => "fab fa-gripfire",
+            FontAwesomeBrands.Grunt => "fab fa-grunt",
+            FontAwesomeBrands.Gulp => "fab fa-gulp",
+            FontAwesomeBrands.HackerNews => "fab fa-hacker-news",
+            FontAwesomeBrands.HackerNewsSquare => "fab fa-hacker-news-square",
+            FontAwesomeBrands.Hackerrank => "fab fa-hackerrank",
+            FontAwesomeBrands.Hips => "fab fa-hips",
+            FontAwesomeBrands.HireAHelper => "fab fa-hire-a-helper",
+            FontAwesomeBrands.Hooli => "fab fa-hooli",
+            FontAwesomeBrands.Hornbill => "fab fa-hornbill",
+            FontAwesomeBrands.Hotjar => "fab fa-hotjar",
+            FontAwesomeBrands.Houzz => "fab fa-houzz",
+            FontAwesomeBrands.Html5 => "fab fa-html5",
+            FontAwesomeBrands.Hubspot => "fab fa-hubspot",
+            FontAwesomeBrands.Ideal => "fab fa-ideal",
+            FontAwesomeBrands.Imdb => "fab fa-imdb",
+            FontAwesomeBrands.Instagram => "fab fa-instagram",
+            FontAwesomeBrands.InstagramSquare => "fab fa-instagram-square",
+            FontAwesomeBrands.Intercom => "fab fa-intercom",
+            FontAwesomeBrands.InternetExplorer => "fab fa-internet-explorer",
+            FontAwesomeBrands.Invision => "fab fa-invision",
+            FontAwesomeBrands.Ioxhost => "fab fa-ioxhost",
+            FontAwesomeBrands.ItchIo => "fab fa-itch-io",
+            FontAwesomeBrands.Itunes => "fab fa-itunes",
+            FontAwesomeBrands.ItunesNote => "fab fa-itunes-note",
+            FontAwesomeBrands.Java => "fab fa-java",
+            FontAwesomeBrands.JediOrder => "fab fa-jedi-order",
+            FontAwesomeBrands.Jenkins => "fab fa-jenkins",
+            FontAwesomeBrands.Jira => "fab fa-jira",
+            FontAwesomeBrands.Joget => "fab fa-joget",
+            FontAwesomeBrands.Joomla => "fab fa-joomla",
+            FontAwesomeBrands.Js => "fab fa-js",
+            FontAwesomeBrands.Jsfiddle => "fab fa-jsfiddle",
+            FontAwesomeBrands.JsSquare => "fab fa-js-square",
+            FontAwesomeBrands.Kaggle => "fab fa-kaggle",
+            FontAwesomeBrands.Keybase => "fab fa-keybase",
+            FontAwesomeBrands.Keycdn => "fab fa-keycdn",
+            FontAwesomeBrands.Kickstarter => "fab fa-kickstarter",
+            FontAwesomeBrands.KickstarterK => "fab fa-kickstarter-k",
+            FontAwesomeBrands.Korvue => "fab fa-korvue",
+            FontAwesomeBrands.Laravel => "fab fa-laravel",
+            FontAwesomeBrands.Lastfm => "fab fa-lastfm",
+            FontAwesomeBrands.LastfmSquare => "fab fa-lastfm-square",
+            FontAwesomeBrands.Leanpub => "fab fa-leanpub",
+            FontAwesomeBrands.Less => "fab fa-less",
+            FontAwesomeBrands.Line => "fab fa-line",
+            FontAwesomeBrands.Linkedin => "fab fa-linkedin",
+            FontAwesomeBrands.LinkedinIn => "fab fa-linkedin-in",
+            FontAwesomeBrands.Linode => "fab fa-linode",
+            FontAwesomeBrands.Linux => "fab fa-linux",
+            FontAwesomeBrands.Lyft => "fab fa-lyft",
+            FontAwesomeBrands.Magento => "fab fa-magento",
+            FontAwesomeBrands.Mailchimp => "fab fa-mailchimp",
+            FontAwesomeBrands.Mandalorian => "fab fa-mandalorian",
+            FontAwesomeBrands.Markdown => "fab fa-markdown",
+            FontAwesomeBrands.Mastodon => "fab fa-mastodon",
+            FontAwesomeBrands.Maxcdn => "fab fa-maxcdn",
+            FontAwesomeBrands.Mdb => "fab fa-mdb",
+            FontAwesomeBrands.Medapps => "fab fa-medapps",
+            FontAwesomeBrands.Medium => "fab fa-medium",
+            FontAwesomeBrands.MediumM => "fab fa-medium-m",
+            FontAwesomeBrands.Medrt => "fab fa-medrt",
+            FontAwesomeBrands.Meetup => "fab fa-meetup",
+            FontAwesomeBrands.Megaport => "fab fa-megaport",
+            FontAwesomeBrands.Mendeley => "fab fa-mendeley",
+            FontAwesomeBrands.Microblog => "fab fa-microblog",
+            FontAwesomeBrands.Microsoft => "fab fa-microsoft",
+            FontAwesomeBrands.Mix => "fab fa-mix",
+            FontAwesomeBrands.Mixcloud => "fab fa-mixcloud",
+            FontAwesomeBrands.Mixer => "fab fa-mixer",
+            FontAwesomeBrands.Mizuni => "fab fa-mizuni",
+            FontAwesomeBrands.Modx => "fab fa-modx",
+            FontAwesomeBrands.Monero => "fab fa-monero",
+            FontAwesomeBrands.Napster => "fab fa-napster",
+            FontAwesomeBrands.Neos => "fab fa-neos",
+            FontAwesomeBrands.Nimblr => "fab fa-nimblr",
+            FontAwesomeBrands.Node => "fab fa-node",
+            FontAwesomeBrands.NodeJs => "fab fa-node-js",
+            FontAwesomeBrands.Npm => "fab fa-npm",
+            FontAwesomeBrands.Ns8 => "fab fa-ns8",
+            FontAwesomeBrands.Nutritionix => "fab fa-nutritionix",
+            FontAwesomeBrands.Odnoklassniki => "fab fa-odnoklassniki",
+            FontAwesomeBrands.OdnoklassnikiSquare => "fab fa-odnoklassniki-square",
+            FontAwesomeBrands.OldRepublic => "fab fa-old-republic",
+            FontAwesomeBrands.Opencart => "fab fa-opencart",
+            FontAwesomeBrands.Openid => "fab fa-openid",
+            FontAwesomeBrands.Opera => "fab fa-opera",
+            FontAwesomeBrands.OptinMonster => "fab fa-optin-monster",
+            FontAwesomeBrands.Orcid => "fab fa-orcid",
+            FontAwesomeBrands.Osi => "fab fa-osi",
+            FontAwesomeBrands.Page4 => "fab fa-page4",
+            FontAwesomeBrands.Pagelines => "fab fa-pagelines",
+            FontAwesomeBrands.Palfed => "fab fa-palfed",
+            FontAwesomeBrands.Patreon => "fab fa-patreon",
+            FontAwesomeBrands.Paypal => "fab fa-paypal",
+            FontAwesomeBrands.PennyArcade => "fab fa-penny-arcade",
+            FontAwesomeBrands.Periscope => "fab fa-periscope",
+            FontAwesomeBrands.Phabricator => "fab fa-phabricator",
+            FontAwesomeBrands.PhoenixFramework => "fab fa-phoenix-framework",
+            FontAwesomeBrands.PhoenixSquadron => "fab fa-phoenix-squadron",
+            FontAwesomeBrands.Php => "fab fa-php",
+            FontAwesomeBrands.PiedPiper => "fab fa-pied-piper",
+            FontAwesomeBrands.PiedPiperAlt => "fab fa-pied-piper-alt",
+            FontAwesomeBrands.PiedPiperHat => "fab fa-pied-piper-hat",
+            FontAwesomeBrands.PiedPiperPp => "fab fa-pied-piper-pp",
+            FontAwesomeBrands.PiedPiperSquare => "fab fa-pied-piper-square",
+            FontAwesomeBrands.Pinterest => "fab fa-pinterest",
+            FontAwesomeBrands.PinterestP => "fab fa-pinterest-p",
+            FontAwesomeBrands.PinterestSquare => "fab fa-pinterest-square",
+            FontAwesomeBrands.Playstation => "fab fa-playstation",
+            FontAwesomeBrands.ProductHunt => "fab fa-product-hunt",
+            FontAwesomeBrands.Pushed => "fab fa-pushed",
+            FontAwesomeBrands.Python => "fab fa-python",
+            FontAwesomeBrands.Qq => "fab fa-qq",
+            FontAwesomeBrands.Quinscape => "fab fa-quinscape",
+            FontAwesomeBrands.Quora => "fab fa-quora",
+            FontAwesomeBrands.RaspberryPi => "fab fa-raspberry-pi",
+            FontAwesomeBrands.Ravelry => "fab fa-ravelry",
+            FontAwesomeBrands.React => "fab fa-react",
+            FontAwesomeBrands.Reacteurope => "fab fa-reacteurope",
+            FontAwesomeBrands.Readme => "fab fa-readme",
+            FontAwesomeBrands.Rebel => "fab fa-rebel",
+            FontAwesomeBrands.Reddit => "fab fa-reddit",
+            FontAwesomeBrands.RedditAlien => "fab fa-reddit-alien",
+            FontAwesomeBrands.RedditSquare => "fab fa-reddit-square",
+            FontAwesomeBrands.Redhat => "fab fa-redhat",
+            FontAwesomeBrands.RedRiver => "fab fa-red-river",
+            FontAwesomeBrands.Renren => "fab fa-renren",
+            FontAwesomeBrands.Replyd => "fab fa-replyd",
+            FontAwesomeBrands.Researchgate => "fab fa-researchgate",
+            FontAwesomeBrands.Resolving => "fab fa-resolving",
+            FontAwesomeBrands.Rev => "fab fa-rev",
+            FontAwesomeBrands.Rocketchat => "fab fa-rocketchat",
+            FontAwesomeBrands.Rockrms => "fab fa-rockrms",
+            FontAwesomeBrands.RProject => "fab fa-r-project",
+            FontAwesomeBrands.Safari => "fab fa-safari",
+            FontAwesomeBrands.Salesforce => "fab fa-salesforce",
+            FontAwesomeBrands.Sass => "fab fa-sass",
+            FontAwesomeBrands.Schlix => "fab fa-schlix",
+            FontAwesomeBrands.Scribd => "fab fa-scribd",
+            FontAwesomeBrands.Searchengin => "fab fa-searchengin",
+            FontAwesomeBrands.Sellcast => "fab fa-sellcast",
+            FontAwesomeBrands.Sellsy => "fab fa-sellsy",
+            FontAwesomeBrands.Servicestack => "fab fa-servicestack",
+            FontAwesomeBrands.Shirtsinbulk => "fab fa-shirtsinbulk",
+            FontAwesomeBrands.Shopify => "fab fa-shopify",
+            FontAwesomeBrands.Shopware => "fab fa-shopware",
+            FontAwesomeBrands.Simplybuilt => "fab fa-simplybuilt",
+            FontAwesomeBrands.Sistrix => "fab fa-sistrix",
+            FontAwesomeBrands.Sith => "fab fa-sith",
+            FontAwesomeBrands.Sketch => "fab fa-sketch",
+            FontAwesomeBrands.Skyatlas => "fab fa-skyatlas",
+            FontAwesomeBrands.Skype => "fab fa-skype",
+            FontAwesomeBrands.Slack => "fab fa-slack",
+            FontAwesomeBrands.SlackHash => "fab fa-slack-hash",
+            FontAwesomeBrands.Slideshare => "fab fa-slideshare",
+            FontAwesomeBrands.Snapchat => "fab fa-snapchat",
+            FontAwesomeBrands.SnapchatGhost => "fab fa-snapchat-ghost",
+            FontAwesomeBrands.SnapchatSquare => "fab fa-snapchat-square",
+            FontAwesomeBrands.Soundcloud => "fab fa-soundcloud",
+            FontAwesomeBrands.Sourcetree => "fab fa-sourcetree",
+            FontAwesomeBrands.Speakap => "fab fa-speakap",
+            FontAwesomeBrands.SpeakerDeck => "fab fa-speaker-deck",
+            FontAwesomeBrands.Spotify => "fab fa-spotify",
+            FontAwesomeBrands.Squarespace => "fab fa-squarespace",
+            FontAwesomeBrands.StackExchange => "fab fa-stack-exchange",
+            FontAwesomeBrands.StackOverflow => "fab fa-stack-overflow",
+            FontAwesomeBrands.Stackpath => "fab fa-stackpath",
+            FontAwesomeBrands.Staylinked => "fab fa-staylinked",
+            FontAwesomeBrands.Steam => "fab fa-steam",
+            FontAwesomeBrands.SteamSquare => "fab fa-steam-square",
+            FontAwesomeBrands.SteamSymbol => "fab fa-steam-symbol",
+            FontAwesomeBrands.StickerMule => "fab fa-sticker-mule",
+            FontAwesomeBrands.Strava => "fab fa-strava",
+            FontAwesomeBrands.Stripe => "fab fa-stripe",
+            FontAwesomeBrands.StripeS => "fab fa-stripe-s",
+            FontAwesomeBrands.Studiovinari => "fab fa-studiovinari",
+            FontAwesomeBrands.Stumbleupon => "fab fa-stumbleupon",
+            FontAwesomeBrands.StumbleuponCircle => "fab fa-stumbleupon-circle",
+            FontAwesomeBrands.Superpowers => "fab fa-superpowers",
+            FontAwesomeBrands.Supple => "fab fa-supple",
+            FontAwesomeBrands.Suse => "fab fa-suse",
+            FontAwesomeBrands.Swift => "fab fa-swift",
+            FontAwesomeBrands.Symfony => "fab fa-symfony",
+            FontAwesomeBrands.Teamspeak => "fab fa-teamspeak",
+            FontAwesomeBrands.Telegram => "fab fa-telegram",
+            FontAwesomeBrands.TelegramPlane => "fab fa-telegram-plane",
+            FontAwesomeBrands.TencentWeibo => "fab fa-tencent-weibo",
+            FontAwesomeBrands.Themeco => "fab fa-themeco",
+            FontAwesomeBrands.Themeisle => "fab fa-themeisle",
+            FontAwesomeBrands.TheRedYeti => "fab fa-the-red-yeti",
+            FontAwesomeBrands.ThinkPeaks => "fab fa-think-peaks",
+            FontAwesomeBrands.TradeFederation => "fab fa-trade-federation",
+            FontAwesomeBrands.Trello => "fab fa-trello",
+            FontAwesomeBrands.Tripadvisor => "fab fa-tripadvisor",
+            FontAwesomeBrands.Tumblr => "fab fa-tumblr",
+            FontAwesomeBrands.TumblrSquare => "fab fa-tumblr-square",
+            FontAwesomeBrands.Twitch => "fab fa-twitch",
+            FontAwesomeBrands.Twitter => "fab fa-twitter",
+            FontAwesomeBrands.TwitterSquare => "fab fa-twitter-square",
+            FontAwesomeBrands.Typo3 => "fab fa-typo3",
+            FontAwesomeBrands.Uber => "fab fa-uber",
+            FontAwesomeBrands.Ubuntu => "fab fa-ubuntu",
+            FontAwesomeBrands.Uikit => "fab fa-uikit",
+            FontAwesomeBrands.Umbraco => "fab fa-umbraco",
+            FontAwesomeBrands.Uniregistry => "fab fa-uniregistry",
+            FontAwesomeBrands.Unity => "fab fa-unity",
+            FontAwesomeBrands.Untappd => "fab fa-untappd",
+            FontAwesomeBrands.Ups => "fab fa-ups",
+            FontAwesomeBrands.Usb => "fab fa-usb",
+            FontAwesomeBrands.Usps => "fab fa-usps",
+            FontAwesomeBrands.Ussunnah => "fab fa-ussunnah",
+            FontAwesomeBrands.Vaadin => "fab fa-vaadin",
+            FontAwesomeBrands.Viacoin => "fab fa-viacoin",
+            FontAwesomeBrands.Viadeo => "fab fa-viadeo",
+            FontAwesomeBrands.ViadeoSquare => "fab fa-viadeo-square",
+            FontAwesomeBrands.Viber => "fab fa-viber",
+            FontAwesomeBrands.Vimeo => "fab fa-vimeo",
+            FontAwesomeBrands.VimeoSquare => "fab fa-vimeo-square",
+            FontAwesomeBrands.VimeoV => "fab fa-vimeo-v",
+            FontAwesomeBrands.Vine => "fab fa-vine",
+            FontAwesomeBrands.Vk => "fab fa-vk",
+            FontAwesomeBrands.Vnv => "fab fa-vnv",
+            FontAwesomeBrands.Vuejs => "fab fa-vuejs",
+            FontAwesomeBrands.Waze => "fab fa-waze",
+            FontAwesomeBrands.Weebly => "fab fa-weebly",
+            FontAwesomeBrands.Weibo => "fab fa-weibo",
+            FontAwesomeBrands.Weixin => "fab fa-weixin",
+            FontAwesomeBrands.Whatsapp => "fab fa-whatsapp",
+            FontAwesomeBrands.WhatsappSquare => "fab fa-whatsapp-square",
+            FontAwesomeBrands.Whmcs => "fab fa-whmcs",
+            FontAwesomeBrands.WikipediaW => "fab fa-wikipedia-w",
+            FontAwesomeBrands.Windows => "fab fa-windows",
+            FontAwesomeBrands.Wix => "fab fa-wix",
+            FontAwesomeBrands.WizardsOfTheCoast => "fab fa-wizards-of-the-coast",
+            FontAwesomeBrands.WolfPackBattalion => "fab fa-wolf-pack-battalion",
+            FontAwesomeBrands.Wordpress => "fab fa-wordpress",
+            FontAwesomeBrands.WordpressSimple => "fab fa-wordpress-simple",
+            FontAwesomeBrands.Wpbeginner => "fab fa-wpbeginner",
+            FontAwesomeBrands.Wpexplorer => "fab fa-wpexplorer",
+            FontAwesomeBrands.Wpforms => "fab fa-wpforms",
+            FontAwesomeBrands.Wpressr => "fab fa-wpressr",
+            FontAwesomeBrands.Xbox => "fab fa-xbox",
+            FontAwesomeBrands.Xing => "fab fa-xing",
+            FontAwesomeBrands.XingSquare => "fab fa-xing-square",
+            FontAwesomeBrands.Yahoo => "fab fa-yahoo",
+            FontAwesomeBrands.Yammer => "fab fa-yammer",
+            FontAwesomeBrands.Yandex => "fab fa-yandex",
+            FontAwesomeBrands.YandexInternational => "fab fa-yandex-international",
+            FontAwesomeBrands.Yarn => "fab fa-yarn",
+            FontAwesomeBrands.YCombinator => "fab fa-y-combinator",
+            FontAwesomeBrands.Yelp => "fab fa-yelp",
+            FontAwesomeBrands.Yoast => "fab fa-yoast",
+            FontAwesomeBrands.Youtube => "fab fa-youtube",
+            FontAwesomeBrands.YoutubeSquare => "fab fa-youtube-square",
+            FontAwesomeBrands.Zhihu => "fab fa-zhihu",
             _ => throw new ArgumentOutOfRangeException(nameof(icon))
         };
 

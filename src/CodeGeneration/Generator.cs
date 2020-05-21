@@ -47,6 +47,28 @@ namespace System.Enums.CodeGeneration
             }
             sb.AppendLine(@"    }");
             sb.AppendLine(@"    ");
+            if (fontInfo.Groups != null)
+            {
+                sb.AppendLine($"    /// <summary>");
+                sb.AppendLine($"    ///     Represents style groups in the Font-Awesome icons library.");
+                sb.AppendLine($"    /// </summary>");
+                sb.AppendLine($"    /// ");
+                sb.AppendLine($"    public enum {enumName}Style : uint");
+                sb.AppendLine(@"    {");
+                foreach (GroupInfo group in fontInfo.Groups.Values.OrderBy(x => x.Id))
+                {
+                    sb.AppendLine($"        /// <summary>");
+                    sb.AppendLine($"        ///     {group.Title} (\"{group.ClassName}\") style.");
+                    sb.AppendLine($"        /// </summary>");
+                    sb.AppendLine($"        /// ");
+                    sb.AppendLine($"        [Display(Name = \"{group.Title}\", Description = \"{group.ClassName}\")]");
+                    sb.AppendLine($"        {group.Name} = '{group.Postfix}',");
+                    sb.AppendLine($"        ");
+                }
+                sb.AppendLine(@"    }");
+                sb.AppendLine(@"    ");
+                sb.AppendExtensions(fontInfo.Groups.Values, enumName);
+            }
             sb.AppendExtensions(fontInfo.Icons.Values, enumName, groupClassName: String.Empty);
             sb.AppendLine(@"}");
             return sb.ToString();
@@ -77,7 +99,7 @@ namespace System.Enums.CodeGeneration
                 sb.AppendLine($"        ///     {icon.Title} (\"{icon.ClassName}\", \\u{icon.Character}) icon.");
                 sb.AppendLine($"        /// </summary>");
                 sb.AppendLine($"        /// ");
-                sb.AppendLine($"        [Display(Name = \"{icon.Title}\", Description = \"{groupInfo.ClassName} {icon.ClassName}\")]");
+                sb.AppendLine($"        [Display(Name = \"{icon.Title}\", Description = \"{groupInfo.ClassName} {icon.ClassName}\", GroupName = \"{groupInfo.Name}\")]");
                 sb.AppendLine($"        {icon.Name} = '\\u{icon.Character}',");
                 sb.AppendLine($"        ");
             }
@@ -113,7 +135,8 @@ namespace System.Enums.CodeGeneration
             sb.AppendLine(@"{");
         }
 
-        private static void AppendExtensions(this StringBuilder sb, IEnumerable<IconInfo> icons, string enumName, string groupClassName)
+        private static void AppendExtensions(this StringBuilder sb, IEnumerable<IconInfo> icons, 
+            string enumName, string groupClassName)
         {
             sb.AppendLine(@"    public static partial class Extensions");
             sb.AppendLine(@"    {");
@@ -136,6 +159,31 @@ namespace System.Enums.CodeGeneration
             sb.AppendLine(@"        /// </summary>");
             sb.AppendLine(@"        /// ");
             sb.AppendLine($"        public static char GetUnicode(this {enumName} icon) => (char)icon;");
+            sb.AppendLine(@"    }");
+        }
+
+        private static void AppendExtensions(this StringBuilder sb, IEnumerable<GroupInfo> groups, string enumName)
+        {
+            sb.AppendLine(@"    public static partial class Extensions");
+            sb.AppendLine(@"    {");
+            sb.AppendLine(@"        /// <summary>");
+            sb.AppendLine($"        ///   Gets the CSS class associated with a <see cref=\"{enumName}\"/> icon.");
+            sb.AppendLine(@"        /// </summary>");
+            sb.AppendLine(@"        /// ");
+            sb.AppendLine($"        public static string GetCss(this {enumName}Style style) => style switch");
+            sb.AppendLine(@"        {");
+            foreach (GroupInfo group in groups.OrderBy(x => x.Id))
+            {
+                sb.AppendLine($"            {enumName}Style.{group.Name} => \"{group.ClassName}\",");
+            }
+            sb.AppendLine($"            _ => throw new ArgumentOutOfRangeException(nameof(style))");
+            sb.AppendLine(@"        };");
+            sb.AppendLine("");
+            sb.AppendLine(@"        /// <summary>");
+            sb.AppendLine($"        ///   Gets the postfix char associated with a <see cref=\"{enumName}Style\"/> style.");
+            sb.AppendLine(@"        /// </summary>");
+            sb.AppendLine(@"        /// ");
+            sb.AppendLine($"        public static char GetPostfix(this {enumName}Style style) => (char)style;");
             sb.AppendLine(@"    }");
         }
     }

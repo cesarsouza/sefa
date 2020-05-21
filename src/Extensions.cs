@@ -12,6 +12,15 @@ namespace System.Enums
     /// 
     public static partial class Extensions
     {
-      
+        /// <summary>;
+        ///   Gets the CSS style definition for a <see cref="FontAwesome">icon</see>
+        ///   with a particular <see cref="FontAwesomeStyle">style</see>. Please note
+        ///   that not all styles work with every icon.
+        /// </summary>
+        /// 
+        public static string GetCss(this FontAwesome icon, FontAwesomeStyle style)
+        {
+            return $"{style.GetCss()} {icon.GetCss()}";
+        }
     }
 }

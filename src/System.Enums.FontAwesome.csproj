@@ -21,7 +21,7 @@
     <Deterministic>true</Deterministic>
     <IsPackable>true</IsPackable>
     <PackageTags>font-awesome strongly-typed enumerations</PackageTags>
-    <Version>1.1.1</Version>
+    <Version>1.2.0</Version>
     <PackageId>Sefa</PackageId>
     <AssemblyName>System.Enums.FontAwesome</AssemblyName>
     <RootNamespace>System.Enums</RootNamespace>

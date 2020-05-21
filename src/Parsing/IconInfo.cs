@@ -26,7 +26,9 @@ namespace System.Enums.Parsing
             this.Title = CultureInfo.InvariantCulture.TextInfo.ToTitleCase(id.Replace("-", " "));
             this.ClassName = $"fa-{id}";
 
-            this.Name = "Icon" + Title.Replace(" ", "");
+            this.Name = Title.Replace(" ", "");
+            if (char.IsDigit(this.Name[0]))
+                this.Name = "F" + this.Name;
         }
 
         /// <summary>

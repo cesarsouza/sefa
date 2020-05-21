@@ -21,7 +21,9 @@ namespace System.Enums.Parsing
         {
             this.Id = id;
             this.Title = CultureInfo.InvariantCulture.TextInfo.ToTitleCase(id.Replace("-", " "));
-            this.ClassName = "fa" + Id[0];
+            this.Name = this.Title.Replace(" ", "");
+            this.Postfix = Id[0];
+            this.ClassName = "fa" + this.Postfix;
         }
 
         /// <summary>
@@ -35,6 +37,19 @@ namespace System.Enums.Parsing
         /// </summary>
         /// 
         public string Title { get; set; }
+
+        /// <summary>
+        ///   Gets or sets the postfix character for a Font-Awesome style group, e.g., 
+        ///   "b" for brands. This is always the last char in <see cref="ClassName"/>.
+        /// </summary>
+        /// 
+        public char Postfix { get; set; }
+
+        /// <summary>
+        ///   Gets or sets the enumeration member name for a Font-Awesome style, e.g., "Solid".
+        /// </summary>
+        /// 
+        public string Name { get; set; }
 
         /// <summary>
         ///   Gets or sets the css class name for a Font-Awesome style group, e.g., "fab".
