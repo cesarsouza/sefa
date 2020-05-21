@@ -5,7 +5,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>César Roberto de Souza</Authors>
-    <Description>.NET Enumeration for FontAwesome icons with Display attributes.</Description>
+    <Description>Simple .NET/C# enumeration for FontAwesome icons marked with Display attributes. Can also parse FontAwesome .CSS files looking for new icons and generate C# class definitions from them.</Description>
     <Copyright>2020 (c) César Roberto de Souza</Copyright>
     <Product>System.Enums.FontAwesome</Product>
     <Company />
@@ -20,6 +20,9 @@
     <IsPackable>true</IsPackable>
     <PackageTags>font-awesome strongly-typed</PackageTags>
     <Version>1.0.0</Version>
+    <PackageId>Sefa</PackageId>
+    <AssemblyName>System.Enums.FontAwesome</AssemblyName>
+    <RootNamespace>System.Enums.FontAwesome</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
