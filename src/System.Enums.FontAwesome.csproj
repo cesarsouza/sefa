@@ -7,7 +7,7 @@
     <LangVersion>8.0</LangVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>César Roberto de Souza</Authors>
-    <Description>Simple .NET/C# enumeration for FontAwesome icons marked with Display attributes. Can also parse FontAwesome .CSS files looking for new icons and generate C# class definitions from them.</Description>
+    <Description>Simple .NET/C# enumerations for FontAwesome icons marked with Display attributes. Can also parse FontAwesome .CSS files looking for new icons and generate C# class definitions from them.</Description>
     <Copyright>2020 (c) César Roberto de Souza</Copyright>
     <Product>System.Enums.FontAwesome</Product>
     <Company />
