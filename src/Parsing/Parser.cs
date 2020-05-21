@@ -72,15 +72,7 @@ namespace System.Enums.Parsing
                 }
             }
 
-            return new FontInfo
-            {
-                CssClasses = icons.Select(x => x.ClassName).ToList(),
-                MemberNames = icons.Select(x => x.Name).ToList(),
-                Characters = icons.Select(x => x.Character).ToList(),
-                Titles = icons.Select(x => x.Title).ToList(),
-                Icons = icons.ToDictionary(x => x.Id, x => x),
-                Groups = icons.SelectMany(x => x.Groups.Values).Distinct().ToDictionary(x => x.Id, x => x)
-            };
+            return new FontInfo(icons);
         }
 
         /// <summary>

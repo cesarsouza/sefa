@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-    static async Task Main(string[] args)
+    public static async Task Main()
     {
         FontInfo fontAwesomeInfo = await Parser
             .GetAndParseAsync("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.css");
