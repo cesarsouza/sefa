@@ -4,7 +4,7 @@
 
 using System.Collections.Generic;
 
-namespace System.Enums.FontAwesome
+namespace System.Enums.Parsing
 {
     /// <summary>
     ///   Describes information about Font Awesome icons, such as the css 
@@ -12,13 +12,13 @@ namespace System.Enums.FontAwesome
     ///   its name (e.g., "CodeBranch"), and its UTF-8 character (e.g., f126).
     /// </summary>
     /// 
-    public class FontAwesomeContent
+    public class FontInfo
     {
         /// <summary>
         ///   A list containing the CSS classes for all Font-Awesome icons.
         /// </summary>
         /// 
-        public List<string> Classes { get; set; }
+        public List<string> CssClasses { get; set; }
 
         /// <summary>
         ///   A list containing the UTF-8 character representations for all Font-Awesome icons.
@@ -30,12 +30,16 @@ namespace System.Enums.FontAwesome
         ///   A list containing the enumeration names (in PascalCase) for all Font-Awesome icons.
         /// </summary>
         /// 
-        public List<string> Names { get; set; }
+        public List<string> MemberNames { get; set; }
 
         /// <summary>
         ///   A list containing the titles (in Title Case) for all Font-Awesome icons.
         /// </summary>
         /// 
         public List<string> Titles { get; set; }
+
+        public Dictionary<string, GroupInfo>? Groups { get; set; }
+
+        public Dictionary<string, IconInfo> Icons { get; set; }
     }
 }

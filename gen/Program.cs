@@ -1,19 +1,23 @@
-﻿using System.Enums.FontAwesome;
+﻿using System.Enums;
+using System.Enums.CodeGeneration;
+using System.Enums.Parsing;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace Generator
+class Program
 {
-    class Program
+    static async Task Main(string[] args)
     {
-        static async Task Main(string[] args)
+        FontInfo fontAwesomeInfo = await Parser
+            .GetAndParseAsync("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.css");
+
+        string output = Generator.GenerateCSharpClass(fontAwesomeInfo);
+        File.WriteAllText(@"..\..\..\..\src\FontAwesome.Generated.cs", output);
+
+        foreach (GroupInfo group in fontAwesomeInfo.Groups.Values)
         {
-            string source = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.css";
-
-            var content = await FontAwesomeGenerator.GetAndParseAsync(source);
-            string output = FontAwesomeGenerator.GenerateCSharpClass(content);
-
-            File.WriteAllText(@"..\..\..\..\src\FontAwesomeIcons.cs", output);
+            string groupOutput = Generator.GenerateCSharpClass(group);
+            File.WriteAllText($@"..\..\..\..\src\FontAwesome{group.Title}.Generated.cs", groupOutput);
         }
     }
 }
