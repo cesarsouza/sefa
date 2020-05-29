@@ -7,3 +7,9 @@ This super small project provides strongly-typed enumerations that can be used t
 The enumerations are defined [here](https://github.com/cesarsouza/sefa/blob/master/src/FontAwesome.Generated.cs) and are separated by style groups (e.g., [brands](https://github.com/cesarsouza/sefa/blob/master/src/FontAwesomeBrands.Generated.cs), [regular](https://github.com/cesarsouza/sefa/blob/master/src/FontAwesomeRegular.Generated.cs), [duotone](https://github.com/cesarsouza/sefa/blob/master/src/FontAwesomeDuotone.Generated.cs)). They have been [automatically generated from Font Awesome's all.css file](https://github.com/cesarsouza/sefa/blob/ff85e9708c338ef0e79462e657690f556974e8d1/gen/Program.cs#L9-L21). You can also use the library to parse other versions of Font-Awesome. The [parser and the generator are included in the library](https://github.com/cesarsouza/sefa/blob/master/src/CodeGeneration/Generator.cs).
 
 The project's source code is available under the <b>MIT</b> license. The project logo is a dubious-taste adaptation of Font-Awesome's <i>couch-solid</i> SVG icon and is therefore also available under the same CC BY 4.0 license as the original.
+
+
+-----
+
+See also:
+ - [System.Enums.GeoNames (segn)](https://github.com/cesarsouza/segn): strongly typed enumerations for the [GeoNames Geographical Database](https://www.geonames.org/).
