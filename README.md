@@ -1,5 +1,7 @@
 <img align="right" src="https://github.com/cesarsouza/sefa/raw/master/src/Resources/sefa.png" width="55" height="48"><h1><b>S</b>ystem.<b>E</b>nums.<b>F</b>ont<b>A</b>wesome (sefa)</h1>
 
+![Nuget](https://img.shields.io/nuget/v/sefa)
+
 This super small project provides strongly-typed enumerations that can be used to list icons from https://fontawesome.com/. Enumeration members are marked with [DisplayAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.displayattribute?view=netcore-3.1)s to make them suitable for being bound to user controls such as selectlists and comboboxes.
 
   <pre>PM> Install-Package <b>sefa</b></pre>
